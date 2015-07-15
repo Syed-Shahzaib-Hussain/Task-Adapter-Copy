@@ -1,0 +1,32 @@
+  <div class="header">
+    <div class="logo">
+      <a href="#"><img src="images/logo.png" alt=""/></a>
+    </div>
+    <div class="navigation">
+      <span class="menu"><img src="images/menu.png" alt=""/></span>
+      <ul class="nav1">
+        {% for page in site.pages %}
+        {% if page.title %}
+        <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+      <!-- script for menu -->
+      <script>
+        $( "span.menu" ).click(function() {
+          $( "ul.nav1" ).slideToggle( 300, function() {
+            // Animation complete.
+          });
+        });
+      </script>
+      <!-- //script for menu -->
+
+    </div>
+    <div class="search">
+      <form>
+        <input type="search" value="SEARCH" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'SEARCH';}" required="">
+        <input type="submit" value=" ">
+      </form>
+    </div>
+    <div class="clearfix"></div>
+  </div>

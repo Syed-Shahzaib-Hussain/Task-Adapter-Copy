@@ -1,0 +1,16 @@
+# Site settings
+title: TaskAdapter
+email: support@taskadapter.com
+description: > # this means to ignore newlines until "baseurl:"
+ Transfer tasks between any of the following systems:
+ Basecamp, Basecamp Classic, ChiliProject, GitHub, JIRA, JIRA OnDemand, MantisBT,      Microsoft Project, Redmine.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://taskadapter.com" # the base hostname & protocol for your site
+
+# WordPress usually follows this format for URLs:  http://domain.com/year/month/day/title
+# In order to have this same format in Jekyll, add the following line to _config.yml
+permalink:    /:year/:month/:day/:title/
+
+# Build settings
+markdown: kramdown

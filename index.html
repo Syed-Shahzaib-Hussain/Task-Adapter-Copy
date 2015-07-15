@@ -1,67 +1,15 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Blocky UI Kit a Flat Bootstrap Responsive Website Template | Home :: w3layouts</title>
-	<!--fonts-->
-		<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
-	<!--//fonts-->
-		<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-		<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-	<!-- for-mobile-apps -->
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<meta name="keywords" content="Blocky UI Kit Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
-		Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
-		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-	<!-- //for-mobile-apps -->
-	<!-- js -->
-		<script type="text/javascript" src="js/jquery.min.js"></script>
-	<!-- js -->
-</head>
-<body>
-<!-- content -->
-<div class="content">
-	<div class="container">
-		<div class="header">
-			<div class="logo">
-				<a href="#"><img src="images/logo.png" alt=""/></a>
-			</div>
-			<div class="navigation">
-				<span class="menu"><img src="images/menu.png" alt=""/></span>
-								<ul class="nav1">
-									<li><a class="active" href="index.html">HOME</a></li>
-									<li><a href="#">USER GUIDE</a></li>
-									<li><a href="#">DOWNLOAD</a></li>
-									<li><a href="#">BUY</a></li>
-									<li><a href="#">BLOG</a></li>
-									<li><a href="#">CONTACT</a></li>
-								</ul>
-								<!-- script for menu -->
-									<script> 
-										$( "span.menu" ).click(function() {
-										$( "ul.nav1" ).slideToggle( 300, function() {
-										 // Animation complete.
-										});
-										});
-									</script>
-								<!-- //script for menu -->
+---
+layout: default
+---
 
-			</div>
-			<div class="search">
-				<form>
-					<input type="search" value="SEARCH" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'SEARCH';}" required="">
-					<input type="submit" value=" ">
-				</form>
-			</div>
-			<div class="clearfix"></div>
-		</div>
+<!--<div class="content">-->
+	<!--<div class="container">-->
 		<div class="content-top">
 			<div class="wrap">
 				<div class="col-md-5 content-left">
-					<h1>Task Adapter</h1>
+					<h1>{{ site.title }}</h1>
 					<div class="border"></div>
-					<p> Transfer tasks between any of the following systems:
-					Basecamp, Basecamp Classic, ChiliProject, GitHub, JIRA, JIRA OnDemand, MantisBT,      Microsoft Project, Redmine.</p>
+					<p>{{ site.description }}</p>
 
 					<a href="#" class="hvr-rectangle-out button">GET STARTED</a>
 					<a href="#"class="hvr-rectangle-in button more-mar">FEATURES</a>
@@ -273,12 +221,5 @@
 			</div>
 			<div class="clearfix"></div>
 		</div>
-		<div class="footer">
-			<p>Copyright &copy; 2015 Blocky UI Kit. Template by <a href="http://w3layouts.com/"> W3layouts</a></p>
-		</div>
-	</div>
-</div>
-	
-<!-- //content -->
-</body>
-</html>
+	<!--</div>-->
+<!--</div>-->

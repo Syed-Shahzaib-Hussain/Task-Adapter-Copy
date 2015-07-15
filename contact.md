@@ -1,0 +1,31 @@
+---
+layout: page
+title: Contact
+permalink: /contact/
+
+status: publish
+published: true
+author:
+  display_name: admin
+  login: admin
+  email: alskor@gmail.com
+  url: ''
+author_login: admin
+author_email: alskor@gmail.com
+wordpress_id: 21
+wordpress_url: http://www.taskadapter.com/wp/?page_id=21
+date: '2012-05-24 05:27:39 -0700'
+date_gmt: '2012-05-24 05:27:39 -0700'
+categories: []
+tags: []
+comments: []
+---
+
+## Address
+
+3124 21st street.
+San Francisco, CA. USA. 94110
+
+## Email
+
+<a href="mailto:support%40taskadapter.com">{{ site.email }}</a>
