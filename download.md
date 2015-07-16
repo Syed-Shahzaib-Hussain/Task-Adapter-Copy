@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Download
+permalink: /download/
 status: publish
 published: true
-title: Download
 author:
   display_name: admin
   login: admin

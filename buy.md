@@ -1,8 +1,10 @@
 ---
 layout: page
+title: Buy
+permalink: /buy/
 status: publish
 published: true
-title: Buy
+
 author:
   display_name: admin
   login: admin

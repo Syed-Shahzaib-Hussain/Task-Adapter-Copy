@@ -2,9 +2,9 @@
 layout: page
 title: Contact
 permalink: /contact/
-
 status: publish
 published: true
+
 author:
   display_name: admin
   login: admin
@@ -20,12 +20,12 @@ categories: []
 tags: []
 comments: []
 ---
+## Email
+
+<a href="mailto:{{ site.email }}">Send us an email</a>
 
 ## Address
 
 3124 21st street.
 San Francisco, CA. USA. 94110
 
-## Email
-
-<a href="mailto:support%40taskadapter.com">{{ site.email }}</a>
