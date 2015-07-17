@@ -3,6 +3,7 @@ layout: page
 status: publish
 published: true
 title: Blog
+permalink: /blog/
 author:
   display_name: admin
   login: admin
