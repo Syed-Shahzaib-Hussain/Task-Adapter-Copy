@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: /contacts/
 status: publish
+weight: 10
+
 published: true
 
 author:

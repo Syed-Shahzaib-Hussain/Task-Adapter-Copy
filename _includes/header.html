@@ -5,9 +5,10 @@
     <div class="navigation">
       <span class="menu"><img src="images/menu.png" alt=""/></span>
       <ul class="nav1">
-        {% for page in site.pages %}
-        {% if page.title %}
-        <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+        {% assign pages = site.pages | sort:"weight"  %}
+        {% for p in pages %}
+        {% if p.title %}
+        <li><a  {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>
         {% endif %}
         {% endfor %}
       </ul>

@@ -4,6 +4,8 @@ status: publish
 published: true
 title: Blog
 permalink: /blog/
+weight: 30
+
 author:
   display_name: admin
   login: admin
