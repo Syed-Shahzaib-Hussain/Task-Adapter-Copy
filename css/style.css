@@ -208,37 +208,6 @@ width: 32%;
 height: 4px;
 margin:0 auto;
 }
-.user-form h3{
-margin:0 0 10px 0;
-color:#424448;
-font-size:14px;
-font-weight:bold;
-}
-.user-form form input[type="text"],.user-form form input[type="password"] {
-margin: 0 0 24px 0;
-background:#fcfcfc;
-width: 100%;
-padding: 12px 15px;
-font-size: 14px;
-font-weight: bold;
-border: 1px solid #ebeced;
-outline: none;
-color:#D7D7D7;
-}
-.user-form ul{
-margin:0;
-padding:0;
-}
-.user-form ul li{
-list-style-type:none;
-display:inline-block;
-float: left;
-width: 30%;
-margin-left: 5%;
-}
-.user-form ul li:nth-child(1){
-margin-left:0;
-}
 input.text_box {
   background: #fcfcfc;
   border: 1px solid #ebeced;
@@ -329,58 +298,6 @@ width:46%;
 .con-btm-right {
   padding-right: 0;
 }
-.user-login form input[type="text"], .user-login form input[type="password"] {
-  margin: 0 0 24px 0;
-  background: #fcfcfc;
-  width: 100%;
-  padding: 12px 15px;
-  font-size: 14px;
-  font-weight: bold;
-  border: 1px solid #ebeced;
-  outline: none;
-  color: #D7D7D7;
-}
-.user-login form{
-  margin-top: 35px;
-}
-.user-left i {
-  font-style: normal;
-  vertical-align: text-bottom;
-  font-size: 14px;
-  font-weight: bold;
-  margin-left: 5px;
-}
-.user-left {
-  width: 61%;
-  margin-top: 10px;
-  float: left;
-}
-.user-right  {
-  width: 39%;
-  float: left;
-}
-.user-right input[type="submit"] {
-  background: #424448;
-  font-weight: bold;
-  font-size: 16px;
-  color: #ffffff;
-  padding: 10px 25px;
-  border: none;
-transition:0.5s all;
-	-webkit-transition:0.5s all;
-	-moz-transition:0.5s all;
-	-o-transition:0.5s all;
-	-ms-transition:0.5s all;
-}
-.user-right input[type="submit"]:hover {
-background:#f27b47;
-transition:0.5s all;
-	-webkit-transition:0.5s all;
-	-moz-transition:0.5s all;
-	-o-transition:0.5s all;
-	-ms-transition:0.5s all;
-}
-
 .mail-list{
   background: #fff;
   padding: 42px 20px;
@@ -1255,7 +1172,7 @@ a.hvr-rectangle-in:hover:before,a.hvr-rectangle-in:focus:before,a.hvr-rectangle-
 	.register-left {
 	  width: 29%;
 	}
-	.reg-header h2,.graph-header h3,.shop-header h3,.user-login h2 {
+	.reg-header h2,.graph-header h3,.shop-header h3 {
 	  font-size: 20px;
 	}  
 	.form-right input[type="submit"] {
@@ -1510,15 +1427,6 @@ a.hvr-rectangle-in:hover:before,a.hvr-rectangle-in:focus:before,a.hvr-rectangle-
 	.shop-count p {
 	  padding: 13px 0px;
 	}
-	.user-right input[type="submit"] {
-	  font-size: 14px;
-	  }
-	.user-right {
-	  width: 25%;
-	}
-	.user-left {
-	  width: 75%;
-	  }
 	.sig-up a {
 	  font-size: 14px;
 	}
@@ -1583,12 +1491,6 @@ a.hvr-rectangle-in:hover:before,a.hvr-rectangle-in:focus:before,a.hvr-rectangle-
 	}
 	.shopping-chart a.check-out {
 	  margin-left: 275px;
-	}
-	.user-right {
-	  width: 32%;
-	}
-	.user-left {
-	  width: 68%;
 	}
 	.follow a {
 	  width: 43%;
@@ -1711,12 +1613,6 @@ a.hvr-rectangle-in:hover:before,a.hvr-rectangle-in:focus:before,a.hvr-rectangle-
 	.con-btm-l {
 	  float: left;
 	  width: 100%;
-	}
-	.user-right {
-	  width: 19%;
-	}
-	.user-left {
-	  width: 81%;
 	}
 	.mail-list form input[type="text"] {
 	  width: 82%;
@@ -1861,19 +1757,13 @@ span.menu {
 	.register-grids {
 	  margin-top: 20px;
 	}
-	.reg-header h2, .graph-header h3, .shop-header h3, .user-login h2, .fb-connect h2 {
+	.reg-header h2, .graph-header h3, .shop-header h3 {
 	  font-size: 18px;
 	}
 	.register-right {
 	  float: right;
 	  width: 100%;
 	  margin-top: 25px;
-	}
-	.user-form h3 {
-	  font-size: 12px;
-	}
-	.user-form form input[type="text"], .user-form form input[type="password"] {
-	  padding: 7px 10px;
 	}
 	.text_box {
 	  font-size: 12px;
@@ -1903,7 +1793,7 @@ span.menu {
 	.shopping-chart {
 	  padding: 30px 0px;
 	  }
-	.reg-header h2, .graph-header h3, .shop-header h3, .user-login h2, .fb-connect h2 {
+	.reg-header h2, .graph-header h3, .shop-header h3 {
 	  margin: 0 0 12px 0;
 	}
 	.shop-info h4 {
@@ -1950,12 +1840,6 @@ span.menu {
 	  margin-left: 8px;
 	}
 
-	.user-right {
-	  width: 30%;
-	}
-	.user-left {
-	  width: 70%;
-	}
 	.mail-list {
 	  padding: 30px 15px;
 	  }
