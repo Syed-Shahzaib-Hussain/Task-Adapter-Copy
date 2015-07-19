@@ -1,3 +1,16 @@
+$top-content-background-color: #FFF;
+
+.content{
+    background: rgba(19, 30, 39, 0.2);
+    padding:100px 0;
+}
+
+.content-top{
+    background: $top-content-background-color;
+    margin-top:25px;
+    padding:80px 0;
+}
+
 /**
  * Reset some basic elements
  */

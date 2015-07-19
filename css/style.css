@@ -1,9 +1,3 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
 body{
 	margin:0;
 	font-family: 'Lato', sans-serif;
@@ -30,10 +24,6 @@ body a:hover{
 	text-decoration:none;
 }
 /*--content--*/
-.content{
-background:#272727;
-padding:100px 0;
-}
 .header{
 background:#ffffff;
 padding: 18px 30px;
@@ -110,15 +100,10 @@ color:#f27b47;
 margin:0 auto;
 width:90%;
 }
-.content-top{
-background:#424448;
-margin-top:25px;
-padding:80px 0;
-}
 .content-left h1{
 margin:0;
 font-size:55px;
-color:#ffffff;
+color:black;
 font-weight:bold;
 }
 .border{
@@ -320,17 +305,6 @@ font-size:14px;
 font-weight:bold;
 margin-left: 5px;
 }
-.login-tab{
-background:#fff;
-padding: 42px 20px;
-}
-.user-login h2 {
-  margin: 0 0 18px 0;
-  color: #424448;
-  font-size: 24px;
-  text-align: center;
-  font-weight: bold;
-}
 .graph-header h3{
   margin: 0 0 18px 0;
   color: #424448;
@@ -406,53 +380,7 @@ transition:0.5s all;
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
 }
-.fb-connect h2 {
-  margin: 0 0 18px 0;
-  color: #424448;
-  font-size: 24px;
-  text-align: center;
-  font-weight: bold;
-}
-.fb-connect{
-background: #fff;
-padding: 42px 20px;
-margin:15px 0;
-}
-.fb-connect ul{
-margin:0;
-padding:0;
-}
-.fb-connect ul li{
-list-style-type:none;
-display:block;
-}
-.fb-connect ul li a{
-  display: block;
-  padding: 10px 0px 10px 0px;
-  text-align: center;
-  color: #ffffff;
-  text-decoration: none;
-transition:0.5s all;
-	-webkit-transition:0.5s all;
-	-moz-transition:0.5s all;
-	-o-transition:0.5s all;
-	-ms-transition:0.5s all;
-}
-.fb-connect ul li a.twitter{
-background:url(../images/twi.png) no-repeat 15px 13px #00aced;
-}
-.fb-connect ul li a.twitter:hover{
-background:url(../images/twi.png) no-repeat 15px 13px #f27b47;
-}
-.fb-connect ul li a.facebook{
-background:url(../images/fac.png) no-repeat 15px 13px #44619d;
-}
-.fb-connect ul li a.facebook:hover{
-background:url(../images/fac.png) no-repeat 15px 13px #f27b47;
-}
-.fb-connect ul li:nth-child(1){
-margin:30px 0 15px 0;
-}
+
 .mail-list{
   background: #fff;
   padding: 42px 20px;
@@ -698,22 +626,7 @@ background:#d63e5a;
 .basic-plan.b p{
 background:#dd4b6a;
 }
-.video-left{
-float:left;
-width: 53.9%;
-}
-.video-right{
-float:left;
-width: 43.7%;
-margin-left: 2.4%;
-}
-.video-left iframe{
-width:100%;
-height:294px;
-}
-.video-grids{
-margin-top:15px;
-}
+
 /*--//content-bottom--*/
 /*-- start tabs --*/
 .resp-tabs-list {
@@ -1342,15 +1255,8 @@ a.hvr-rectangle-in:hover:before,a.hvr-rectangle-in:focus:before,a.hvr-rectangle-
 	.register-left {
 	  width: 29%;
 	}
-	.reg-header h2,.graph-header h3,.shop-header h3,.user-login h2,.fb-connect h2 {
+	.reg-header h2,.graph-header h3,.shop-header h3,.user-login h2 {
 	  font-size: 20px;
-	}  
-	.user-form h3 {
-	  font-size: 13px;
-	}  
-	.user-form form input[type="text"], .user-form form input[type="password"] {
-	  margin: 0 0 18px 0;
-	  padding: 9px 15px;
 	}  
 	.form-right input[type="submit"] {
 	  font-size: 16px;
@@ -1362,21 +1268,12 @@ a.hvr-rectangle-in:hover:before,a.hvr-rectangle-in:focus:before,a.hvr-rectangle-
 	.form-left {
 	  width: 70%;
 	}  
-	.user-login form input[type="text"], .user-login form input[type="password"] {
-	  padding: 9px 15px;
-	}  
 	.user-right input[type="submit"] {
 	  padding: 7px 15px;
 	}  
 	.register-grids {
 	  margin-top: 25px;
 	} 
-	.user-login form {
-	  margin-top: 25px;
-	} 
-	.fb-connect ul li:nth-child(1) {
-	  margin: 25px 0 15px 0;
-	}  
 	.follow a {
 	  padding: 10px 0px 10px 16px;
 	  width: 55%; 
@@ -2052,24 +1949,13 @@ span.menu {
 	.shopping-chart a.check-out {
 	  margin-left: 8px;
 	}
-	.login-tab {
-	  padding: 30px 15px;
-	}
-	.user-login form input[type="text"], .user-login form input[type="password"] {
-	  padding: 7px 10px;
-	}
-	.user-login form input[type="text"], .user-login form input[type="password"] {
-	  margin: 0 0 18px 0;
-	  }
+
 	.user-right {
 	  width: 30%;
 	}
 	.user-left {
 	  width: 70%;
 	}
-	.fb-connect {
-	  padding: 30px 15px;
-	  }
 	.mail-list {
 	  padding: 30px 15px;
 	  }
