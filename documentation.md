@@ -6,4 +6,4 @@ weight: 3
 
 ---
 
-User documenation here.
+User documentation here.
