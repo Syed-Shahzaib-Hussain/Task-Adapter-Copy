@@ -357,38 +357,6 @@ font-weight:bold;
 .features ul li{
   margin-left: 40px;
 }
-.basic-plan h3{
-padding:10px 0px;
-color:#fff;
-background:#b0d63e;
-font-weight:bold;
-margin:0px;
-font-size: 16px;
-}
-.basic-plan p{
-background:#bcdd4b;
-color:#ffffff;
-margin:0px;
-font-size: 20px;
-}
-.basic-plan p span{
-		font-size:50px;
-		}
-.sig-up a{
-display:block;
-color:#fff;
-text-decoration:none;
-padding: 10px 0px;
-background: #424448;
-font-size: 16px;
-}
-.sig-up a:hover{
-background:#f27b47;
-}
-.sig-up{
-width:85%;
-margin:20px auto;
-}
 
 
 /*--//content-bottom--*/
@@ -1226,9 +1194,6 @@ a.hvr-rectangle-in:hover:before,a.hvr-rectangle-in:focus:before,a.hvr-rectangle-
 	  line-height: 1.5em;
 	  font-size: 16px;
 	  margin-top: 8px;
-	}
-	.sig-up a {
-	  font-size: 14px;
 	}
 	.video-right {
 	  width: 41.7%;
