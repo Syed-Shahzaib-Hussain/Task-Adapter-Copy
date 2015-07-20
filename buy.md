@@ -3,7 +3,7 @@ layout: page
 title: Buy
 permalink: /buy/
 status: publish
-weight: 9
+top_level_menu_weight: 9
 published: true
 
 author:

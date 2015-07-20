@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contacts/
 status: publish
-weight: 10
+top_level_menu_weight: 10
 
 published: true
 

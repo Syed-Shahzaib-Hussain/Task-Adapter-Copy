@@ -2,7 +2,7 @@
 layout: docs
 title: Documentation
 permalink: /docs/
-weight: 3
+top_level_menu_weight: 3
 
 ---
 

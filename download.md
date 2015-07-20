@@ -3,7 +3,7 @@ layout: page
 title: Download
 permalink: /download/
 status: publish
-weight: 8
+top_level_menu_weight: 8
 
 published: true
 author:
