@@ -298,58 +298,6 @@ width:46%;
 .con-btm-right {
   padding-right: 0;
 }
-.mail-list{
-  background: #fff;
-  padding: 42px 20px;
-}
-.mail-list h3{
-margin:0;
-color:#424448;
-font-size:16px;
-font-weight:bold;
-text-align:center;
-}
-.mail-list p{
-margin: 15px 0 30px 0;
-color:#777c80;
-font-size:14px;
-text-align:center;
-
-}
-.mail-list form input[type="text"] {
-  margin: 0px 0;
-  background: #fcfcfc;
-  width: 65%;
-  padding: 12px 15px;
-  font-size: 14px;
-  font-weight: bold;
-  border: 1px solid #ebeced;
-  outline: none;
-  color: #D7D7D7;
-  }
-.mail-list input[type="submit"] {
-  background: #424448;
-  font-weight: bold;
-  font-size: 16px;
-  color: #ffffff;
-  padding: 12px 26px;
-  border: none;
-  vertical-align: top;
-  margin: 0 0px 0 -3px;
-transition:0.5s all;
--webkit-transition:0.5s all;
--moz-transition:0.5s all;
--o-transition:0.5s all;
--ms-transition:0.5s all;
-  }
-.mail-list input[type="submit"]:hover {
-  background:#f27b47;
-transition:0.5s all;
-	-webkit-transition:0.5s all;
-	-moz-transition:0.5s all;
-	-o-transition:0.5s all;
-	-ms-transition:0.5s all;
-  }
 .shopping-chart{
   background: #fff;
   padding: 42px 0px;
@@ -426,36 +374,6 @@ font-size: 20px;
 .basic-plan p span{
 		font-size:50px;
 		}
-.pricing-grid:hover{
-		transform:rotateY(360deg);
-		transition:.5s all;
-		-webkit-transition:.5s all;
-		-moz-transition:.5s all;
-		-o-transition:.5s all;
-		-ms-transition:.5s all;
-		}
-.pricing-grid{
-  width: 31.8%;
-  margin-left: 2.3%;
-background: #fff;
-text-align: center;
-float: left;
-}
-.pricing-grid ul{
-		margin:0px;
-		padding:0px;
-		}
-.pricing-grid ul li{
-list-style-type:none;
-font-size:15px;
-color:#7b8084;
-border-bottom:1px solid #ebeced;
-padding: 15px 0;
-}
-.pricing-grid ul li span{
-font-weight:bold;
-color:#424448;
-}
 .sig-up a{
 display:block;
 color:#fff;
@@ -471,21 +389,7 @@ background:#f27b47;
 width:85%;
 margin:20px auto;
 }
-.pricing-grid:nth-child(1){
-margin:0;
-}
-.basic-plan.a h3{
-background:#3e92d6;
-}
-.basic-plan.a p{
-background:#4ba1dd;
-}
-.basic-plan.b h3{
-background:#d63e5a;
-}
-.basic-plan.b p{
-background:#dd4b6a;
-}
+
 
 /*--//content-bottom--*/
 /*-- start tabs --*/
@@ -1144,12 +1048,6 @@ a.hvr-rectangle-in:hover:before,a.hvr-rectangle-in:focus:before,a.hvr-rectangle-
 	.follow-grid h5 span {
 	  font-size: 12px;
 	}
-	.mail-list form input[type="text"] {
-	  padding: 8px 15px;
-	  }
-	.mail-list input[type="submit"] {
-	  padding: 8px 16px;
-	  }
 	.facts-right h4 {
 	  font-size: 13px;
 	  }
@@ -1714,23 +1612,6 @@ span.menu {
 	.shopping-chart a.check-out {
 	  margin-left: 8px;
 	}
-
-	.mail-list {
-	  padding: 30px 15px;
-	  }
-	.mail-list form input[type="text"] {
-	  padding: 7px 10px;
-	}
-	.mail-list form input[type="text"] {
-	  width: 71%;
-	}
-	.mail-list input[type="submit"] {
-	  font-size: 13px;
-	  padding: 9px 16px;
-	}
-	.mail-list p {
-	  margin: 15px 0 15px 0;
-	  }
 	.follow-img {
 	  min-height: 150px;
 	}
@@ -1769,17 +1650,6 @@ span.menu {
 	.facts-right p {
 	  margin: 3px 0 0 0;
 	  font-size: 12px;
-	}
-	.pricing-grid {
-	  width: 100%;
-	  margin-left: 0%;
-	  }
-	.pricing-grid:nth-child(2) {
-	  margin: 15px 0;
-	}
-	.pricing-grid ul li {
-	  padding: 10px 0;
-	  font-size: 13px;
 	}
 	.shop-count p {
 	  padding: 2px 0px;
