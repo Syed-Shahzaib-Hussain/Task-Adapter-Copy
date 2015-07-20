@@ -2,6 +2,7 @@
 layout: page
 status: publish
 published: true
+permalink: /access-to-source-code/
 title: Access to source code
 author:
   display_name: admin
@@ -18,9 +19,9 @@ categories: []
 tags: []
 comments: []
 ---
-<div>We offer&nbsp;<b>access to the Task Adapter source code for $1500</b>.</div></p>
-<div></div></p>
-<div>
+
+We offer **access to the Task Adapter source code for $1500**.
+
 <div>
 <ul>
 <li>This is a non-exclusive access which allows you to&nbsp;make any modifications to the source code and build Task Adapter product&nbsp;<b>for your own needs;</b>&nbsp;<b>redistribution is NOT permitted</b>.</li>
@@ -28,11 +29,10 @@ comments: []
 <li>You can get access to the main repository (and thus get all the future updates) or get your own copy.</li>
 <li>This allows you to use Task Adapter&nbsp;<b>on any number of computers (no licensing per user)</b>.</li>
 <li>The access is granted for 1 year from the date of the purchase.</li><br />
-</ul><br />
-</div><br />
-</div></p>
-<div>
-<p><strong>Technical details:</strong></p>
+</ul>
+
+<strong>Technical details:</strong>
+
 <ul>
 <li>Java language is used for both server and client side.</li>
 <li>Git is used as a source control system.</li>
@@ -48,5 +48,4 @@ comments: []
 <input type="hidden" name="hosted_button_id" value="VSAXMDGEZ4XCQ"><br />
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"><br />
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"><br />
-</form><br />
-</div></p>
+</form>
