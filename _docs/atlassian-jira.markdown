@@ -1,8 +1,7 @@
 ---
-layout: page
-status: publish
-published: true
+layout: docs
 title: JIRA configuration
+permalink: /docs/atlassian-jira/
 author:
   display_name: admin
   login: admin
@@ -14,12 +13,10 @@ wordpress_id: 77
 wordpress_url: http://www.taskadapter.com/wp/?page_id=77
 date: '2012-05-25 00:27:34 -0700'
 date_gmt: '2012-05-25 00:27:34 -0700'
-categories: []
-tags: []
-comments: []
 ---
-<h1>JIRA Integration</h1></p>
-<div>
+
+## JIRA Integration
+
 <div id="block-system-main">
 <div id="node-37">
 <p>Task Adapter can load and save data from/to JIRA using its&nbsp;<strong>"Remote API access". Please make sure this feature is enabled in your JIRA installation. </strong>Use the following menu sequence in your JIRA: Administration >> General Configuration >> Accept remote API calls.</p>
@@ -45,7 +42,5 @@ Unfortunately, JIRA&nbsp;remote API requires admin privileges to load list of ex
 <li><strong>Custom Fields &nbsp;</strong>ID and value of custom fields, which Task Adapter needs to set for all new tasks it creates in JIRA.These 'custom fields' are <strong>NOT used when loading data from JIRA</strong>.</li>
 <li><strong>Configure Priorities<br />
 </strong><img class="alignnone size-full wp-image-163" title="priorities" alt="Task Adapter task priorities mapping for Atlassian Jira" src="http://www.taskadapter.com/wp-content/uploads/2012/05/priorities.png" width="400" height="276" /></li><br />
-</ul><br />
-</div><br />
-</div><br />
-</div></p>
+</ul>
+

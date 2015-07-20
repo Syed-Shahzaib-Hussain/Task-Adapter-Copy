@@ -1,8 +1,7 @@
 ---
-layout: page
-status: publish
-published: true
+layout: docs
 title: JIRA and Microsoft Project integration - step by step guide
+permalink: /docs/atlassian-jira/atlassian-jira-and-microsoft-project-integration-step-by-step-guide/
 author:
   display_name: admin
   login: admin
@@ -18,20 +17,16 @@ categories: []
 tags: []
 comments: []
 ---
-<div id="main">
-<div id="block-system-main">
-<div id="node-42">
-<p><strong>User story 1: "I have a Microsoft Project plan and I want to export the tasks to my JIRA".</strong></p>
-<p>First, <a href="user-guide/installation">install and start Task Adapter</a>.&nbsp;Then follow these steps:</p>
-<p></div><br />
-</div></p>
-<div>
-<ul>
-<li><a href="http://www.taskadapter.com/user-guide/using-task-adapter/#create_config_file">Create a config</a></li>
-<li><a href="http://www.taskadapter.com/user-guide/using-task-adapter/#configure">Configure</a></li>
-<li><a href="http://www.taskadapter.com/user-guide/using-task-adapter/#export_data">Export tasks</a></li>
-<li>Optional -&nbsp;<a href="http://www.taskadapter.com/user-guide/using-task-adapter/#update_msp_file">Update MSP File</a></li><br />
-</ul></p>
+
+### User story: "I have a Microsoft Project plan and I want to export the tasks to my JIRA".
+
+First, <a href="user-guide/installation">install and start Task Adapter</a>. Then follow these steps:
+
+* <a href="http://www.taskadapter.com/user-guide/using-task-adapter/#create_config_file">Create a config</a>
+* <a href="http://www.taskadapter.com/user-guide/using-task-adapter/#configure">Configure</a>
+* <a href="http://www.taskadapter.com/user-guide/using-task-adapter/#export_data">Export tasks</a>
+* Optional - <a href="http://www.taskadapter.com/user-guide/using-task-adapter/#update_msp_file">Update MSP File</a>
+
 <h2><a id="create_config_file" name="create_config_file"></a>Create a config</h2></p>
 <ol>
 <li>To export tasks from a bug tracker like JIRA or a Microsoft Project file, you first need to create a &ldquo;synchronization config&rdquo;, &nbsp;which will keep settings like your Jira server URL, login, password, your Microsoft Project file location, etc.<br />
@@ -89,6 +84,5 @@ You can change default &ldquo;mapping&rdquo; for some of them. E.g. Jira&rsquo;s
 <img title="choose_file_operation" alt="" src="http://www.taskadapter.com/wp-content/uploads/2012/05/choose_file_operation.png" width="466" height="174" /><br />
 Only the tasks which have &ldquo;remote IDs&rdquo; field set in the MSP file will be updated.</li></p>
 <li>The selected tasks will be re-loaded from the external system (Jira in this example) and updated in the MSP XML file. The other tasks in the XML file will be left unchanged.</li><br />
-</ol><br />
-</div></p>
-<div></div></p>
+</ol>
+

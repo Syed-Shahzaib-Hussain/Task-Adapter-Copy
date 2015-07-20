@@ -1,9 +1,7 @@
 ---
-layout: page
-status: publish
-permalink: /docs/github/
-published: true
+layout: docs
 title: Github integration
+permalink: /docs/github/
 author:
   display_name: admin
   login: admin

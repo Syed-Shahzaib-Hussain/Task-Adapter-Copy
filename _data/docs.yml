@@ -6,5 +6,7 @@
 - title: Supported Systems
   docs:
   - github
+  - atlassian-jira
+  - atlassian-jira/atlassian-jira-and-microsoft-project-integration-step-by-step-guide
   - microsoft-project
 
