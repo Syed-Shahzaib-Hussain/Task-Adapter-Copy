@@ -3,7 +3,8 @@
   - installation
   - quickstart
 
-- title: Other stuff
+- title: Supported Systems
   docs:
+  - github
   - microsoft-project
 
