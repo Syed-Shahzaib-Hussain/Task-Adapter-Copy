@@ -4,80 +4,81 @@ title: Home
 weight: 1
 ---
 
-		<div class="content-top">
-			<div class="wrap">
-				<div class="col-md-5 content-left">
-					<h1>{{ site.title }}</h1>
-					<div class="border"></div>
-					<p>{{ site.description }}</p>
+<div class="content-top">
+    <div class="wrap">
+        <div class="col-md-5 content-left">
+            <h1>{{ site.title }}</h1>
 
-					<a href="#" class="hvr-rectangle-out button">GET STARTED</a>
-					<a href="#"class="hvr-rectangle-in button more-mar">FEATURES</a>
-				</div>
-				<div class="col-md-7 content-right">
-					<!-- responsiveslides -->
-						<script src="js/responsiveslides.min.js"></script>
-							<script>
-								// You can also use "$(window).load(function() {"
-								$(function () {
-								 // Slideshow 4
-								$("#slider3").responsiveSlides({
-									auto: true,
-									pager: true,
-									nav: false,
-									speed: 500,
-									namespace: "callbacks",
-									before: function () {
-								$('.events').append("<li>before event fired.</li>");
-								},
-								after: function () {
-									$('.events').append("<li>after event fired.</li>");
-									}
-									});
-									});
-							</script>
-					<!-- responsiveslides -->
-					<div  id="top" class="callbacks_container">
-						<ul class="rslides" id="slider3">
-							<li>
-								<div class="slider-image">
-									<img src="images/default_jira_msp.png" alt=""/>
-								</div>
-							</li>
-							<li>
-								<div class="slider-image">
-									<img src="images/edit_redmine4.png" alt=""/>
-								</div>
-							</li>
-							<li>
-								<div class="slider-image">
-									<img src="images/edit_redmine4.png" alt=""/>
-								</div>
-							</li>
-							<li>
-								<div class="slider-image">
-									<img src="images/default_jira_msp.png" alt=""/>
-								</div>
-							</li>
-							<li>
-								<div class="slider-image">
-									<img src="images/edit_redmine4.png" alt=""/>
-								</div>
-							</li>
-						</ul>
-					</div>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-		</div>
-		<div class="content-bottom">
-				<div class="shopping-chart">
-					<div class="shop-header">
-						<h3>Features</h3>
-						<div class="strip"></div>						
-					</div>
-					<div>
-Features
-					</div>
-			<div class="clearfix"></div>
-		</div>
+            <div class="border"></div>
+            <p>{{ site.description }}</p>
+
+            <a href="#" class="hvr-rectangle-out button">GET STARTED</a>
+            <a href="#" class="hvr-rectangle-in button more-mar">FEATURES</a>
+        </div>
+        <div class="col-md-7 content-right">
+            <!-- responsiveslides -->
+            <script src="js/responsiveslides.min.js"></script>
+            <script>
+                // You can also use "$(window).load(function() {"
+                $(function () {
+                    // Slideshow 4
+                    $("#slider3").responsiveSlides({
+                        auto: true,
+                        pager: true,
+                        nav: false,
+                        speed: 500,
+                        namespace: "callbacks",
+                        before: function () {
+                            $('.events').append("<li>before event fired.</li>");
+                        },
+                        after: function () {
+                            $('.events').append("<li>after event fired.</li>");
+                        }
+                    });
+                });
+            </script>
+            <!-- responsiveslides -->
+            <div id="top" class="callbacks_container">
+                <ul class="rslides" id="slider3">
+                    <li>
+                        <div class="slider-image">
+                            <img src="images/default_jira_msp.png" alt=""/>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="slider-image">
+                            <img src="images/edit_redmine4.png" alt=""/>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="slider-image">
+                            <img src="images/edit_redmine4.png" alt=""/>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="slider-image">
+                            <img src="images/default_jira_msp.png" alt=""/>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="slider-image">
+                            <img src="images/edit_redmine4.png" alt=""/>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+</div>
+<div class="content-bottom">
+    <div class="shopping-chart">
+        <div class="shop-header">
+            <h3>Features</h3>
+            <div class="strip"></div>
+        </div>
+        <div class="features">
+            {% markdown features.md %}
+        </div>
+    </div>
+</div>
