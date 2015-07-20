@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Task Adapter 2.7: drop your MSP files'
+author:
+  display_name: admin
+  login: admin
+  email: alskor@gmail.com
+  url: ''
+author_login: admin
+author_email: alskor@gmail.com
+wordpress_id: 671
+wordpress_url: http://www.taskadapter.com/?p=671
+date: '2014-01-17 23:51:57 -0800'
+date_gmt: '2014-01-17 23:51:57 -0800'
+categories:
+- release
+tags: []
+comments: []
+---
+<p><span style="line-height: 1.5em;">Task Adapter 2.7 brings support for drag-n-drop operations for Microsoft Project files.</span></p>
+<p>Now instead of providing path to your MPP or XML files in "Microsoft Project Editor", you can simply drag-n-drop your file to the export button, the file will be loaded right away and the export will start &nbsp;automatically.</p>
+<p><a href="http://www.taskadapter.com&#47;wp-content&#47;uploads&#47;2014&#47;01&#47;ta_drop.png"><img class="alignnone size-full wp-image-672" alt="ta_drop" src="http:&#47;&#47;www.taskadapter.com&#47;wp-content&#47;uploads&#47;2014&#47;01&#47;ta_drop.png" width="588" height="179" &#47;></a></p>

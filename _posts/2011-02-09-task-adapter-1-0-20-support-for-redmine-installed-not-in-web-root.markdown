@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Task Adapter 1.0.20: support for Redmine installed not in web root'
+author:
+  display_name: admin
+  login: admin
+  email: alskor@gmail.com
+  url: ''
+author_login: admin
+author_email: alskor@gmail.com
+wordpress_id: 240
+wordpress_url: http://www.taskadapter.com/2011/02/09/task-adapter-1-0-20-support-for-redmine-installed-not-in-web-root/
+date: '2011-02-09 22:25:00 -0800'
+date_gmt: '2011-02-09 22:25:00 -0800'
+categories:
+- redmine
+- release
+tags: []
+comments: []
+---
+<p><br/><br />
+<h1 style="font-family: 'Myriad Pro', 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 32px; line-height: 38px; margin-bottom: 20px; margin-left: 0px; margin-right: 0px; margin-top: 0px; text-shadow: rgb(234, 241, 234) 1px 1px 1px;">
+<div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;">Highlights:</span></div>
+<ul style="color: #7a7a7a; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 20px;">
+<li><span style="background-color: white;"><a href="http:&#47;&#47;taskadapter.com&#47;redmine_java_api_1.0.5" style="color: #1487d4; text-decoration: none;">Redmine API v. 1.0.5</a>&nbsp;is used, which has one important fix:<br/>it now works even when Redmine is installed with some URL mapping (like&nbsp;<a href="http:&#47;&#47;server:port&#47;redmine" style="color: #1487d4; text-decoration: none;">http:&#47;&#47;server:port&#47;redmine</a>), not just default "<a href="http:&#47;&#47;server:port&#47;" style="color: #1487d4; text-decoration: none;">http:&#47;&#47;server:port</a>"</span></li></ul></h1></p>

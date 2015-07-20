@@ -1,0 +1,34 @@
+---
+layout: post
+status: publish
+published: true
+title: Task Adapter 1.4.1 and 1.4.2
+author:
+  display_name: admin
+  login: admin
+  email: alskor@gmail.com
+  url: ''
+author_login: admin
+author_email: alskor@gmail.com
+wordpress_id: 255
+wordpress_url: http://www.taskadapter.com/2011/09/01/task-adapter-1-4-1-and-1-4-2/
+date: '2011-09-01 19:05:00 -0700'
+date_gmt: '2011-09-01 19:05:00 -0700'
+categories:
+- redmine
+- release
+- microsoft project
+tags: []
+comments: []
+---
+<p><br/>
+<div style="color: #7a7a7a; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><b style="background-color: white;"><a href="https:&#47;&#47;www.hostedredmine.com&#47;projects&#47;ta&#47;versions&#47;1169">Task Adapter 1.4.2 changes list</a>.</b></div>
+<div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;"><b>Redmine</b></span></div>
+<ul>
+<li>28911  Bug error is shown when saving tasks with relations into Redmine 1.2.1_release (newer Redmine is required for Tasks Relations!)</li></ul><br/>
+<div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;"><b><a href="https:&#47;&#47;www.hostedredmine.com&#47;projects&#47;ta&#47;versions&#47;1170">Task Adapter 1.4.1 changes list.</a></b><br/><b>msp&nbsp;</b></span></div>
+<ul>
+<li>28892 Bug NPE when loading relations from an MSP file</li></ul><br/>
+<div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;"><b>redmine</b></span></div>
+<ul>
+<li>28893  Bug NPE when loading Task Relations from Redmine 1.2.1.stable.6599 or newer</li></ul><br/></p>

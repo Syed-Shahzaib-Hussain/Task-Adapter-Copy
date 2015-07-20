@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: Redmine Java API release 1.7.1
+author:
+  display_name: admin
+  login: admin
+  email: alskor@gmail.com
+  url: ''
+author_login: admin
+author_email: alskor@gmail.com
+wordpress_id: 271
+wordpress_url: http://www.taskadapter.com/2012/01/21/redmine-java-api-release-1-7-1/
+date: '2012-01-21 07:50:00 -0800'
+date_gmt: '2012-01-21 07:50:00 -0800'
+categories:
+- redmine java api
+tags: []
+comments: []
+---
+<p>Redmine Java API 1.7.0 release had a regression, which we fixed in 1.7.1:&nbsp;<a href="http:&#47;&#47;code.google.com&#47;p&#47;redmine-java-api&#47;issues&#47;detail?id=105">Exception due to redmine.log.properties file not found</a></p>
