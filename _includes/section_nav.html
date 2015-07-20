@@ -1,18 +1,18 @@
 {% assign docs = site.data.docs %}
 
 {% for section in docs %}
-{% assign document_url = document | prepend:"/docs/" | append:"/" %}
 <div class="section-nav">
 
     {{ section.title }}
 
     {% for p in section.docs %}
-        {% assign doc_url = p %}
         {% assign doc_title = p %}
+        {% assign document_url = p | prepend:"/docs/" | append:"/" %}
 
-        <li class="{{ c }}"><a href="{{ site.baseurl }}{{ doc_url }}">{{ doc_title }}</a></li>
+
+    <li class="{{ c }}"><a href="{{ site.baseurl }}{{ document_url }}">{{ doc_title }}</a></li>
     {% endfor %}
 
 </div>
-<div class="clear"></div>
+
 {% endfor %}
