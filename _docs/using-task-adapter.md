@@ -1,7 +1,5 @@
 ---
-layout: page
-status: publish
-published: true
+layout: docs
 title: Using Task Adapter
 author:
   display_name: admin

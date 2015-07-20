@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: docs
 status: publish
 published: true
 title: Microsoft Project Integration

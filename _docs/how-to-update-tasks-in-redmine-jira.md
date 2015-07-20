@@ -1,7 +1,5 @@
 ---
-layout: page
-status: publish
-published: true
+layout: docs
 title: How to update tasks in Redmine / JIRA
 author:
   display_name: admin

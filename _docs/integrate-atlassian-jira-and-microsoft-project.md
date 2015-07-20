@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: docs
 status: publish
 published: true
 title: Integrate Atlassian Jira and Microsoft Project

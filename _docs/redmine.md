@@ -1,7 +1,5 @@
 ---
-layout: page
-status: publish
-published: true
+layout: docs
 title: Redmine
 author:
   display_name: admin
@@ -18,7 +16,9 @@ categories: []
 tags: []
 comments: []
 ---
-<p><em>Note: "REST API" must be enabled in your Redmine for this connector to work.</em> <a href="#rest_api">How to enable REST API in Redmine</a></p>
+**Note: "REST API" must be enabled in your Redmine for this connector to work.**
+<a href="#rest_api">How to enable REST API in Redmine</a>
+
 <p><a href="#general">General info<br />
 </a><a href="#performance">Performance<br />
 </a><a href="#dialog">Configuration dialog</a></p>
@@ -65,5 +65,7 @@ Note: this operation requires <strong>'Redmine Admin' permission</strong>.</li><
 <li><strong>Default task type&nbsp;</strong>Tracker name (like "Bug", "Feature", "Support", "Task", ...) to use when creating new tasks. This tracker type must exist in your Redmine installation.</li><br />
 </ul><br />
 <a id="rest_api" name="rest_api"></a><strong>How to enable REST API in Redmine</strong></p>
-<p><em>Note: "REST API" must be enabled in your Redmine for this connector to work.</em></p>
+
+**Note: "REST API" must be enabled in your Redmine for this connector to work.**
+
 <p><img src="http://www.taskadapter.com/wp-content/uploads/2012/05/redmine_enable_rest_api.png" alt="how to enable REST API in Redmine bug tracker" /></p>
