@@ -25,4 +25,4 @@ comments: []
 <li>Can't load more than 50 Jira tasks in one request</li>
 <li>Jira: error shown in some cases: "JSONObject["self"] not found"</li><br />
 </ul><br />
-It's available in the <a title="Download" href="http://www.taskadapter.com&#47;download&#47;">Downloads </a>section.</p>
+It's available in the <a title="Download" href="http://www.taskadapter.com/download/">Downloads </a>section.</p>

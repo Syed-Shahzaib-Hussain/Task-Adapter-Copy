@@ -21,7 +21,7 @@ tags: []
 comments: []
 ---
 <p><br/>
-<div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;"><b>Task Adapter 1.4.5</b>&nbsp;is r<a href="http://www.taskadapter.com&#47;download">eady for download</a><span style="color: #7a7a7a;">.</span></span></div>
+<div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;"><b>Task Adapter 1.4.5</b>&nbsp;is r<a href="http://www.taskadapter.com/download">eady for download</a><span style="color: #7a7a7a;">.</span></span></div>
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><b style="background-color: white;">Bug fixing</b></div>
 <ul style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">
 <li><span style="background-color: white;">#32247 Connector Editor does not work with 2 identical tabs</span></li>

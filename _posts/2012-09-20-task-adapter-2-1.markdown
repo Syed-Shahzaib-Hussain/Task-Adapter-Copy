@@ -32,7 +32,7 @@ comments: []
 <h4>Atlassian Jira:</h4></p>
 <ul>
 <li>Support for Estimated Time field.</li>
-<li>Support for "precedes &#47; follows" relations, commonly used by Microsoft Project to track dependencies between tasks.</li>
+<li>Support for "precedes / follows" relations, commonly used by Microsoft Project to track dependencies between tasks.</li>
 <li>A lot of minor bugfixes.</li>
 <li><strong>Note: the oldest supported Atlassian Jira version is now 5.0. </strong>Unfortunately, the older Jira versions don't have the remote interfaces Task Adapter needs.</li><br />
 </ul></p>

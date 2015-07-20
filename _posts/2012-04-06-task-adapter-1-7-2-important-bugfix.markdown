@@ -20,5 +20,5 @@ categories:
 tags: []
 comments: []
 ---
-<div dir="ltr" style="text-align: left;" trbidi="on"><br/><br/>Task Adapter 1.7.2 is&nbsp;<a href="http:&#47;&#47;taskadapter.com&#47;download">ready for download</a>.<br/><br/><b>Important bugfix</b>:<b>&nbsp;</b>Error when loading MPP (Microsoft Project) files.<br/><br/>Tested with Redmine 1.3.1, Atlassian Jira 4.4.4, MantisBT 1.2.8, Microsoft Project 2010 Prof, current Github.com website.<br/>
+<div dir="ltr" style="text-align: left;" trbidi="on"><br/><br/>Task Adapter 1.7.2 is&nbsp;<a href="http://taskadapter.com/download">ready for download</a>.<br/><br/><b>Important bugfix</b>:<b>&nbsp;</b>Error when loading MPP (Microsoft Project) files.<br/><br/>Tested with Redmine 1.3.1, Atlassian Jira 4.4.4, MantisBT 1.2.8, Microsoft Project 2010 Prof, current Github.com website.<br/>
 <div><br/></div></div></p>

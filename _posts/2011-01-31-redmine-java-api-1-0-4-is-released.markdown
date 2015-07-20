@@ -20,8 +20,9 @@ categories:
 tags: []
 comments: []
 ---
-<p><br/>
-<div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;">New features:</span></div>
-<ul style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">
-<li><span style="background-color: white;">Create&#47;Read&#47;Update&#47;Delete operations for Time Entries (Redmine 1.1.0+ is required).</span></li>
-<li><span style="background-color: white;">"status" field is supported for Issues.</span></li></ul></p>
+
+New features:
+
+* Create/Read/Update/Delete operations for Time Entries (Redmine 1.1.0+ is required).
+* "status" field is supported for Issues.
+

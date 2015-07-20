@@ -20,4 +20,4 @@ categories:
 tags: []
 comments: []
 ---
-<p><span style="background-color: white;"><span style="color: #7a7a7a; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">The new location is:&nbsp;</span><a href="https:&#47;&#47;code.google.com&#47;p&#47;redmine-java-api" style="color: #1487d4; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; text-decoration: none;">https:&#47;&#47;code.google.com&#47;p&#47;redmine-java-api</a></span></p>
+<p><span style="background-color: white;"><span style="color: #7a7a7a; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">The new location is:&nbsp;</span><a href="https://code.google.com/p/redmine-java-api" style="color: #1487d4; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; text-decoration: none;">https://code.google.com/p/redmine-java-api</a></span></p>

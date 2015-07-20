@@ -19,4 +19,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>Redmine Java API 1.7.0 release had a regression, which we fixed in 1.7.1:&nbsp;<a href="http:&#47;&#47;code.google.com&#47;p&#47;redmine-java-api&#47;issues&#47;detail?id=105">Exception due to redmine.log.properties file not found</a></p>
+<p>Redmine Java API 1.7.0 release had a regression, which we fixed in 1.7.1:&nbsp;<a href="http://code.google.com/p/redmine-java-api/issues/detail?id=105">Exception due to redmine.log.properties file not found</a></p>

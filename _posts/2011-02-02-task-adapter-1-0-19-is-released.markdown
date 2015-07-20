@@ -28,5 +28,5 @@ comments: []
 <li><span style="background-color: white;">Redmine: "created on", "updated on" fields are supported.</span></li>
 <li><span style="background-color: white;">Redmine: config editor is improved.</span></li>
 <li><span style="background-color: white;">GUI: documentation is updated.</span></li>
-<li><span style="background-color: white;"><a href="http:&#47;&#47;taskadapter.com&#47;redmine_java_api_1.0.4" style="color: #1487d4; text-decoration: none;">Redmine API v. 1.0.4</a>&nbsp;is used.</span></li>
+<li><span style="background-color: white;"><a href="http://taskadapter.com/redmine_java_api_1.0.4" style="color: #1487d4; text-decoration: none;">Redmine API v. 1.0.4</a>&nbsp;is used.</span></li>
 <li><span style="background-color: white;">Redmine 1.1.0 or newer is required! Let us know if you still need a version supporting Redmine 1.0.4+.</span></li></ul></p>

@@ -22,4 +22,4 @@ comments: []
 <p>We released two Redmine Java API versions last week:</p>
 <p>1.12.0 with support for Redmine 2.0.2 (which uses a different date format from Redmine 1.4.x)</p>
 <p>1.13.0 uses SLF4J logging, which became quite popular for Java libraries lately.</p>
-<p>You can read more details in the <a href="https:&#47;&#47;github.com&#47;taskadapter&#47;redmine-java-api&#47;wiki&#47;Release-notes">API release notes</a>.</p>
+<p>You can read more details in the <a href="https://github.com/taskadapter/redmine-java-api/wiki/Release-notes">API release notes</a>.</p>

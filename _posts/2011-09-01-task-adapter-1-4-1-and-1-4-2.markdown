@@ -22,11 +22,11 @@ tags: []
 comments: []
 ---
 <p><br/>
-<div style="color: #7a7a7a; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><b style="background-color: white;"><a href="https:&#47;&#47;www.hostedredmine.com&#47;projects&#47;ta&#47;versions&#47;1169">Task Adapter 1.4.2 changes list</a>.</b></div>
+<div style="color: #7a7a7a; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><b style="background-color: white;"><a href="https://www.hostedredmine.com/projects/ta/versions/1169">Task Adapter 1.4.2 changes list</a>.</b></div>
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;"><b>Redmine</b></span></div>
 <ul>
 <li>28911  Bug error is shown when saving tasks with relations into Redmine 1.2.1_release (newer Redmine is required for Tasks Relations!)</li></ul><br/>
-<div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;"><b><a href="https:&#47;&#47;www.hostedredmine.com&#47;projects&#47;ta&#47;versions&#47;1170">Task Adapter 1.4.1 changes list.</a></b><br/><b>msp&nbsp;</b></span></div>
+<div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;"><b><a href="https://www.hostedredmine.com/projects/ta/versions/1170">Task Adapter 1.4.1 changes list.</a></b><br/><b>msp&nbsp;</b></span></div>
 <ul>
 <li>28892 Bug NPE when loading relations from an MSP file</li></ul><br/>
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;"><b>redmine</b></span></div>

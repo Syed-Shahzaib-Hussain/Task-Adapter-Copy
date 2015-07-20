@@ -33,5 +33,5 @@ Bug fixed:</p>
 <ul>
 <li>Issue #95 fixed a bug in equals() in CustomField.java</li><br />
 </ul><br />
-The <a href="https:&#47;&#47;github.com&#47;taskadapter&#47;redmine-java-api">source code is located on Github.</a></p>
-<p>The binaries and javadoc are&nbsp;<a href="http:&#47;&#47;search.maven.org&#47;#search%7Cgav%7C1%7Cg%3A%22com.taskadapter%22%20AND%20a%3A%22redmine-java-api%22">available in Maven Central</a>.</p>
+The <a href="https://github.com/taskadapter/redmine-java-api">source code is located on Github.</a></p>
+<p>The binaries and javadoc are&nbsp;<a href="http://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22com.taskadapter%22%20AND%20a%3A%22redmine-java-api%22">available in Maven Central</a>.</p>

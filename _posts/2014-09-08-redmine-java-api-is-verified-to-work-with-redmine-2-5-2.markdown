@@ -20,4 +20,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>Our open-source Redmine Java API library (https:&#47;&#47;github.com&#47;taskadapter&#47;redmine-java-api) is verified to work with Redmine 2.5.2. This means that Task Adapter supports Redmine 2.5.2 as well because it uses that library.</p>
+<p>Our open-source Redmine Java API library (https://github.com/taskadapter/redmine-java-api) is verified to work with Redmine 2.5.2. This means that Task Adapter supports Redmine 2.5.2 as well because it uses that library.</p>

@@ -21,4 +21,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>The latest Task Adapter release brings support for <a href="http:&#47;&#47;basecamp.com&#47;classic">Basecamp Classic</a> project management system.</p>
+<p>The latest Task Adapter release brings support for <a href="http://basecamp.com/classic">Basecamp Classic</a> project management system.</p>

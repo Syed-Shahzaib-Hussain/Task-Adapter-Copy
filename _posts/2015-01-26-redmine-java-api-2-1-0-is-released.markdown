@@ -30,4 +30,4 @@ comments: []
 <li>Bug #164. Fix setting project on existing issue</li><br />
 </ul><br />
 Plus some minor bugfixes. The library is tested with Redmine 2.6.0.</p>
-<p>The <a href="http:&#47;&#47;search.maven.org&#47;#search%7Cgav%7C1%7Cg%3A%22com.taskadapter%22%20AND%20a%3A%22redmine-java-api%22">library is available in Maven Central repository</a>.</p>
+<p>The <a href="http://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22com.taskadapter%22%20AND%20a%3A%22redmine-java-api%22">library is available in Maven Central repository</a>.</p>

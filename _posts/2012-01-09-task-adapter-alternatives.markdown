@@ -19,4 +19,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>A new article is published on Task Adapter website:&nbsp;<a href="http:&#47;&#47;taskadapter.com&#47;compare_with_other_systems">Some options you might consider for integrating&nbsp;Microsoft Project and systems like Atlassian Jira, Redmine, Mantis BT</a></p>
+<p>A new article is published on Task Adapter website:&nbsp;<a href="http://taskadapter.com/compare_with_other_systems">Some options you might consider for integrating&nbsp;Microsoft Project and systems like Atlassian Jira, Redmine, Mantis BT</a></p>

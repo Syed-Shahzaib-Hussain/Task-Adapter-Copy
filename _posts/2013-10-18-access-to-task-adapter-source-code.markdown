@@ -20,4 +20,4 @@ tags: []
 comments: []
 ---
 <p>Some customers have expressed interest in having access to the Task Adapter source code so they can make custom modifications.<br />
-See <a href="http://www.taskadapter.com&#47;access-to-source-code&#47;" title="Access to source code">this page to get access to Task Adapter source code</a>.</p>
+See <a href="http://www.taskadapter.com/access-to-source-code/" title="Access to source code">this page to get access to Task Adapter source code</a>.</p>

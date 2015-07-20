@@ -25,5 +25,5 @@ comments: []
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;"><b>Highlights:</b></span></div>
 <ul style="color: #7a7a7a; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">
 <li><span style="background-color: white;">Configurable "Due Date" field mapping to "Finish" or "Deadline" in Microsoft Project (see the screenshot below).</span></li>
-<li><span style="background-color: white;"><a href="http:&#47;&#47;code.google.com&#47;p&#47;redmine-java-api&#47;issues&#47;list?can=1&amp;q=label:Milestone-1.0.6&amp;colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&amp;cells=tiles" style="color: #1487d4; text-decoration: none;">Redmine Java API v. 1.0.6</a>&nbsp;is used</span></li>
+<li><span style="background-color: white;"><a href="http://code.google.com/p/redmine-java-api/issues/list?can=1&amp;q=label:Milestone-1.0.6&amp;colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&amp;cells=tiles" style="color: #1487d4; text-decoration: none;">Redmine Java API v. 1.0.6</a>&nbsp;is used</span></li>
 <li><span style="background-color: white;">Tested with Redmine 1.1.2.</span></li></ul></p>

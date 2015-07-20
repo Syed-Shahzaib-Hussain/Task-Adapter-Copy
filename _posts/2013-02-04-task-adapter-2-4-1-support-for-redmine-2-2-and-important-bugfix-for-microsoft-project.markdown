@@ -31,7 +31,7 @@ comments: []
 <h3>Mantis Bug Tracker.</h3></p>
 <ul>
 <li>Support "show saved queries"</li>
-<li>exported tasks&#47;issues are not related to selected Project&#47;Query ID</li>
+<li>exported tasks/issues are not related to selected Project/Query ID</li>
 <li>exceptions when Project Key is not provided</li><br />
 </ul></p>
 <h3>Redmine.</h3></p>

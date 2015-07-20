@@ -25,4 +25,4 @@ Changes:</p>
 <ul>
 <li>Support for invalid (e.g. self-issued) SSL certificates often used by Redmine installations.<br />
 </ul><br />
-<a href="&#47;download">Download Task Adapter</a></p>
+<a href="/download">Download Task Adapter</a></p>

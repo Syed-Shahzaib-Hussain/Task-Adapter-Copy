@@ -31,4 +31,4 @@ The other changes are:</p>
 <li>Switched to the latest Vaadin web framework (7.0.0)</li>
 <li>Minor bugfixes for Redmine and Basecamp connectors.</li><br />
 </ul><br />
-<a href="http://www.taskadapter.com&#47;download">Download the latest Task Adapter</a> version.</p>
+<a href="http://www.taskadapter.com/download">Download the latest Task Adapter</a> version.</p>

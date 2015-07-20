@@ -25,5 +25,5 @@ comments: []
 <li>Added code changesets support to Issues.</li>
 <li>Faster network operations (reusing existing Http connections)</li>
 <li>Support for Redmine Project Members (requires Redmine 1.4.0+)</li></ul>
-<div><a href="https:&#47;&#47;github.com&#47;taskadapter&#47;redmine-java-api&#47;issues?milestone=2">Full changes list in version 1.11.0</a></div>
-<div><a href="https:&#47;&#47;github.com&#47;taskadapter&#47;redmine-java-api&#47;wiki&#47;Migration-Guide">Redmine Java API Migration Guide.</a></div></p>
+<div><a href="https://github.com/taskadapter/redmine-java-api/issues?milestone=2">Full changes list in version 1.11.0</a></div>
+<div><a href="https://github.com/taskadapter/redmine-java-api/wiki/Migration-Guide">Redmine Java API Migration Guide.</a></div></p>
