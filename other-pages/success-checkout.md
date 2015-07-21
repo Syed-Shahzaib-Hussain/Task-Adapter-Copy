@@ -13,8 +13,6 @@ wordpress_url: http://www.taskadapter.com/?page_id=489
 date: '2012-11-14 04:51:30 -0800'
 date_gmt: '2012-11-14 04:51:30 -0800'
 categories: []
-tags: []
-comments: []
 ---
 <p>Thank you for buying Task Adapter! You will receive an email with the license shortly.</p>
 <p>Please do not hesitate to contact us with your comments or suggestions.</p>

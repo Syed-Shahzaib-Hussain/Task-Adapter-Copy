@@ -15,8 +15,6 @@ date_gmt: '2012-10-26 23:39:05 -0700'
 categories:
 - Uncategorized
 - development
-tags: []
-comments: []
 ---
 <p>We admit that the current User Interface is pretty kludgy and inconsistent and we promise to make it better soon!</p>
 <p>The main usability problem affecting everyone is that the fields mapping panel is pretty illogical and you need to read documentation to figure out what "Remote ID" means on Microsoft Project tab and what exactly checkboxes affect on the fields mapping panels - loading the data from this connector or saving to it?</p>

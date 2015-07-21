@@ -15,8 +15,6 @@ date_gmt: '2011-07-13 19:55:00 -0700'
 categories:
 - redmine
 - release
-tags: []
-comments: []
 ---
 <p><span style="background-color: white; border-bottom-width: 0px; border-color: initial; border-image: initial; border-left-width: 0px; border-right-width: 0px; border-style: initial; border-top-width: 0px; color: #222222; font-family: Verdana, sans-serif; font-size: 12px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: left; vertical-align: baseline;"></span><br/><br />
 <form action="https://www.hostedredmine.com/issues" method="post" style="border-bottom-width: 0px; border-color: initial; border-image: initial; border-left-width: 0px; border-right-width: 0px; border-style: initial; border-top-width: 0px; display: inline; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; vertical-align: baseline;" target="_blank">

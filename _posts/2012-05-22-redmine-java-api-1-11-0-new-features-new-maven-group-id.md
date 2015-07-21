@@ -14,8 +14,6 @@ date: '2012-05-22 23:04:00 -0700'
 date_gmt: '2012-05-22 23:04:00 -0700'
 categories:
 - redmine java api
-tags: []
-comments: []
 ---
 <p>Redmine Java API 1.11.0 is released. It is available in Maven Central repository.<br/><br/>Changes list:<br/><br/>
 <ul>

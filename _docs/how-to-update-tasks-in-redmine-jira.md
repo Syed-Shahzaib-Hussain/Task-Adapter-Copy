@@ -13,8 +13,6 @@ wordpress_url: http://www.taskadapter.com/?page_id=754
 date: '2015-07-09 04:36:53 -0700'
 date_gmt: '2015-07-09 04:36:53 -0700'
 categories: []
-tags: []
-comments: []
 ---
 <h2>Use-case:</h2><br />
 You have a Microsoft Project XML&nbsp;file that you want to export to your bug tracker (like Redmine or JIRA). After this you want to make some changes in the project file and send updates to the bug tracker rather than creating a bunch of almost-duplicated tasks.</p>

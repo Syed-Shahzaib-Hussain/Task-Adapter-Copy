@@ -14,7 +14,5 @@ date: '2012-01-21 07:50:00 -0800'
 date_gmt: '2012-01-21 07:50:00 -0800'
 categories:
 - redmine java api
-tags: []
-comments: []
 ---
 <p>Redmine Java API 1.7.0 release had a regression, which we fixed in 1.7.1:&nbsp;<a href="http://code.google.com/p/redmine-java-api/issues/detail?id=105">Exception due to redmine.log.properties file not found</a></p>

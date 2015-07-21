@@ -14,8 +14,6 @@ wordpress_url: http://www.taskadapter.com/wp/?page_id=90
 date: '2012-05-25 00:45:20 -0700'
 date_gmt: '2012-05-25 00:45:20 -0700'
 categories: []
-tags: []
-comments: []
 ---
 
 Redmine Subprojects are not directly supported by Task Adapter.

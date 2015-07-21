@@ -15,8 +15,6 @@ date_gmt: '2014-01-15 21:09:40 -0800'
 categories:
 - release
 - mantisbt
-tags: []
-comments: []
 ---
 <p>A bug has been reported by one of our users:</p>
 <p>* Task Adapter does not process "Assignee" field for Mantis Bug Tracker (MantisBT) 1.2.6.</p>

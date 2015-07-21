@@ -16,8 +16,6 @@ wordpress_url: http://www.taskadapter.com/wp/?page_id=23
 date: '2012-05-24 05:27:53 -0700'
 date_gmt: '2012-05-24 05:27:53 -0700'
 categories: []
-tags: []
-comments: []
 ---
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 

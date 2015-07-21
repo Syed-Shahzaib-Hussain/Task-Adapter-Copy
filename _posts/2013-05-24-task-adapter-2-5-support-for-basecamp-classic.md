@@ -16,7 +16,5 @@ categories:
 - release
 - basecamp
 - basecamp classic
-tags: []
-comments: []
 ---
 <p>The latest Task Adapter release brings support for <a href="http://basecamp.com/classic">Basecamp Classic</a> project management system.</p>

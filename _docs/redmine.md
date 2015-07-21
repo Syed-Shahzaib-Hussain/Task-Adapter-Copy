@@ -13,8 +13,6 @@ wordpress_url: http://www.taskadapter.com/wp/?page_id=52
 date: '2012-05-24 05:48:50 -0700'
 date_gmt: '2012-05-24 05:48:50 -0700'
 categories: []
-tags: []
-comments: []
 ---
 **Note: "REST API" must be enabled in your Redmine for this connector to work.**
 <a href="#rest_api">How to enable REST API in Redmine</a>

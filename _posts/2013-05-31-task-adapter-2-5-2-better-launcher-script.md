@@ -14,8 +14,6 @@ date: '2013-05-31 22:45:43 -0700'
 date_gmt: '2013-05-31 22:45:43 -0700'
 categories:
 - release
-tags: []
-comments: []
 ---
 <p>Changes in version 2.5.2:</p>
 <ul>

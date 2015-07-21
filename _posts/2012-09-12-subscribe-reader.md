@@ -14,8 +14,6 @@ date: '2012-09-12 20:17:48 -0700'
 date_gmt: '2012-09-12 20:17:48 -0700'
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <p>Do you know you can subscribe to our website's updates to see them in your favorite RSS/Atom Reader?</p>
 <p>Try this link:&nbsp;<a href="http://www.taskadapter.com/?feed=atom">http://www.taskadapter.com/?feed=atom</a></p>

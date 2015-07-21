@@ -15,8 +15,6 @@ date_gmt: '2013-11-27 00:20:38 -0800'
 categories:
 - Uncategorized
 - release
-tags: []
-comments: []
 ---
 <p>Two changes in Task Adapter v. 2.6.2:</p>
 <ul>

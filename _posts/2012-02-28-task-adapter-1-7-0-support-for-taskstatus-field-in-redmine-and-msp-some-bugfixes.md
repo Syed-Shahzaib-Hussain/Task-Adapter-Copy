@@ -17,8 +17,6 @@ categories:
 - redmine
 - release
 - microsoft project
-tags: []
-comments: []
 ---
 <div dir="ltr" style="text-align: left;" trbidi="on">Task Adapter 1.7.0 is&nbsp;<a href="http://taskadapter.com/download">ready for download</a>.<br/><br/><b>New feature</b>: Support for TaskStatus field in Redmine and MSP<br/><br/>Bugfixes: <br/>
 <ul>

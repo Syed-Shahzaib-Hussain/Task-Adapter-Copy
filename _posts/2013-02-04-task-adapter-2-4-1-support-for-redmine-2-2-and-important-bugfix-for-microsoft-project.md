@@ -18,8 +18,6 @@ categories:
 - release
 - microsoft project
 - mantisbt
-tags: []
-comments: []
 ---
 <p>Task Adapter 2.4.1 brings several bugfixes and one minor feature in Mantis Bug Tracker editor.</p>
 <h3>Microsoft Project.</h3></p>

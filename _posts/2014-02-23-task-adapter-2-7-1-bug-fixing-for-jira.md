@@ -15,8 +15,6 @@ date_gmt: '2014-02-23 07:18:55 -0800'
 categories:
 - atlassian jira
 - release
-tags: []
-comments: []
 ---
 <p>Task Adapter 2.7.1 has two important bug fixes for Atlassian Jira connector:</p>
 <ul>

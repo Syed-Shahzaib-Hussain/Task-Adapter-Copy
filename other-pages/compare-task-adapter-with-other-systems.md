@@ -13,8 +13,6 @@ wordpress_url: http://www.taskadapter.com/wp/?page_id=109
 date: '2012-05-25 01:00:22 -0700'
 date_gmt: '2012-05-25 01:00:22 -0700'
 categories: []
-tags: []
-comments: []
 ---
 <h3>Some options you might consider for integrating<br />
 Microsoft Project and systems like Atlassian Jira, Redmine, Mantis BT, etc:</h3></p>

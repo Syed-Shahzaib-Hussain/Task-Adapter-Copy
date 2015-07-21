@@ -18,10 +18,8 @@ categories:
 - release
 - mantisbt
 - github
-tags: []
-comments: []
 ---
-<p><br/>
+
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;"><strong>Task Adapter 1.5.0</strong>&nbsp;is ready for<span style="color: #7a7a7a;">&nbsp;</span><a href="http://taskadapter.com/download" style="color: #1487d4; text-decoration: none;">download</a><span style="color: #7a7a7a;">.</span></span></div>
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 1.2em; margin-top: 0.6em; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;"><span style="background-color: white;">This is a major release, which supports 2 new systems<span style="color: #7a7a7a;">:&nbsp;</span><strong style="color: #7a7a7a;"><a href="http://taskadapter.com/github" style="color: #1487d4; text-decoration: none;">Github</a>&nbsp;</strong>and&nbsp;<strong style="color: #7a7a7a;"><a href="http://taskadapter.com/mantisbt" style="color: #1487d4; text-decoration: none;">MantisBT</a></strong><span style="color: #7a7a7a;">.</span></span></div>
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 1.2em; margin-top: 0.6em; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;"><strong style="background-color: white; border-color: initial; border-style: initial;">New features</strong></div>

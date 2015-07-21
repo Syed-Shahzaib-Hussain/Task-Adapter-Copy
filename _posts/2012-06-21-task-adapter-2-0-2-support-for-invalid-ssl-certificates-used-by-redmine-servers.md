@@ -15,8 +15,6 @@ date_gmt: '2012-06-21 04:38:57 -0700'
 categories:
 - redmine
 - release
-tags: []
-comments: []
 ---
 <p>Task Adapter 2.0.2 was release a few minutes ago.<br />
 Changes:</p>

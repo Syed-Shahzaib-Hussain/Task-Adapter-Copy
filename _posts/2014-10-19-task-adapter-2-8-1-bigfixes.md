@@ -15,7 +15,5 @@ date_gmt: '2014-10-19 03:42:34 -0700'
 categories:
 - Uncategorized
 - release
-tags: []
-comments: []
 ---
 <p>The new release has several User Interface bugs fixed. No changes in the data connectors themselves (Jira, Redmine, etc).</p>

@@ -15,8 +15,6 @@ date_gmt: '2012-04-06 17:24:00 -0700'
 categories:
 - redmine
 - redmine java api
-tags: []
-comments: []
 ---
 <p>Redmine Java API 1.9.0 is released, <a href="http://search.maven.org/#artifactdetails%7Ccom.googlecode%7Credmine-java-api%7C1.9.0%7Cjar">available in Maven Central</a>.<br/>Changes list:<br/><br/>
 <div class="gridtile" style="border-bottom-color: rgb(195, 217, 255); border-bottom-left-radius: 6px; border-bottom-right-radius: 6px; border-bottom-style: solid; border-bottom-width: 2px; border-image: initial; border-left-color: rgb(195, 217, 255); border-left-style: solid; border-left-width: 2px; border-right-color: rgb(195, 217, 255); border-right-style: solid; border-right-width: 2px; border-top-color: rgb(195, 217, 255); border-top-left-radius: 6px; border-top-right-radius: 6px; border-top-style: solid; border-top-width: 2px; float: left; font-family: arial, sans-serif; font-size: 13px; margin-bottom: 2px; margin-left: 2px; margin-right: 2px; margin-top: 2px; padding-bottom: 1px; padding-left: 1px; padding-right: 1px; padding-top: 1px; width: 10em;">

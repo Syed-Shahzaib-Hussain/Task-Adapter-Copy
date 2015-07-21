@@ -16,8 +16,6 @@ categories:
 - redmine
 - atlassian jira
 - release
-tags: []
-comments: []
 ---
 <p>TaskAdapter 2.6.1 has two minor fixes:</p>
 <ul>

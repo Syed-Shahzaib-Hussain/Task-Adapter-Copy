@@ -18,8 +18,6 @@ wordpress_url: http://www.taskadapter.com/wp/?page_id=15
 date: '2012-05-24 05:26:10 -0700'
 date_gmt: '2012-05-24 05:26:10 -0700'
 categories: []
-tags: []
-comments: []
 ---
 
 <a class="hvr-rectangle-out button" href="https://bitbucket.org/taskadapter/releases/downloads/taskadapter-2.10.0.zip">Download latest version</a>

@@ -16,8 +16,6 @@ categories:
 - redmine
 - redmine java api
 - release
-tags: []
-comments: []
 ---
 <p>Today we released Redmine Java API v. 1.22.</p>
 <p>Copying release notes from Github:</p>

@@ -18,8 +18,6 @@ categories:
 - atlassian jira
 - release
 - microsoft project
-tags: []
-comments: []
 ---
 <p>Main improvements are:</p>
 <p>* support default values for empty fields.</p>

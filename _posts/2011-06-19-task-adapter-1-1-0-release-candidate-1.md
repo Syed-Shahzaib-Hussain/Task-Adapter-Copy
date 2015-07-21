@@ -17,8 +17,6 @@ categories:
 - atlassian jira
 - release
 - microsoft project
-tags: []
-comments: []
 ---
 <p><br/>
 <div style="color: #7a7a7a; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;"><b>Task Adapter 1.1.0 Release Candidate 1</b>&nbsp;is ready for download at&nbsp;<a href="http://www.taskadapter.com/download" style="color: #1487d4; text-decoration: none;">http://www.taskadapter.com/download</a>.</span></div>

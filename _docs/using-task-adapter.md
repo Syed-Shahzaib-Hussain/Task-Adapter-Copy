@@ -13,8 +13,6 @@ wordpress_url: http://www.taskadapter.com/wp/?page_id=12
 date: '2012-05-24 05:23:59 -0700'
 date_gmt: '2012-05-24 05:23:59 -0700'
 categories: []
-tags: []
-comments: []
 ---
 <ul>
 <li><a href="#create_config_file">Create a config</a></li>

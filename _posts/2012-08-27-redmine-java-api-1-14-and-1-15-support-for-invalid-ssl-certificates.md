@@ -14,8 +14,6 @@ date: '2012-08-27 02:29:01 -0700'
 date_gmt: '2012-08-27 02:29:01 -0700'
 categories:
 - redmine java api
-tags: []
-comments: []
 ---
 <p>Redmine Java API 1.14 brings support for invalid SSL certificates. Before this, the API would refuse to work with servers using self-signed certificates (which seems to be the absolute majority of all the SSL certificates in the world).</p>
 <p>Details:&nbsp;<a href="https://github.com/taskadapter/redmine-java-api/issues?milestone=5&amp;state=closed">https://github.com/taskadapter/redmine-java-api/issues?milestone=5</a></p>

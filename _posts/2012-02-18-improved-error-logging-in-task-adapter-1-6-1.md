@@ -15,7 +15,5 @@ date_gmt: '2012-02-18 00:52:00 -0800'
 categories:
 - redmine
 - release
-tags: []
-comments: []
 ---
 <p>Task Adapter 1.6.1 is released with minor changes in error logging for Redmine connector. No other changes in this version.</p>

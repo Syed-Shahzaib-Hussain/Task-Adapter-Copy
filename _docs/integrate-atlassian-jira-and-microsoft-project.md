@@ -13,8 +13,6 @@ wordpress_url: http://www.taskadapter.com/wp/?page_id=97
 date: '2012-05-25 00:52:33 -0700'
 date_gmt: '2012-05-25 00:52:33 -0700'
 categories: []
-tags: []
-comments: []
 ---
 <p><strong>Sample usage scenarios for Task Adapter:</strong></p>
 <p><strong>1. From Microsoft Project to Atlassian Jira.</strong></p>

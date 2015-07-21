@@ -17,8 +17,6 @@ categories:
 - release
 - microsoft project
 - basecamp
-tags: []
-comments: []
 ---
 <p>Task Adapter 2.4.2 brings several bug fixes, most importantly -</p>
 <ul>

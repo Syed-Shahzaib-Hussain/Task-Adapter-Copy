@@ -14,8 +14,6 @@ date: '2012-06-22 03:57:21 -0700'
 date_gmt: '2012-06-22 03:57:21 -0700'
 categories:
 - redmine java api
-tags: []
-comments: []
 ---
 <p>We released two Redmine Java API versions last week:</p>
 <p>1.12.0 with support for Redmine 2.0.2 (which uses a different date format from Redmine 1.4.x)</p>

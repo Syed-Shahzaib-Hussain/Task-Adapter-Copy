@@ -15,7 +15,5 @@ date_gmt: '2014-09-08 00:30:30 -0700'
 categories:
 - redmine
 - redmine java api
-tags: []
-comments: []
 ---
 <p>Our open-source Redmine Java API library (https://github.com/taskadapter/redmine-java-api) is verified to work with Redmine 2.5.2. This means that Task Adapter supports Redmine 2.5.2 as well because it uses that library.</p>

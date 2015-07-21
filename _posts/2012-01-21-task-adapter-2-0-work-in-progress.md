@@ -14,8 +14,6 @@ date: '2012-01-21 08:30:00 -0800'
 date_gmt: '2012-01-21 08:30:00 -0800'
 categories:
 - development
-tags: []
-comments: []
 ---
 <p>We're working on the web-based version of Task Adapter. It will have several benefits comparing to the old Eclipse-based application:<br/><br/>
 <ul>

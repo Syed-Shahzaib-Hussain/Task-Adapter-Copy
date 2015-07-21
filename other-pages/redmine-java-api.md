@@ -13,8 +13,6 @@ wordpress_url: http://www.taskadapter.com/?page_id=292
 date: '2012-06-09 03:03:55 -0700'
 date_gmt: '2012-06-09 03:03:55 -0700'
 categories: []
-tags: []
-comments: []
 ---
 <p>We originally created Redmine Java library to use in Task Adapter application. We open-sourced it in 2011 and moved to Github in 2012. </p>
 <p>We hope you find this library useful. Your code patches and other contributions are always welcome!</p>

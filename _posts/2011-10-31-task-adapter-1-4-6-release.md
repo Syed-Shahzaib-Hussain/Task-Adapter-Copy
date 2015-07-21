@@ -17,8 +17,6 @@ categories:
 - atlassian jira
 - release
 - microsoft project
-tags: []
-comments: []
 ---
 <p><br/>
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;"><b>Task Adapter 1.4.6</b>&nbsp;is<a href="http://www.taskadapter.com/download"> ready for download</a>.</span></div>

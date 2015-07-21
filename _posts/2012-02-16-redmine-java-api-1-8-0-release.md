@@ -14,8 +14,6 @@ date: '2012-02-16 03:28:00 -0800'
 date_gmt: '2012-02-16 03:28:00 -0800'
 categories:
 - redmine java api
-tags: []
-comments: []
 ---
 <div>Available in <a href="http://search.maven.org/#artifactdetails%7Ccom.googlecode%7Credmine-java-api%7C1.8.0%7Cjar">Maven Central</a>.&nbsp;Changes list:<br/><br/><br/>
 <div class="gridtile" style="background-color: white; border-bottom-color: rgb(195, 217, 255); border-bottom-left-radius: 6px; border-bottom-right-radius: 6px; border-bottom-style: solid; border-bottom-width: 2px; border-image: initial; border-left-color: rgb(195, 217, 255); border-left-style: solid; border-left-width: 2px; border-right-color: rgb(195, 217, 255); border-right-style: solid; border-right-width: 2px; border-top-color: rgb(195, 217, 255); border-top-left-radius: 6px; border-top-right-radius: 6px; border-top-style: solid; border-top-width: 2px; float: left; font-family: arial, sans-serif; font-size: 13px; margin-bottom: 2px; margin-left: 2px; margin-right: 2px; margin-top: 2px; padding-bottom: 1px; padding-left: 1px; padding-right: 1px; padding-top: 1px; width: 10em;">

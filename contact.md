@@ -19,8 +19,6 @@ wordpress_url: http://www.taskadapter.com/wp/?page_id=21
 date: '2012-05-24 05:27:39 -0700'
 date_gmt: '2012-05-24 05:27:39 -0700'
 categories: []
-tags: []
-comments: []
 ---
 ## Email
 

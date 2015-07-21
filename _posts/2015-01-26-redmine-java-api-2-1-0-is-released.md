@@ -14,8 +14,6 @@ date: '2015-01-26 09:50:51 -0800'
 date_gmt: '2015-01-26 09:50:51 -0800'
 categories:
 - redmine java api
-tags: []
-comments: []
 ---
 <p>We just released a new version of Redmine Java API: 2.1.0.</p>
 <p>Main changes:</p>

@@ -16,8 +16,6 @@ categories:
 - redmine
 - atlassian jira
 - release
-tags: []
-comments: []
 ---
 <p><span style="background-color: white; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">Highlights:</span><br/>
 <ul style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">

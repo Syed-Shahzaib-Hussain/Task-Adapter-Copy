@@ -13,8 +13,6 @@ wordpress_url: http://www.taskadapter.com/?page_id=361
 date: '2012-06-25 02:33:31 -0700'
 date_gmt: '2012-06-25 02:33:31 -0700'
 categories: []
-tags: []
-comments: []
 ---
 <p>Microsoft Project (MSP) is a powerful project management tool.</p>
 <p>Unfortunately, the project plan created by it is almost impossible to keep up-to-date. Many managers use Microsoft Project in the beginning of a project to roughly estimate required resources and completion date, but when the project actually starts, the plan quickly becomes out of date and useless.</p>

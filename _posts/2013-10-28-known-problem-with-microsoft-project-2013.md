@@ -13,10 +13,7 @@ wordpress_url: http://www.taskadapter.com/?p=621
 date: '2013-10-28 07:03:54 -0700'
 date_gmt: '2013-10-28 07:03:54 -0700'
 categories:
-- Uncategorized
 - microsoft project
-tags: []
-comments: []
 ---
 <p>Hi!<br />
 We have discovered a problem with loading data from XML files produced by Microsoft Project 2013. We are looking into this.</p>

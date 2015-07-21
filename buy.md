@@ -18,8 +18,6 @@ wordpress_url: http://www.taskadapter.com/wp/?page_id=37
 date: '2012-05-24 05:34:29 -0700'
 date_gmt: '2012-05-24 05:34:29 -0700'
 categories: []
-tags: []
-comments: []
 ---
 Task Adapter 1-year license. <a href="/license-agreement">View the license agreement</a>.
 

@@ -17,8 +17,6 @@ categories:
 - release
 - mantisbt
 - basecamp
-tags: []
-comments: []
 ---
 <p>Task Adapter 2.4 was released today.</p>
 <p>It features support for Basecamp project management system and a lot of bugfixes, primarily in the User Interface (specifically - in Redmine and Mantis Bug Tracker editors).<br />

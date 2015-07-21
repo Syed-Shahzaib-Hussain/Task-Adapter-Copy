@@ -19,8 +19,6 @@ categories:
 - release
 - microsoft project
 - mantisbt
-tags: []
-comments: []
 ---
 <p>Good news, everyone!&nbsp;Big changes in TaskAdapter 2.10.0:</p>
 <h3>Support for Redmine 3.0.x.</h3><br />

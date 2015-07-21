@@ -14,8 +14,6 @@ wordpress_url: http://www.taskadapter.com/wp/?page_id=103
 date: '2012-05-25 00:55:40 -0700'
 date_gmt: '2012-05-25 00:55:40 -0700'
 categories: []
-tags: []
-comments: []
 ---
 
 ### User story: "I have a Microsoft Project plan and I want to export the tasks to my JIRA".

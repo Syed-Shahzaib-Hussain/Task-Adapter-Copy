@@ -16,8 +16,6 @@ categories:
 - redmine
 - release
 - microsoft project
-tags: []
-comments: []
 ---
 <p><br/>
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;"><b>Highlights:</b></span></div>

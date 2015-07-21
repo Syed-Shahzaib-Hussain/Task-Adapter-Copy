@@ -15,8 +15,6 @@ date_gmt: '2011-09-22 18:59:00 -0700'
 categories:
 - redmine
 - release
-tags: []
-comments: []
 ---
 <p><span style="background-color: white; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">Version 1.4.3 has one important bugfix in Redmine Connector:</span><br/>
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"></div>

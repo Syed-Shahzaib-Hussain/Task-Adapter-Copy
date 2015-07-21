@@ -15,8 +15,6 @@ date_gmt: '2011-05-31 21:00:00 -0700'
 categories:
 - atlassian jira
 - release
-tags: []
-comments: []
 ---
 <p><br/>
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;">Task Adapter 1.0.24 is released on May 31, 2011.</span></div><br />

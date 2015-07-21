@@ -16,8 +16,6 @@ categories:
 - redmine
 - release
 - microsoft project
-tags: []
-comments: []
 ---
 <p><strong style="background-color: white; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">Task Adapter 1.5.1</strong><span style="background-color: white; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">&nbsp;is <a href="http://www.taskadapter.com/download">ready for download</a></span><span style="background-color: white; color: #7a7a7a; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">.</span><br/>
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><strong style="background-color: white;">Bug fixing:</strong></div>

@@ -15,8 +15,6 @@ date_gmt: '2014-03-15 20:47:09 -0700'
 categories:
 - atlassian jira
 - release
-tags: []
-comments: []
 ---
 <p>Task Adapter v. 2.8 supports creating sub-tasks in Atlassian Jira.<br />
 There are no other changes in this version.</p>

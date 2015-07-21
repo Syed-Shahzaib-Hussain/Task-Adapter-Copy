@@ -14,8 +14,6 @@ date: '2014-01-17 23:51:57 -0800'
 date_gmt: '2014-01-17 23:51:57 -0800'
 categories:
 - release
-tags: []
-comments: []
 ---
 <p><span style="line-height: 1.5em;">Task Adapter 2.7 brings support for drag-n-drop operations for Microsoft Project files.</span></p>
 <p>Now instead of providing path to your MPP or XML files in "Microsoft Project Editor", you can simply drag-n-drop your file to the export button, the file will be loaded right away and the export will start &nbsp;automatically.</p>

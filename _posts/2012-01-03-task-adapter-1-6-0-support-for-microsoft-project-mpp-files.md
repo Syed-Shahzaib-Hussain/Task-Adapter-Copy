@@ -18,8 +18,6 @@ categories:
 - release
 - microsoft project
 - mantisbt
-tags: []
-comments: []
 ---
 <p>Task Adapter 1.6.0 is&nbsp;<a href="http://taskadapter.com/download">ready for download</a>. Highlights:<br/>
 <ul>

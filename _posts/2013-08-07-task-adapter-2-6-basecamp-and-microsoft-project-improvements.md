@@ -16,8 +16,6 @@ categories:
 - release
 - microsoft project
 - basecamp classic
-tags: []
-comments: []
 ---
 <p>Task Adapter 2.6 release changelog:</p>
 <h2>Basecamp Classic:</h2></p>

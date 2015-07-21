@@ -14,8 +14,6 @@ wordpress_url: http://www.taskadapter.com/?page_id=604
 date: '2013-10-18 02:12:47 -0700'
 date_gmt: '2013-10-18 02:12:47 -0700'
 categories: []
-tags: []
-comments: []
 ---
 
 We offer **access to the Task Adapter source code for $1500**.

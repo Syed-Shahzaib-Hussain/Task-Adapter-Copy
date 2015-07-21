@@ -15,7 +15,5 @@ date_gmt: '2012-12-08 05:32:05 -0800'
 categories:
 - development
 - basecamp
-tags: []
-comments: []
 ---
 <p>The next Task Adapter release will support Basecamp - one the most popular (and brilliant) project management tools out there. We have received enough request to support it, so - stay tuned...</p>

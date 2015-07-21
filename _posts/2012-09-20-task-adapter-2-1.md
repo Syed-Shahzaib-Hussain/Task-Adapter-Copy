@@ -18,8 +18,6 @@ categories:
 - release
 - microsoft project
 - github
-tags: []
-comments: []
 ---
 <p>Task Adapter 2.1 looks and behaves similarly to version 2.0, but its internals were significantly redesigned for better maintainability and testability.</p>
 <p>The main user-facing changes in 2.1 release are:</p>

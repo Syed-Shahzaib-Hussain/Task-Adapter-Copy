@@ -14,8 +14,6 @@ date: '2012-01-14 21:46:00 -0800'
 date_gmt: '2012-01-14 21:46:00 -0800'
 categories:
 - redmine java api
-tags: []
-comments: []
 ---
 <p>We have released Redmine Java API 1.7.0 with several new features and&nbsp;better support for Redmine 1.3.0.<br/><br/>Redmine development is going full speed and its remote interface is changed often. Reliable support for all possible Redmine versions in every Java API release is theoretically possible, but very expensive (let's say - too expensive for a free library). <br/>Given that upgrade to Redmine 1.3.0 is pretty simple,&nbsp;the new Redmine Java API 1.7.0 release is tested with Redmine 1.3.0 only and will not support older Redmine versions due to changes in "issue relations" format introduced in Redmine 1.3.0.<br/><br/>Please contact us if you need support for some specific Redmine version: we can do this for a fee.<br/>Although we strongly recommend upgrading your Redmine to version 1.3.0: it has much better remote API and a lot of bugs fixed.<br/><br/><br/><br />
 <table class="wikitable" style="-webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; background-color: white; border-bottom-color: rgb(204, 204, 204); border-bottom-style: solid; border-bottom-width: 1px; border-image: initial; border-left-color: rgb(204, 204, 204); border-left-style: solid; border-left-width: 1px; border-right-color: rgb(204, 204, 204); border-right-style: solid; border-right-width: 1px; border-top-color: rgb(204, 204, 204); border-top-style: solid; border-top-width: 1px; color: black; font-family: arial, sans-serif; font-size: 13px;">

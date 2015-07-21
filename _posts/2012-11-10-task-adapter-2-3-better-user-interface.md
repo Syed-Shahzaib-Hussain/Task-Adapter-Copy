@@ -18,8 +18,6 @@ categories:
 - microsoft project
 - mantisbt
 - github
-tags: []
-comments: []
 ---
 <p>Task Adapter 2.3 brings important changes in the User Interface.</p>
 <p>First of all, we <strong>combined two task fields mapping panels into one</strong> as promised in the previous blog post. This is a big change and we ask you to try this out and let us know what you think of it.</p>

@@ -17,8 +17,6 @@ categories:
 - atlassian jira
 - release
 - microsoft project
-tags: []
-comments: []
 ---
 <p>Task Adapter version 2.2 has 1 new feature and 3 important bugfixes:</p>
 <p>Feature:</p>

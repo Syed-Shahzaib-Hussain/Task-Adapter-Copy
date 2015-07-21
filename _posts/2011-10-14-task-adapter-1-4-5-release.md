@@ -15,8 +15,6 @@ date_gmt: '2011-10-14 18:56:00 -0700'
 categories:
 - redmine
 - release
-tags: []
-comments: []
 ---
 <p><br/>
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;"><b>Task Adapter 1.4.5</b>&nbsp;is r<a href="http://www.taskadapter.com/download">eady for download</a><span style="color: #7a7a7a;">.</span></span></div>

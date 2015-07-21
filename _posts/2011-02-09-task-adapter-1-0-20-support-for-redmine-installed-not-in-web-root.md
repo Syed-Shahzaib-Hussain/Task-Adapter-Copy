@@ -15,8 +15,6 @@ date_gmt: '2011-02-09 22:25:00 -0800'
 categories:
 - redmine
 - release
-tags: []
-comments: []
 ---
 <p><br/><br />
 <h1 style="font-family: 'Myriad Pro', 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 32px; line-height: 38px; margin-bottom: 20px; margin-left: 0px; margin-right: 0px; margin-top: 0px; text-shadow: rgb(234, 241, 234) 1px 1px 1px;">

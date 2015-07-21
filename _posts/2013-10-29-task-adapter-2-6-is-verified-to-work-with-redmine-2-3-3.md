@@ -14,7 +14,5 @@ date: '2013-10-29 18:48:49 -0700'
 date_gmt: '2013-10-29 18:48:49 -0700'
 categories:
 - redmine
-tags: []
-comments: []
 ---
 <p>All automated tests pass.</p>
