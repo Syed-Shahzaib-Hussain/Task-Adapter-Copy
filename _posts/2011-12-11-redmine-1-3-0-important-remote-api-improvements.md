@@ -5,9 +5,6 @@ author:
   display_name: admin
   login: admin
   email: alskor@gmail.com
-  url: ''
-author_login: admin
-author_email: alskor@gmail.com
 wordpress_id: 263
 wordpress_url: http://www.taskadapter.com/2011/12/11/redmine-1-3-0-important-remote-api-improvements/
 date: '2011-12-11 23:10:00 -0800'

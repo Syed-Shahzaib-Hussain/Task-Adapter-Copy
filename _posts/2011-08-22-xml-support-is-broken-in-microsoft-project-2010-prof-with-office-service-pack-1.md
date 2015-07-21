@@ -6,9 +6,6 @@ author:
   display_name: admin
   login: admin
   email: alskor@gmail.com
-  url: ''
-author_login: admin
-author_email: alskor@gmail.com
 wordpress_id: 253
 wordpress_url: http://www.taskadapter.com/2011/08/22/xml-support-is-broken-in-microsoft-project-2010-prof-with-office-service-pack-1/
 date: '2011-08-22 19:09:00 -0700'

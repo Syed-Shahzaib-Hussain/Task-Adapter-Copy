@@ -6,9 +6,6 @@ author:
   display_name: admin
   login: admin
   email: alskor@gmail.com
-  url: ''
-author_login: admin
-author_email: alskor@gmail.com
 wordpress_id: 276
 wordpress_url: http://www.taskadapter.com/2012/04/02/task-adapter-1-7-1-important-bugfix-and-new-library-for-microsoft-project-mpp-xml-files-processing/
 date: '2012-04-02 19:04:00 -0700'

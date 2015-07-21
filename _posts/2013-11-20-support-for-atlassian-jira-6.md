@@ -5,9 +5,6 @@ author:
   display_name: admin
   login: admin
   email: alskor@gmail.com
-  url: ''
-author_login: admin
-author_email: alskor@gmail.com
 wordpress_id: 636
 wordpress_url: http://www.taskadapter.com/?p=636
 date: '2013-11-20 21:33:14 -0800'

@@ -8,15 +8,8 @@ author:
   display_name: admin
   login: admin
   email: alskor@gmail.com
-  url: ''
-author_login: admin
-author_email: alskor@gmail.com
-wordpress_id: 23
-wordpress_url: http://www.taskadapter.com/wp/?page_id=23
-date: '2012-05-24 05:27:53 -0700'
-date_gmt: '2012-05-24 05:27:53 -0700'
-categories: []
 ---
+
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
   <ul class="post-list">

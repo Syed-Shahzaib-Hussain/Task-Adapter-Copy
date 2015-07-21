@@ -5,9 +5,6 @@ author:
   display_name: admin
   login: admin
   email: alskor@gmail.com
-  url: ''
-author_login: admin
-author_email: alskor@gmail.com
 wordpress_id: 243
 wordpress_url: http://www.taskadapter.com/2011/04/12/version-1-0-21-configurable-due-date-mapping-for-microsoft-project/
 date: '2011-04-12 21:22:00 -0700'

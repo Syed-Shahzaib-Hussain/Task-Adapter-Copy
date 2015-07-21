@@ -5,9 +5,6 @@ author:
   display_name: admin
   login: admin
   email: alskor@gmail.com
-  url: ''
-author_login: admin
-author_email: alskor@gmail.com
 wordpress_id: 246
 wordpress_url: http://www.taskadapter.com/2011/05/27/taskadapter-com-website-outage/
 date: '2011-05-27 21:02:00 -0700'

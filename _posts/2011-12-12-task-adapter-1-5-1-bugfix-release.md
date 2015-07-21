@@ -5,9 +5,6 @@ author:
   display_name: admin
   login: admin
   email: alskor@gmail.com
-  url: ''
-author_login: admin
-author_email: alskor@gmail.com
 wordpress_id: 264
 wordpress_url: http://www.taskadapter.com/2011/12/12/task-adapter-1-5-1-bugfix-release/
 date: '2011-12-12 21:42:00 -0800'

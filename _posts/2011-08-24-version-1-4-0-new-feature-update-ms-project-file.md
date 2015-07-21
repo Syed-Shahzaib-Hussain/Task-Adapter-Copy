@@ -5,9 +5,6 @@ author:
   display_name: admin
   login: admin
   email: alskor@gmail.com
-  url: ''
-author_login: admin
-author_email: alskor@gmail.com
 wordpress_id: 254
 wordpress_url: http://www.taskadapter.com/2011/08/24/version-1-4-0-new-feature-update-ms-project-file/
 date: '2011-08-24 19:06:00 -0700'

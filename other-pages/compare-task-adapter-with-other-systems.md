@@ -5,15 +5,9 @@ author:
   display_name: admin
   login: admin
   email: alskor@gmail.com
-  url: ''
-author_login: admin
-author_email: alskor@gmail.com
-wordpress_id: 109
-wordpress_url: http://www.taskadapter.com/wp/?page_id=109
 date: '2012-05-25 01:00:22 -0700'
-date_gmt: '2012-05-25 01:00:22 -0700'
-categories: []
 ---
+
 <h3>Some options you might consider for integrating<br />
 Microsoft Project and systems like Atlassian Jira, Redmine, Mantis BT, etc:</h3></p>
 <table border="1" cellspacing="1" cellpadding="8">

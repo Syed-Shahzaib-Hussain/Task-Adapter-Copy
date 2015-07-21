@@ -2,22 +2,12 @@
 layout: page
 title: Download
 permalink: /download/
-status: publish
 top_level_menu_weight: 8
 
-published: true
 author:
   display_name: admin
   login: admin
   email: alskor@gmail.com
-  url: ''
-author_login: admin
-author_email: alskor@gmail.com
-wordpress_id: 15
-wordpress_url: http://www.taskadapter.com/wp/?page_id=15
-date: '2012-05-24 05:26:10 -0700'
-date_gmt: '2012-05-24 05:26:10 -0700'
-categories: []
 ---
 
 <a class="hvr-rectangle-out button" href="https://bitbucket.org/taskadapter/releases/downloads/taskadapter-2.10.0.zip">Download latest version</a>

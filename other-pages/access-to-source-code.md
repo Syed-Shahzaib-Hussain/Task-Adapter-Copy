@@ -6,25 +6,18 @@ author:
   display_name: admin
   login: admin
   email: alskor@gmail.com
-  url: ''
-author_login: admin
-author_email: alskor@gmail.com
-wordpress_id: 604
-wordpress_url: http://www.taskadapter.com/?page_id=604
 date: '2013-10-18 02:12:47 -0700'
-date_gmt: '2013-10-18 02:12:47 -0700'
-categories: []
 ---
 
-We offer **access to the Task Adapter source code for $1500**.
+We offer **access to the Task Adapter source code**.
 
 <div>
 <ul>
 <li>This is a non-exclusive access which allows you to&nbsp;make any modifications to the source code and build Task Adapter product&nbsp;<b>for your own needs;</b>&nbsp;<b>redistribution is NOT permitted</b>.</li>
-<li>&nbsp;This includes some reasonable support time to help you with the dev environment, answer your questions about the source code, build process, etc.</li>
+<li>;This includes some reasonable support time to help you with the dev environment, answer your questions about the source code, build process, etc.</li>
 <li>You can get access to the main repository (and thus get all the future updates) or get your own copy.</li>
-<li>This allows you to use Task Adapter&nbsp;<b>on any number of computers (no licensing per user)</b>.</li>
-<li>The access is granted for 1 year from the date of the purchase.</li><br />
+<li>This allows you to use Task Adapter <b>on any number of computers (no licensing per user)</b>.</li>
+<li>The access is granted for 1 year from the date of the purchase.</li>
 </ul>
 
 <strong>Technical details:</strong>

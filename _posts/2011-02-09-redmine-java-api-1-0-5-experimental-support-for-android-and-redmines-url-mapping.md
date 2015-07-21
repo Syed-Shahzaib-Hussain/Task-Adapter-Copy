@@ -6,9 +6,6 @@ author:
   display_name: admin
   login: admin
   email: alskor@gmail.com
-  url: ''
-author_login: admin
-author_email: alskor@gmail.com
 wordpress_id: 241
 wordpress_url: http://www.taskadapter.com/2011/02/09/redmine-java-api-1-0-5-experimental-support-for-android-and-redmines-url-mapping/
 date: '2011-02-09 22:27:00 -0800'

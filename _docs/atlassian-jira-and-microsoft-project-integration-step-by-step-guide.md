@@ -6,14 +6,7 @@ author:
   display_name: admin
   login: admin
   email: alskor@gmail.com
-  url: ''
-author_login: admin
-author_email: alskor@gmail.com
-wordpress_id: 103
-wordpress_url: http://www.taskadapter.com/wp/?page_id=103
 date: '2012-05-25 00:55:40 -0700'
-date_gmt: '2012-05-25 00:55:40 -0700'
-categories: []
 ---
 
 ### User story: "I have a Microsoft Project plan and I want to export the tasks to my JIRA".
@@ -36,7 +29,9 @@ Use &ldquo;New Config&rdquo; button on the main application page to create a new
 </div><br />
 </div></p>
 <div>
-<h2>Configure.</h2></p>
+
+## Configure.
+
 <ol>
 <li>Here is what you will see for a new Atlassian Jira and Microsoft Project config:<br />
 <a href="http://www.taskadapter.com/wp-content/uploads/2012/05/default_jira_msp.png"><img title=""Edit config" for Atlassian Jira and Microsoft Project" alt=""Edit config" for Atlassian Jira and Microsoft Project" src="http://www.taskadapter.com/wp-content/uploads/2012/05/default_jira_msp.png" width="768" height="430" /></a></li></p>
@@ -73,7 +68,9 @@ You can change default &ldquo;mapping&rdquo; for some of them. E.g. Jira&rsquo;s
 <div></div><br />
 </div><br />
 </div></p>
-<h2><a id="update_msp_file" name="update_msp_file"></a>Update MSP File</h2><br />
+
+## <a id="update_msp_file" name="update_msp_file"></a>Update MSP File
+
 <a href="http://www.taskadapter.com/user-guide/using-task-adapter/#update_msp_file">Link to this page</a></p>
 <p>You can update a Microsoft Project XML file with the data from an external system (Redmine/Jira/Mantis&hellip;).</p>
 <ol>

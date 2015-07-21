@@ -5,9 +5,6 @@ author:
   display_name: admin
   login: admin
   email: alskor@gmail.com
-  url: ''
-author_login: admin
-author_email: alskor@gmail.com
 wordpress_id: 261
 wordpress_url: http://www.taskadapter.com/2011/12/02/task-adapter-1-5-0-github-and-mantisbt-support/
 date: '2011-12-02 19:52:00 -0800'

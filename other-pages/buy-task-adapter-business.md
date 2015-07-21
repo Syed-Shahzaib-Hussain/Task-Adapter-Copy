@@ -6,13 +6,7 @@ author:
   login: admin
   email: alskor@gmail.com
   url: ''
-author_login: admin
-author_email: alskor@gmail.com
-wordpress_id: 575
-wordpress_url: http://www.taskadapter.com/?page_id=575
 date: '2013-06-29 01:13:54 -0700'
-date_gmt: '2013-06-29 01:13:54 -0700'
-categories: []
 ---
 <p>You can buy the whole Task Adapter business, including:</p>
 <ol>

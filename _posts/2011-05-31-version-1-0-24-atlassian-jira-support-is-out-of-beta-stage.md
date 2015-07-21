@@ -5,9 +5,6 @@ author:
   display_name: admin
   login: admin
   email: alskor@gmail.com
-  url: ''
-author_login: admin
-author_email: alskor@gmail.com
 wordpress_id: 247
 wordpress_url: http://www.taskadapter.com/2011/05/31/version-1-0-24-atlassian-jira-support-is-out-of-beta-stage/
 date: '2011-05-31 21:00:00 -0700'

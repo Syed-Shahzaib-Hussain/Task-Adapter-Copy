@@ -5,9 +5,6 @@ author:
   display_name: admin
   login: admin
   email: alskor@gmail.com
-  url: ''
-author_login: admin
-author_email: alskor@gmail.com
 wordpress_id: 270
 wordpress_url: http://www.taskadapter.com/2012/01/14/open-source-saturday-redmine-java-api-1-7-0-release/
 date: '2012-01-14 21:46:00 -0800'

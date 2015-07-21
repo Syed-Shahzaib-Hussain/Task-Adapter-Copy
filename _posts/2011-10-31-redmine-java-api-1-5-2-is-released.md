@@ -5,9 +5,6 @@ author:
   display_name: admin
   login: admin
   email: alskor@gmail.com
-  url: ''
-author_login: admin
-author_email: alskor@gmail.com
 wordpress_id: 260
 wordpress_url: http://www.taskadapter.com/2011/10/31/redmine-java-api-1-5-2-is-released/
 date: '2011-10-31 22:27:00 -0700'
