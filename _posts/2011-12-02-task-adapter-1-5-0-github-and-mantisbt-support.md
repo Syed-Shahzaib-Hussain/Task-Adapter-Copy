@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 1.5.0: Github and MantisBT support'
 author:
   display_name: admin

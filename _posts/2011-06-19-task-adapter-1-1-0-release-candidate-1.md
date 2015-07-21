@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Task Adapter 1.1.0 Release Candidate 1
 author:
   display_name: admin

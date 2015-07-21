@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 2.6.5: bug fixed in MantisBT connector'
 author:
   display_name: admin

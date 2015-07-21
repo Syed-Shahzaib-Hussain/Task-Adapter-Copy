@@ -1,7 +1,5 @@
 ---
 layout: page
-status: publish
-published: true
 title: Buy Task Adapter business
 author:
   display_name: admin

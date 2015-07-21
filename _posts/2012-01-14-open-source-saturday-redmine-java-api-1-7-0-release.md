@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Open-source Saturday: Redmine Java API 1.7.0 release'
 author:
   display_name: admin

@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Version 1.0.24: Atlassian Jira support is out of "beta" stage.'
 author:
   display_name: admin

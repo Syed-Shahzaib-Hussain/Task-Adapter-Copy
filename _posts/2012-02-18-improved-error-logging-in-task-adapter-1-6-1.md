@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Improved error logging in Task Adapter 1.6.1
 author:
   display_name: admin

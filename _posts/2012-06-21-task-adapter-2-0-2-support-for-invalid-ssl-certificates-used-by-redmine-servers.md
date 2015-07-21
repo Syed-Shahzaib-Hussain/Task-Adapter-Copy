@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 2.0.2: support for invalid SSL certificates used by Redmine servers'
 author:
   display_name: admin

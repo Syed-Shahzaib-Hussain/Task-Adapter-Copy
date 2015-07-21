@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Redmine Java API 1.9.0: support for "Delete issue relations"'
 author:
   display_name: admin

@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 2.8.1: bigfixes'
 author:
   display_name: admin

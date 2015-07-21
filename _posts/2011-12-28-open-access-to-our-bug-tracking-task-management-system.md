@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Open access to our bug tracking / task management system
 author:
   display_name: admin

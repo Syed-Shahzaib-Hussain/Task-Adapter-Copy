@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 1.0.20: support for Redmine installed not in web root'
 author:
   display_name: admin

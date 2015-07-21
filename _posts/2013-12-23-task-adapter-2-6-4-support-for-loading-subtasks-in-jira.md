@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 2.6.4: Support for loading subtasks in Jira'
 author:
   display_name: admin

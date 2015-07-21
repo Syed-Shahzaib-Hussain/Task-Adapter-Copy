@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Redmine Java API 1.14 and 1.15: support for invalid SSL certificates'
 author:
   display_name: admin

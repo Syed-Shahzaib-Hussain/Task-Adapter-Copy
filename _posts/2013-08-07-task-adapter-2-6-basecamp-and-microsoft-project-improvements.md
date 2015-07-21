@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 2.6: Basecamp and Microsoft Project improvements'
 author:
   display_name: admin

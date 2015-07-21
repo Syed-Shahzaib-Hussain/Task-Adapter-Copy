@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 2.4.1: support for Redmine 2.2+ and important bugfix for Microsoft
   Project'
 author:

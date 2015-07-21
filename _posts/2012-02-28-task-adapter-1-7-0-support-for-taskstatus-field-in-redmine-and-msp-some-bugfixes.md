@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 1.7.0: support for TaskStatus field in Redmine and MSP. Some
   bugfixes.'
 author:

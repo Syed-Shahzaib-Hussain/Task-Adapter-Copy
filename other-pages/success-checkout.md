@@ -1,7 +1,5 @@
 ---
 layout: page
-status: publish
-published: true
 title: Thank you
 author:
   display_name: admin

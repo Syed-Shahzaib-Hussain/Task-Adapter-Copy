@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Redmine Java API 1.0.5: experimental support for Android and Redmine''s URL
   mapping'
 author:

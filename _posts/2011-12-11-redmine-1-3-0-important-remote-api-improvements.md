@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Redmine 1.3.0: important Remote API improvements'
 author:
   display_name: admin

@@ -1,7 +1,5 @@
 ---
 layout: docs
-status: publish
-published: true
 title: Mantis Bug Tracker integration
 author:
   display_name: admin

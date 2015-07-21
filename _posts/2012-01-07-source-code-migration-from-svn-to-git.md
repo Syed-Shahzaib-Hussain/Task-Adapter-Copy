@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Source code migration from SVN to GIT
 author:
   display_name: admin

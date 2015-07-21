@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 2.5.1: Support for MantisBT 1.2.9+'
 author:
   display_name: admin

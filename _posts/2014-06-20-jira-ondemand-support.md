@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Jira OnDemand support
 author:
   display_name: admin

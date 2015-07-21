@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 1.7.1: Important bugfix and new library for Microsoft Project
   (MPP, XML) files processing'
 author:

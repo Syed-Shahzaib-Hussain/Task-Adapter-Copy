@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Web-based Task Adapter 2.0 is here. Finally.
 author:
   display_name: admin

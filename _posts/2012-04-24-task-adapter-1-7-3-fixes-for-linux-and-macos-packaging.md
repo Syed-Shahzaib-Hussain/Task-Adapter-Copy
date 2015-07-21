@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 1.7.3: fixes for Linux and MacOS packaging'
 author:
   display_name: admin

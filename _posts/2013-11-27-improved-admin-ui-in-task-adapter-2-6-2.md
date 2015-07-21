@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Improved Admin UI in Task Adapter 2.6.2
 author:
   display_name: admin

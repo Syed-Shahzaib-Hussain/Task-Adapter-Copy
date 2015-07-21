@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Redmine Java API 1.11.0: new features, new Maven Group ID.'
 author:
   display_name: admin

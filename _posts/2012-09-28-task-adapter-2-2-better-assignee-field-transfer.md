@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 2.2: better Assignee field transfer'
 author:
   display_name: admin

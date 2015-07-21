@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Redmine Java API is verified to work with Redmine 2.5.2
 author:
   display_name: admin

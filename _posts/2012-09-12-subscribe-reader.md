@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Read our news in your rss/atom Reader
 author:
   display_name: admin

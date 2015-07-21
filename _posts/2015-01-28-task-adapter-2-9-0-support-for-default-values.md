@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 2.9.0: support for default values.'
 author:
   display_name: admin

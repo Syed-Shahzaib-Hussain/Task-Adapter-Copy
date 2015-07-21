@@ -1,7 +1,5 @@
 ---
 layout: page
-status: publish
-published: true
 title: Compare Task Adapter with other systems
 author:
   display_name: admin

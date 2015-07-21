@@ -1,7 +1,5 @@
 ---
 layout: page
-status: publish
-published: true
 title: Redmine Java API
 author:
   display_name: admin

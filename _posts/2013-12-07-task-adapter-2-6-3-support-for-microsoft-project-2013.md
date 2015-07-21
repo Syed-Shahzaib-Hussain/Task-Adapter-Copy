@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 2.6.3: support for Microsoft Project 2013'
 author:
   display_name: admin

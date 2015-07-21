@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Support for Atlassian Jira 6.
 author:
   display_name: admin

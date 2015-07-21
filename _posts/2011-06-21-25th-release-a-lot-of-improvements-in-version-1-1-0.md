@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: '25th release: a lot of improvements in version 1.1.0'
 author:
   display_name: admin

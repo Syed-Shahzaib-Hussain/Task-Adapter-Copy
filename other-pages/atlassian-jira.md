@@ -1,7 +1,5 @@
 ---
 layout: page
-status: publish
-published: true
 title: Atlassian Jira
 author:
   display_name: admin

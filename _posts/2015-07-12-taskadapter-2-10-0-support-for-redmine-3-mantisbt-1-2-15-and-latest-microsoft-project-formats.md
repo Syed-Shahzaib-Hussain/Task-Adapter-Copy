@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'TaskAdapter 2.10.0: Support for Redmine 3, MantisBT 1.2.15 and latest Microsoft
   Project formats'
 author:

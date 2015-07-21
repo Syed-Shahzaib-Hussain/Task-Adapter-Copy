@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Basecamp support in the works.
 author:
   display_name: admin

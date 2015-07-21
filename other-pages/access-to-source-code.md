@@ -1,7 +1,5 @@
 ---
 layout: page
-status: publish
-published: true
 permalink: /access-to-source-code/
 title: Access to source code
 author:

@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Known problem with Microsoft Project 2013
 author:
   display_name: admin

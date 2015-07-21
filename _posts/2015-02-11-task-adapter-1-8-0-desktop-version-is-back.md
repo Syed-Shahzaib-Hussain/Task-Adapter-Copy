@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 1.8.0: desktop version is back.'
 author:
   display_name: admin

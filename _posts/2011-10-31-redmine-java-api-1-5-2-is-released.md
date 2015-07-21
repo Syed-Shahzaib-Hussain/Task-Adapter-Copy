@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Redmine Java API 1.5.2 is released
 author:
   display_name: admin

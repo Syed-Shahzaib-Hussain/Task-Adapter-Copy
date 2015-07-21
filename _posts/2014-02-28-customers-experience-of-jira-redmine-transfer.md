@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Customer's experience of Jira-Redmine transfer
 author:
   display_name: admin

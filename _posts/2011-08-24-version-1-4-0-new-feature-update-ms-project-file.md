@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Version 1.4.0. New feature: "Update MS Project file"'
 author:
   display_name: admin

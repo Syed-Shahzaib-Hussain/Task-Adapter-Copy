@@ -1,7 +1,5 @@
 ---
 layout: page
-status: publish
-published: true
 title: We're sorry you canceled the checkout
 author:
   display_name: admin

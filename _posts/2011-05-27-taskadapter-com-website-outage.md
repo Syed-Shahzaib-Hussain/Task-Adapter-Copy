@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: TaskAdapter.com website outage
 author:
   display_name: admin

@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 2.7: drop your MSP files'
 author:
   display_name: admin

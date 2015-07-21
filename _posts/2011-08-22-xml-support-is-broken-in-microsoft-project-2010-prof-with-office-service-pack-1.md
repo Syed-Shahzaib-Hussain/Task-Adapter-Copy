@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: XML support is broken in Microsoft Project 2010 Prof with Office Service Pack
   1
 author:

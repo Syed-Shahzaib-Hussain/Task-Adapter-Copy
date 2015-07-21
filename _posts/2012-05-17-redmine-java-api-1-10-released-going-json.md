@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Redmine Java API 1.10 released: going JSON'
 author:
   display_name: admin

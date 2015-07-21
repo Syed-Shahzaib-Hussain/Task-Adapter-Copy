@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Redmine Java API 1.12.0 and 1.13.0: support for Redmine 2.0.2 and better logging'
 author:
   display_name: admin

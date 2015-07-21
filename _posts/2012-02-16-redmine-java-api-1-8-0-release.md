@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Redmine Java API 1.8.0 release
 author:
   display_name: admin

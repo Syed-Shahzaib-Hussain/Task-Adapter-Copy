@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 2.4.2: important bugfix for task relations'
 author:
   display_name: admin

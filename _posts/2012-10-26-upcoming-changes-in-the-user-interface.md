@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Upcoming changes in the User Interface
 author:
   display_name: admin

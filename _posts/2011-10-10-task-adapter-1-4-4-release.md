@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Task Adapter 1.4.4 release
 author:
   display_name: admin

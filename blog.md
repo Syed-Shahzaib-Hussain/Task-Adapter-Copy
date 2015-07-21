@@ -1,7 +1,5 @@
 ---
 layout: page
-status: publish
-published: true
 top_level_menu_weight: 30
 title: Blog
 permalink: /blog/

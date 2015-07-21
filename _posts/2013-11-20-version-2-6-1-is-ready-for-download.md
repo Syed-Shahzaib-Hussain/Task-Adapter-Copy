@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Version 2.6.1 is ready for download.
 author:
   display_name: admin

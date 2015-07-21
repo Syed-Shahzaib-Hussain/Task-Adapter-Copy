@@ -1,7 +1,5 @@
 ---
 layout: docs
-status: publish
-published: true
 title: Microsoft Project
 author:
   display_name: admin

@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 2.4: support for Basecamp.'
 author:
   display_name: admin

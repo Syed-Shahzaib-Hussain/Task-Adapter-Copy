@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: Task Adapter 2.6 is verified to work with Redmine 2.3.3
 author:
   display_name: admin

@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Task Adapter 1.7.2: Important bugfix.'
 author:
   display_name: admin

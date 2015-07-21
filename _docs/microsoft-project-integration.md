@@ -1,7 +1,5 @@
 ---
 layout: docs
-status: publish
-published: true
 title: Microsoft Project Integration
 author:
   display_name: admin

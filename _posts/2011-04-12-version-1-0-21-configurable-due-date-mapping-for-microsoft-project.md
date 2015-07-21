@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Version 1.0.21: configurable "Due Date" mapping for Microsoft Project'
 author:
   display_name: admin
