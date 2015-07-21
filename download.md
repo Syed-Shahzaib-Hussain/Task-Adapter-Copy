@@ -24,7 +24,7 @@ comments: []
 
 <a class="hvr-rectangle-out button" href="https://bitbucket.org/taskadapter/releases/downloads/taskadapter-2.10.0.zip">Download latest version</a>
 
-<a href="taskadapter-2-10-0-support-for-redmine-3-mantisbt-1-2-15-and-latest-microsoft-project-formats">View Release Notes</a>
+[View Release Notes](/2015/07/12/taskadapter-2-10-0-support-for-redmine-3-mantisbt-1-2-15-and-latest-microsoft-project-formats)
 
 * Released on July 12, 2015.
 * Tested with Redmine 2.6.0, 3.0.0 and 3.0.3, JIRA 6.1.3, MantisBT 1.2.15, Microsoft Project 2010 Prof and Microsoft Project 2013 Prof, current Github.com website, current Basecamp.com and Basecamp Classic websites.
