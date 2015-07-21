@@ -13,7 +13,6 @@ wordpress_url: http://www.taskadapter.com/?page_id=331
 date: '2012-06-22 03:27:30 -0700'
 date_gmt: '2012-06-22 03:27:30 -0700'
 categories: []
-tags: []
 comments:
 - id: 9
   author: Synchronize Issues in Mantis and in JIRA - DexPage

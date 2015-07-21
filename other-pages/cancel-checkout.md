@@ -14,6 +14,8 @@ date: '2012-11-14 04:53:38 -0800'
 date_gmt: '2012-11-14 04:53:38 -0800'
 categories: []
 ---
-<p>Do you need any additional information to help you make the informed decision on whether Task Adapter is the tool you need?</p>
-<p>Please let us know! Email to support@taskadapter.com</p>
-<p>&nbsp;</p>
+
+Do you need any additional information to help you make the informed decision on whether Task Adapter is the tool for you?
+
+Please let us know! <a href="mailto:{{ site.email }}">Send us an email</a>
+

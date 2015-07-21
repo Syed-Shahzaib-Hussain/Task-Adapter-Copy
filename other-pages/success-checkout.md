@@ -10,14 +10,17 @@ author_login: admin
 author_email: alskor@gmail.com
 wordpress_id: 489
 wordpress_url: http://www.taskadapter.com/?page_id=489
-date: '2012-11-14 04:51:30 -0800'
-date_gmt: '2012-11-14 04:51:30 -0800'
 categories: []
 ---
-<p>Thank you for buying Task Adapter! You will receive an email with the license shortly.</p>
-<p>Please do not hesitate to contact us with your comments or suggestions.</p>
-<p>Task Adapter team.</p>
-<p><!-- Google Code for purchase Conversion Page --><br />
+
+**Thank you for buying Task Adapter!**
+You will receive an email with the license shortly.
+
+Please do not hesitate to contact us with your comments or suggestions.
+
+Task Adapter team.
+
+<!-- Google Code for purchase Conversion Page --><br />
 <script type="text/javascript"><br />
 /* <![CDATA[ */<br />
 var google_conversion_id = 989848725;<br />
@@ -34,4 +37,4 @@ var google_conversion_value = 350;<br />
 <div style="display:inline;">
 <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/989848725/?value=350&amp;label=J684CPOcvgQQlcn_1wM&amp;guid=ON&amp;script=0"/><br />
 </div><br />
-</noscript></p>
+</noscript>
