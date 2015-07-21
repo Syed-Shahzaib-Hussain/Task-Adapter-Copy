@@ -14,6 +14,7 @@ categories:
 ---
 <p>TaskAdapter 2.6.1 has two minor fixes:</p>
 <ul>
-<li>Jira: use "Task" as the default task type instead of "Bug"</li>
-<li>Redmine: "project info" formatting is broken</li><br />
+<li>JIRA: use "Task" as the default task type instead of "Bug"</li>
+<li>Redmine: "project info" formatting is broken</li>
+
 </ul></p>

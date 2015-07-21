@@ -14,5 +14,5 @@ categories:
 - microsoft project
 ---
 <div dir="ltr" trbidi="on"><br/>Task Adapter 1.7.1 is&nbsp;<a href="http://taskadapter.com/download">ready for download</a>.<br/><br/><b>Important bugfix</b>:<b>&nbsp;</b>Issue relations are synchronized when tasks are updated in Remine.<br/><br/>Also a new version of MPXJ library is included into release (this is the library Task Adapter uses to read and write Microsoft Project files).<span style="background-color: white; color: #484848; font-family: helvetica, 'microsoft sans serif', arial, sans-serif; font-size: 13px; text-align: -webkit-auto;"><br/></span><br/>
-<div>Tested with Redmine 1.3.1, Atlassian Jira 4.4.4, MantisBT 1.2.8, Microsoft Project 2010 Prof, current Github.com website.</div>
+<div>Tested with Redmine 1.3.1, Atlassian JIRA 4.4.4, MantisBT 1.2.8, Microsoft Project 2010 Prof, current Github.com website.</div>
 <div>All&nbsp;<a href="http://www.hostedredmine.com/versions/1937">changes in version 1.7.1</a>&nbsp;</div></div></p>

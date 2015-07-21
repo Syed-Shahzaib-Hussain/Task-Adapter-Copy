@@ -15,11 +15,15 @@ categories:
 ---
 <p>Task Adapter 2.4.2 brings several bug fixes, most importantly -</p>
 <ul>
-<li>Task relations are now saved for all tasks, not only for the top-level ones.</li><br />
-</ul><br />
+<li>Task relations are now saved for all tasks, not only for the top-level ones.</li>
+
+</ul>
+
 The other changes are:</p>
 <ul>
 <li>Switched to the latest Vaadin web framework (7.0.0)</li>
-<li>Minor bugfixes for Redmine and Basecamp connectors.</li><br />
-</ul><br />
+<li>Minor bugfixes for Redmine and Basecamp connectors.</li>
+
+</ul>
+
 <a href="http://www.taskadapter.com/download">Download the latest Task Adapter</a> version.</p>

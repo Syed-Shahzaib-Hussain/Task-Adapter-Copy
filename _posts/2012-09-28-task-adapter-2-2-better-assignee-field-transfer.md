@@ -16,11 +16,14 @@ categories:
 <p>Task Adapter version 2.2 has 1 new feature and 3 important bugfixes:</p>
 <p>Feature:</p>
 <ul>
-<li>Support assignee transfer from Redmine to other systems, like Jira</li><br />
-</ul><br />
+<li>Support assignee transfer from Redmine to other systems, like JIRA</li>
+
+</ul>
+
 Bugfixes:</p>
 <ul>
 <li>Microsoft Project:&nbsp;Assignee is not saved properly to MSP in some cases</li>
 <li>Redmine:&nbsp;default task type is shown as "null" in Redmine Editor for a new config</li>
-<li>Jira:&nbsp;Estimated Time field is not shown in Fields Mapping panel for Jira</li><br />
+<li>JIRA:&nbsp;Estimated Time field is not shown in Fields Mapping panel for JIRA</li>
+
 </ul></p>

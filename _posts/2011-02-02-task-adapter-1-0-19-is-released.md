@@ -15,7 +15,7 @@ categories:
 
 **Highlights:**
 
-* Jira: "update task" operation is supported.
+* JIRA: "update task" operation is supported.
 * Redmine: "created on", "updated on" fields are supported.
 * Redmine: config editor is improved.
 * GUI: documentation is updated.

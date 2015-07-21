@@ -11,7 +11,8 @@ categories:
 - redmine
 - release
 ---
-<p><br/><br />
+<p><br/>
+
 <h1 style="font-family: 'Myriad Pro', 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 32px; line-height: 38px; margin-bottom: 20px; margin-left: 0px; margin-right: 0px; margin-top: 0px; text-shadow: rgb(234, 241, 234) 1px 1px 1px;">
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;">Highlights:</span></div>
 <ul style="color: #7a7a7a; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 20px;">

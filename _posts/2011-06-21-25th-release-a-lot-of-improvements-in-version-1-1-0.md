@@ -30,6 +30,6 @@ categories:
 <ul style="color: #7a7a7a; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">
 <li><span style="background-color: white;">Login and Password can be used for authentication in addition to API Access key</span></li>
 <li><span style="background-color: white;">Tasks can be assigned to users</span></li></ul>
-<div style="color: #7a7a7a; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><b style="background-color: white;">Jira</b></div>
+<div style="color: #7a7a7a; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><b style="background-color: white;">JIRA</b></div>
 <ul style="color: #7a7a7a; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">
 <li><span style="background-color: white;">"Assignee" field is supported</span></li></ul></p>

@@ -13,6 +13,8 @@ categories:
 <p>Changes in version 2.5.2:</p>
 <ul>
 <li>default HTTP port changed from 9944 to&nbsp;10842</li>
-<li>bug fixed: can't start the application using "launcher"/"launcher.bat" unless you're in the "bin" folder</li><br />
-</ul><br />
+<li>bug fixed: can't start the application using "launcher"/"launcher.bat" unless you're in the "bin" folder</li>
+
+</ul>
+
 &nbsp;</p>

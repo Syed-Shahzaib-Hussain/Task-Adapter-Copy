@@ -10,6 +10,7 @@ date_gmt: '2013-10-28 07:03:54 -0700'
 categories:
 - microsoft project
 ---
-<p>Hi!<br />
+<p>Hi!
+
 We have discovered a problem with loading data from XML files produced by Microsoft Project 2013. We are looking into this.</p>
-<p><strong>UPDATE: the problem is fixed in Task Adapter 2.6.3.</strong></p>
+<p>**UPDATE: the problem is fixed in Task Adapter 2.6.3.**</p>

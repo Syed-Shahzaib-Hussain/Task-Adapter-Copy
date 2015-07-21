@@ -18,28 +18,33 @@ categories:
 <p>The main user-facing changes in 2.1 release are:</p>
 <h4>User Interface</h4></p>
 <ul>
-<li>Many small bugfixes. A major interface improvement is planned for the next version (2.2).</li><br />
+<li>Many small bugfixes. A major interface improvement is planned for the next version (2.2).</li>
+
 </ul></p>
-<h4>Atlassian Jira:</h4></p>
+<h4>Atlassian JIRA:</h4></p>
 <ul>
 <li>Support for Estimated Time field.</li>
 <li>Support for "precedes / follows" relations, commonly used by Microsoft Project to track dependencies between tasks.</li>
 <li>A lot of minor bugfixes.</li>
-<li><strong>Note: the oldest supported Atlassian Jira version is now 5.0. </strong>Unfortunately, the older Jira versions don't have the remote interfaces Task Adapter needs.</li><br />
+<li>**Note: the oldest supported Atlassian JIRA version is now 5.0. **Unfortunately, the older JIRA versions don't have the remote interfaces Task Adapter needs.</li>
+
 </ul></p>
 <h4>Microsoft Project:</h4></p>
 <ul>
 <li>Bug fixed:&nbsp;"Can't create Tasks Relations" message after saving to an MSP file with "mpp" extension.</li>
-<li>Bug fixed:&nbsp;Exception when import from MSP file which was deleted.</li><br />
+<li>Bug fixed:&nbsp;Exception when import from MSP file which was deleted.</li>
+
 </ul></p>
 <h4>Github</h4></p>
 <ul>
 <li>Support for free-form Queries.</li>
-<li>Minor bugfixing.</li><br />
+<li>Minor bugfixing.</li>
+
 </ul></p>
 <h4>Redmine</h4></p>
 <ul>
 <li>Use the latest Redmine Java API v. 1.15.</li>
 <li>Better support for Redmine 2.0.2 or newer.</li>
-<li>Minor bugfixing.</li><br />
+<li>Minor bugfixing.</li>
+
 </ul></p>

@@ -10,5 +10,6 @@ date_gmt: '2013-10-18 07:27:45 -0700'
 categories:
 - Uncategorized
 ---
-<p>Some customers have expressed interest in having access to the Task Adapter source code so they can make custom modifications.<br />
+<p>Some customers have expressed interest in having access to the Task Adapter source code so they can make custom modifications.
+
 See <a href="http://www.taskadapter.com/access-to-source-code/" title="Access to source code">this page to get access to Task Adapter source code</a>.</p>

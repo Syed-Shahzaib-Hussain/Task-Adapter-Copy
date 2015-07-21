@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Task Adapter 2.7.1: bug fixing for Jira'
+title: 'Task Adapter 2.7.1: bug fixing for JIRA'
 author:
   display_name: admin
 wordpress_id: 683
@@ -11,9 +11,11 @@ categories:
 - atlassian jira
 - release
 ---
-<p>Task Adapter 2.7.1 has two important bug fixes for Atlassian Jira connector:</p>
+<p>Task Adapter 2.7.1 has two important bug fixes for Atlassian JIRA connector:</p>
 <ul>
-<li>Can't load more than 50 Jira tasks in one request</li>
-<li>Jira: error shown in some cases: "JSONObject["self"] not found"</li><br />
-</ul><br />
+<li>Can't load more than 50 JIRA tasks in one request</li>
+<li>JIRA: error shown in some cases: "JSONObject["self"] not found"</li>
+
+</ul>
+
 It's available in the <a title="Download" href="http://www.taskadapter.com/download/">Downloads </a>section.</p>

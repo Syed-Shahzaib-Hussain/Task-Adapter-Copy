@@ -11,9 +11,12 @@ categories:
 - redmine
 - release
 ---
-<p>Task Adapter 2.0.2 was release a few minutes ago.<br />
+<p>Task Adapter 2.0.2 was release a few minutes ago.
+
 Changes:</p>
 <ul>
-<li>Support for invalid (e.g. self-issued) SSL certificates often used by Redmine installations.<br />
-</ul><br />
+<li>Support for invalid (e.g. self-issued) SSL certificates often used by Redmine installations.
+
+</ul>
+
 <a href="/download">Download Task Adapter</a></p>

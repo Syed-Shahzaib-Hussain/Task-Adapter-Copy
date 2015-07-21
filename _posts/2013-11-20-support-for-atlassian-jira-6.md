@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Support for Atlassian Jira 6.
+title: Support for Atlassian JIRA 6.
 author:
   display_name: admin
 wordpress_id: 636
@@ -10,4 +10,4 @@ date_gmt: '2013-11-20 21:33:14 -0800'
 categories:
 - atlassian jira
 ---
-<p>TaskAdapter 2.6 is verified to work with the latest&nbsp;Atlassian Jira 6.1.3.</p>
+<p>TaskAdapter 2.6 is verified to work with the latest&nbsp;Atlassian JIRA 6.1.3.</p>

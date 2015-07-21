@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Atlassian Jira
+title: Atlassian JIRA
 author:
   display_name: admin
 comments:
@@ -10,9 +10,9 @@ comments:
   author_url: http://dexpage.com/synchronize-issues-in-mantis-and-in-jira/
   date: '2015-06-27 15:53:42 -0700'
   date_gmt: '2015-06-27 15:53:42 -0700'
-  content: "[&#8230;] you can implement your own sync using Jira&#8217;s REST API
+  content: "[&#8230;] you can implement your own sync using JIRA&#8217;s REST API
     as @Daria replied above, or you can use Task Adapter for manual data synchronization
-    between Jira and Mantis. [&#8230;]"
+    between JIRA and Mantis. [&#8230;]"
 ---
 
 Atlassian JIRA is a powerful bug tracking / task management tool. Unfortunately, it does not show a good overview like
@@ -31,12 +31,12 @@ Integration works both ways: you can export tasks from Microsoft Project to Atla
 
 ## JIRA server requirements.
 
-Task Adapter requires "Remote API Access" enabled in your Jira instance. Use the following menu in JIRA web interface:
+Task Adapter requires "Remote API Access" enabled in your JIRA instance. Use the following menu in JIRA web interface:
  **Administration** >> **General Configuration** >> **Accept remote API calls**
 
 ## Supported JIRA versions.
 
-**Task Adapter 2.1+ supports Atlassian JIRA 5.0 or higher (or any current Jira OnDemand instances).**
+**Task Adapter 2.1+ supports Atlassian JIRA 5.0 or higher (or any current JIRA OnDemand instances).**
 Previous JIRA versions do not have remote interfaces required for the proper data transfer.
 The last Task Adapter version still compatible with JIRA 4 was 2.0.2, you can get it here:
 <a href="http://www.taskadapter.com/releases/taskadapter-2.0.2.zip">download the old Task Adapter 2.0.2</a>.

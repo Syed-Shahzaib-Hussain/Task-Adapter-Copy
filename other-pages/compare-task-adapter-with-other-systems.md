@@ -6,95 +6,124 @@ author:
 ---
 
 
-### Some options you might consider for integrating<br />
-Microsoft Project and systems like Atlassian Jira, Redmine, MantisBT, etc:
+### Some options you might consider for integrating
+
+Microsoft Project and systems like Atlassian JIRA, Redmine, MantisBT, etc:
 
 <table border="1" cellspacing="1" cellpadding="8">
 <tbody>
 <tr>
-<td><strong>Product</strong></td></p>
+<td>**Product**</td></p>
 <td>
 
 ### Task Adapter
 
 </td>
 <td>The Connector</td></p>
-<td>Redmine's "Microsoft Project import/export" plugin</td><br />
+<td>Redmine's "Microsoft Project import/export" plugin</td>
+
 </tr></p>
 <tr>
-<td><strong>Architecture</strong></td></p>
+<td>**Architecture**</td></p>
 <td>A stand-alone desktop application running on Java (which is included in the distributives for Windows and Linux).No additional plugins are required to be installed into bug tracking systems or Microsoft project.</td></p>
-<td>A plugin for Microsoft Project.Requires installation of "web services" module to Atlassian Jira server plus installation of Microsoft .NET framework on the client computer.</td></p>
-<td>A plugin for Redmine. Needs to be copied to the Redmine server.</td><br />
+<td>A plugin for Microsoft Project.Requires installation of "web services" module to Atlassian JIRA server plus installation of Microsoft .NET framework on the client computer.</td></p>
+<td>A plugin for Redmine. Needs to be copied to the Redmine server.</td>
+
 </tr></p>
 <tr>
-<td><strong>Supported systems</strong></td></p>
+<td>**Supported systems**</td></p>
 <td>
 <ul>
 <li>Microsoft Project</li>
-<li>Atlassian Jira</li>
+<li>Atlassian JIRA</li>
 <li>Redmine</li>
 <li>Github</li>
-<li>MantisBT</li><br />
-</ul><br />
+<li>MantisBT</li>
+
+</ul>
+
 &nbsp;</td></p>
 <td>
 <ul>
 <li>Microsoft Project</li>
-<li>Atlassian Jira</li><br />
-</ul><br />
+<li>Atlassian JIRA</li>
+
+</ul>
+
 </td></p>
 <td>
 <ul>
 <li>Microsoft Project</li>
-<li>Redmine</li><br />
-</ul><br />
-</td><br />
+<li>Redmine</li>
+
+</ul>
+
+</td>
+
 </tr></p>
 <tr>
-<td><strong>Features</strong></td></p>
+<td>**Features**</td></p>
 <td>
 <ul>
-<li>Transfer tasks between any of the supported systems (e.g. Atlassian Jira and Redmine)</li>
-<li>Update existing Microsoft project files with the current data in your bug tracker.</li><br />
-</ul><br />
+<li>Transfer tasks between any of the supported systems (e.g. Atlassian JIRA and Redmine)</li>
+<li>Update existing Microsoft project files with the current data in your bug tracker.</li>
+
+</ul>
+
 </td></p>
 <td>
 <ul>
-<li>Load tasks from / save to Atlassian Jira and Microsoft Project</li>
-<li>Update existing Microsoft project files with the current data in Atlassian Jira.</li><br />
-</ul><br />
+<li>Load tasks from / save to Atlassian JIRA and Microsoft Project</li>
+<li>Update existing Microsoft project files with the current data in Atlassian JIRA.</li>
+
+</ul>
+
 </td></p>
 <td>
 <ul>
-<li>Load tasks from / save to Redmine and Microsoft Project</li><br />
-</ul><br />
-</td><br />
+<li>Load tasks from / save to Redmine and Microsoft Project</li>
+
+</ul>
+
+</td>
+
 </tr></p>
 <tr>
-<td><strong>Price</strong></td></p>
-<td>$350 / 1 user<br />
-$950 / 5 users<br />
+<td>**Price**</td></p>
+<td>$350 / 1 user
+
+$950 / 5 users
+
 License for 1 year with support and upgrades.</td></p>
-<td>$499 / 1 user<br />
-$1999 / 5 users<br />
+<td>$499 / 1 user
+
+$1999 / 5 users
+
 1 year of support and free upgrades.</td></p>
-<td>FREE.<br />
-No support.</td><br />
+<td>FREE.
+
+No support.</td>
+
 </tr></p>
 <tr>
-<td><strong>Documentation</strong></td></p>
+<td>**Documentation**</td></p>
 <td>Basic documentation (work in progress...)</td></p>
 <td>High-quality documentation is available.</td></p>
-<td>No documentation.</td><br />
+<td>No documentation.</td>
+
 </tr></p>
 <tr>
-<td><strong>Known limitations</strong></td></p>
+<td>**Known limitations**</td></p>
 <td>Does not support non-interactive "scheduled transfer" in the current version, but we're working on this.</td></p>
 <td>Does not support non-interactive "scheduled transfer".</td></p>
-<td>Lots of bugs and compatibility issues; very limited functionality; conflicts with some other Redmine plugins.<br />
-In fact Task Adapter project was started because that plugin didn't do what we needed.</td><br />
-</tr><br />
-</tbody><br />
-</table><br />
+<td>Lots of bugs and compatibility issues; very limited functionality; conflicts with some other Redmine plugins.
+
+In fact Task Adapter project was started because that plugin didn't do what we needed.</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
 &nbsp;</p>

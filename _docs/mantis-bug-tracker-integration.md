@@ -18,8 +18,10 @@ The configuration dialog for MantisBT (Mantis Bug Tracker) should be pretty self
 * **Password** - Your MantisBT password.
 * **Project key** - Project key in your MantisBT.
 * **Find users based on assignee's name** - This option can be useful when you need to export a new Microsoft project file to MantisBT.
-Task Adapter can load user names from MantisBT using the "resource names" specified in the Microsoft Project file and assign the new tasks to them. Here&rsquo;s how Task Adapter finds the proper user in MantisBT:<br />
-First, it assumes that the MSP resource name represents the <strong>user login name</strong>. If no user is found in Mantis with such login name, then the resource name is compared to the Mantis' user <strong>Full Name</strong>.<br />
+Task Adapter can load user names from MantisBT using the "resource names" specified in the Microsoft Project file and assign the new tasks to them. Here&rsquo;s how Task Adapter finds the proper user in MantisBT:
+
+First, it assumes that the MSP resource name represents the **user login name**. If no user is found in Mantis with such login name, then the resource name is compared to the Mantis' user **Full Name**.
+
 So, the Microsoft Project resource name must be equal to Mantis Login or Full Name for this feature to work.
 Note: this operation requires **Mantis Admin** permission.
 

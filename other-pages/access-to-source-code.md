@@ -17,7 +17,7 @@ We offer **access to the Task Adapter source code**.
 <li>The access is granted for 1 year from the date of the purchase.</li>
 </ul>
 
-<strong>Technical details:</strong>
+**Technical details:**
 
 <ul>
 <li>Java language is used for both server and client side.</li>
@@ -25,13 +25,19 @@ We offer **access to the Task Adapter source code**.
 <li>There's a set of unit and integration tests.</li>
 <li>There's documentation on the dev process and environment setup.</li>
 <li>"Core" module is separate from the UI so you can remove the UI layer from the build and implement any UI you want.</li>
-<li>Every data connector (Redmine, Jira, etc) is separate so you can easily remove them from the build to build a custom version for your needs.</li><br />
-</ul><br />
+<li>Every data connector (Redmine, JIRA, etc) is separate so you can easily remove them from the build to build a custom version for your needs.</li>
+
+</ul>
+
 &nbsp;</p>
 <p>Please<a title="Contacts" href="http://www.taskadapter.com/contacts/"> contact us</a> for more information or click this button to buy now:</p>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick"><br />
-<input type="hidden" name="hosted_button_id" value="VSAXMDGEZ4XCQ"><br />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"><br />
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"><br />
+<input type="hidden" name="cmd" value="_s-xclick">
+
+<input type="hidden" name="hosted_button_id" value="VSAXMDGEZ4XCQ">
+
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+
 </form>

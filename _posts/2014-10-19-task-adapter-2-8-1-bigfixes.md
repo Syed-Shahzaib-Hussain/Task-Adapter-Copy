@@ -11,4 +11,4 @@ categories:
 - Uncategorized
 - release
 ---
-<p>The new release has several User Interface bugs fixed. No changes in the data connectors themselves (Jira, Redmine, etc).</p>
+<p>The new release has several User Interface bugs fixed. No changes in the data connectors themselves (JIRA, Redmine, etc).</p>

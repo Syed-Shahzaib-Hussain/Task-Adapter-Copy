@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Task Adapter 2.8: creating sub-tasks in Atlassian Jira'
+title: 'Task Adapter 2.8: creating sub-tasks in Atlassian JIRA'
 author:
   display_name: admin
 wordpress_id: 693
@@ -11,5 +11,6 @@ categories:
 - atlassian jira
 - release
 ---
-<p>Task Adapter v. 2.8 supports creating sub-tasks in Atlassian Jira.<br />
+<p>Task Adapter v. 2.8 supports creating sub-tasks in Atlassian JIRA.
+
 There are no other changes in this version.</p>
