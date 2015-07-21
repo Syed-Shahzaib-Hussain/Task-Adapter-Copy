@@ -4,7 +4,6 @@ title: Task Adapter alternatives
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 269
 wordpress_url: http://www.taskadapter.com/2012/01/09/task-adapter-alternatives/
 date: '2012-01-09 07:17:00 -0800'

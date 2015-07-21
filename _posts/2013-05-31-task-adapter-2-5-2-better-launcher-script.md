@@ -4,7 +4,6 @@ title: 'Task Adapter 2.5.2: better launcher script'
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 568
 wordpress_url: http://www.taskadapter.com/?p=568
 date: '2013-05-31 22:45:43 -0700'

@@ -7,7 +7,6 @@ top_level_menu_weight: 10
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 ---
 
 ## Email

@@ -5,7 +5,6 @@ title: Access to source code
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 date: '2013-10-18 02:12:47 -0700'
 ---
 

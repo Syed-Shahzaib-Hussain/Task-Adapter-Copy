@@ -4,7 +4,6 @@ title: Redmine Java API 1.6.1 release
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 265
 wordpress_url: http://www.taskadapter.com/2011/12/16/redmine-java-api-1-6-1-release/
 date: '2011-12-16 23:38:00 -0800'

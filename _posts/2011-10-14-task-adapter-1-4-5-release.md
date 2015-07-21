@@ -4,7 +4,6 @@ title: Task Adapter 1.4.5 release
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 258
 wordpress_url: http://www.taskadapter.com/2011/10/14/task-adapter-1-4-5-release/
 date: '2011-10-14 18:56:00 -0700'

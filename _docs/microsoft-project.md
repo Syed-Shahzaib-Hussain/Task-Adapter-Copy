@@ -4,7 +4,6 @@ title: Microsoft Project
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 95
 wordpress_url: http://www.taskadapter.com/wp/?page_id=95
 date: '2012-05-25 00:49:14 -0700'

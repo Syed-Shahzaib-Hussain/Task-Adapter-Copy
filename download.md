@@ -7,7 +7,6 @@ top_level_menu_weight: 8
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 ---
 
 <a class="hvr-rectangle-out button" href="https://bitbucket.org/taskadapter/releases/downloads/taskadapter-2.10.0.zip">Download latest version</a>

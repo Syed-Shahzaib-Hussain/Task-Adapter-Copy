@@ -7,7 +7,6 @@ top_level_menu_weight: 9
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 ---
 
 Task Adapter 1-year license. <a href="/license-agreement">View the license agreement</a>.

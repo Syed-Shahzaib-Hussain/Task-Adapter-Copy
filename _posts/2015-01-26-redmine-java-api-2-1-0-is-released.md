@@ -4,7 +4,6 @@ title: Redmine Java API 2.1.0 is released
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 727
 wordpress_url: http://www.taskadapter.com/?p=727
 date: '2015-01-26 09:50:51 -0800'

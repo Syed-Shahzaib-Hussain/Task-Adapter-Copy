@@ -5,7 +5,6 @@ title: 'Task Adapter 2.4.1: support for Redmine 2.2+ and important bugfix for Mi
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 533
 wordpress_url: http://www.taskadapter.com/?p=533
 date: '2013-02-04 21:56:00 -0800'

@@ -4,7 +4,6 @@ title: Improved Admin UI in Task Adapter 2.6.2
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 646
 wordpress_url: http://www.taskadapter.com/?p=646
 date: '2013-11-27 00:20:38 -0800'

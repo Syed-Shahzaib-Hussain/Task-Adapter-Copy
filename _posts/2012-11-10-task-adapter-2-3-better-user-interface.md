@@ -4,7 +4,6 @@ title: 'Task Adapter 2.3: better User Interface'
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 434
 wordpress_url: http://www.taskadapter.com/?p=434
 date: '2012-11-10 04:20:53 -0800'

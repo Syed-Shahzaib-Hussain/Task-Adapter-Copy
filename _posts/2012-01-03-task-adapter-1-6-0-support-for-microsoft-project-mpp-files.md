@@ -4,7 +4,6 @@ title: 'Task Adapter 1.6.0: support for Microsoft Project MPP files'
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 267
 wordpress_url: http://www.taskadapter.com/2012/01/03/task-adapter-1-6-0-support-for-microsoft-project-mpp-files/
 date: '2012-01-03 10:05:00 -0800'

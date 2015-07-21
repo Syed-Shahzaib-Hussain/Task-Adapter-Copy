@@ -5,7 +5,6 @@ permalink: /docs/redmine/export-sub-projects-from-redmine/
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 90
 wordpress_url: http://www.taskadapter.com/wp/?page_id=90
 date: '2012-05-25 00:45:20 -0700'

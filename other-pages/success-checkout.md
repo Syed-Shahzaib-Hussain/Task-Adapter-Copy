@@ -4,7 +4,6 @@ title: Thank you
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 489
 wordpress_url: http://www.taskadapter.com/?page_id=489
 categories: []

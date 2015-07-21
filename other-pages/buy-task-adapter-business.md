@@ -4,7 +4,6 @@ title: Buy Task Adapter business
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
   url: ''
 date: '2013-06-29 01:13:54 -0700'
 ---

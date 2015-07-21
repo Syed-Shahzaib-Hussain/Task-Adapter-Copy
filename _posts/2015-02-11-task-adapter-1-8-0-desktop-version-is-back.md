@@ -4,7 +4,6 @@ title: 'Task Adapter 1.8.0: desktop version is back.'
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 744
 wordpress_url: http://www.taskadapter.com/?p=744
 date: '2015-02-11 07:11:52 -0800'

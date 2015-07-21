@@ -4,7 +4,6 @@ title: 'Task Adapter 1.7.3: fixes for Linux and MacOS packaging'
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 279
 wordpress_url: http://www.taskadapter.com/2012/04/24/task-adapter-1-7-3-fixes-for-linux-and-macos-packaging/
 date: '2012-04-24 04:08:00 -0700'

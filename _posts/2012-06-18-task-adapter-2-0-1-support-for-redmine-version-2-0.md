@@ -4,7 +4,6 @@ title: 'Task Adapter 2.0.1: support for Redmine 2.0.2'
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 321
 wordpress_url: http://www.taskadapter.com/?p=321
 date: '2012-06-18 02:51:23 -0700'

@@ -4,7 +4,6 @@ title: Compare Task Adapter with other systems
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 date: '2012-05-25 01:00:22 -0700'
 ---
 

@@ -5,7 +5,6 @@ permalink: /docs/atlassian-jira/
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 77
 wordpress_url: http://www.taskadapter.com/wp/?page_id=77
 date: '2012-05-25 00:27:34 -0700'

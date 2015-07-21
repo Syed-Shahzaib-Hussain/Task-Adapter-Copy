@@ -7,7 +7,6 @@ permalink: /blog/
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 ---
 
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

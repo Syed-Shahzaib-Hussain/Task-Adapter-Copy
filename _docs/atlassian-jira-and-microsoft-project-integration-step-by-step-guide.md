@@ -5,7 +5,6 @@ permalink: /docs/atlassian-jira/atlassian-jira-and-microsoft-project-integration
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 date: '2012-05-25 00:55:40 -0700'
 ---
 
@@ -18,7 +17,8 @@ First, <a href="user-guide/installation">install and start Task Adapter</a>. The
 * <a href="http://www.taskadapter.com/user-guide/using-task-adapter/#export_data">Export tasks</a>
 * Optional - <a href="http://www.taskadapter.com/user-guide/using-task-adapter/#update_msp_file">Update MSP File</a>
 
-<h2><a id="create_config_file" name="create_config_file"></a>Create a config</h2></p>
+## <a id="create_config_file" name="create_config_file"></a>Create a config
+
 <ol>
 <li>To export tasks from a bug tracker like JIRA or a Microsoft Project file, you first need to create a &ldquo;synchronization config&rdquo;, &nbsp;which will keep settings like your Jira server URL, login, password, your Microsoft Project file location, etc.<br />
 Use &ldquo;New Config&rdquo; button on the main application page to create a new config.<br />

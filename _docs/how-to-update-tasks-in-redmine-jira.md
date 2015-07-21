@@ -4,7 +4,6 @@ title: How to update tasks in Redmine / JIRA
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 754
 wordpress_url: http://www.taskadapter.com/?page_id=754
 date: '2015-07-09 04:36:53 -0700'

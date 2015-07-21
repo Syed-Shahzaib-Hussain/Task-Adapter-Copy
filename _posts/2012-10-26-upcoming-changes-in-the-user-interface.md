@@ -4,7 +4,6 @@ title: Upcoming changes in the User Interface
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 412
 wordpress_url: http://www.taskadapter.com/?p=412
 date: '2012-10-26 23:39:05 -0700'

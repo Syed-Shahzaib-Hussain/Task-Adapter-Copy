@@ -4,7 +4,6 @@ title: We're sorry you canceled the checkout
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 date: '2012-11-14 04:53:38 -0800'
 ---
 

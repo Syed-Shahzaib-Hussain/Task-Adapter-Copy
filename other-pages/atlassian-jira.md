@@ -4,7 +4,6 @@ title: Atlassian Jira
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 331
 wordpress_url: http://www.taskadapter.com/?page_id=331
 date: '2012-06-22 03:27:30 -0700'

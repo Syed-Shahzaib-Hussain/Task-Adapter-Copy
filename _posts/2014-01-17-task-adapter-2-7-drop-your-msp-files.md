@@ -4,7 +4,6 @@ title: 'Task Adapter 2.7: drop your MSP files'
 author:
   display_name: admin
   login: admin
-  email: alskor@gmail.com
 wordpress_id: 671
 wordpress_url: http://www.taskadapter.com/?p=671
 date: '2014-01-17 23:51:57 -0800'
