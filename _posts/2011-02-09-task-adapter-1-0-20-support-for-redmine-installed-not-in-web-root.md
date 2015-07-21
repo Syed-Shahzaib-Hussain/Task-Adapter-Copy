@@ -3,7 +3,6 @@ layout: post
 title: 'Task Adapter 1.0.20: support for Redmine installed not in web root'
 author:
   display_name: admin
-  login: admin
 wordpress_id: 240
 wordpress_url: http://www.taskadapter.com/2011/02/09/task-adapter-1-0-20-support-for-redmine-installed-not-in-web-root/
 date: '2011-02-09 22:25:00 -0800'

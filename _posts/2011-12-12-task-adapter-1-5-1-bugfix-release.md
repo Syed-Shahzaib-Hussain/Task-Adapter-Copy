@@ -3,7 +3,6 @@ layout: post
 title: 'Task Adapter 1.5.1: bugfix release'
 author:
   display_name: admin
-  login: admin
 wordpress_id: 264
 wordpress_url: http://www.taskadapter.com/2011/12/12/task-adapter-1-5-1-bugfix-release/
 date: '2011-12-12 21:42:00 -0800'

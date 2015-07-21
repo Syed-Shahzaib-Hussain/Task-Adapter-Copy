@@ -3,7 +3,6 @@ layout: post
 title: Read our news in your rss/atom Reader
 author:
   display_name: admin
-  login: admin
 wordpress_id: 385
 wordpress_url: http://www.taskadapter.com/?p=385
 date: '2012-09-12 20:17:48 -0700'

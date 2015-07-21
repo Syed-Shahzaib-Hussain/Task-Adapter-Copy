@@ -3,7 +3,6 @@ layout: post
 title: Redmine Java API project is moved to Google Project Hosting
 author:
   display_name: admin
-  login: admin
 wordpress_id: 242
 wordpress_url: http://www.taskadapter.com/2011/02/10/redmine-java-api-project-is-moved-to-google-project-hosting/
 date: '2011-02-10 22:23:00 -0800'

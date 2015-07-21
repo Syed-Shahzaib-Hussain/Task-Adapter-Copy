@@ -3,7 +3,6 @@ layout: post
 title: 'Task Adapter 2.3: better User Interface'
 author:
   display_name: admin
-  login: admin
 wordpress_id: 434
 wordpress_url: http://www.taskadapter.com/?p=434
 date: '2012-11-10 04:20:53 -0800'
@@ -36,8 +35,8 @@ categories:
 <ul>
 <li>Bug fixed: all the task fields were transferred even if they were un-selected in "fields mapping" dialog.</li><br />
 </ul><br />
-<strong>Mantis BT.</strong></p>
+<strong>MantisBT.</strong></p>
 <ul>
-<li>GUI: Removed some fields from the editor, which are not supported by Mantis BT connector yet.</li><br />
+<li>GUI: Removed some fields from the editor, which are not supported by MantisBT connector yet.</li><br />
 </ul><br />
 &nbsp;</p>

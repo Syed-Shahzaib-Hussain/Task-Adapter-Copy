@@ -3,7 +3,6 @@ layout: post
 title: '25th release: a lot of improvements in version 1.1.0'
 author:
   display_name: admin
-  login: admin
 wordpress_id: 249
 wordpress_url: http://www.taskadapter.com/2011/06/21/25th-release-a-lot-of-improvements-in-version-1-1-0/
 date: '2011-06-21 20:45:00 -0700'

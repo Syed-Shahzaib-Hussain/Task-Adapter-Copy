@@ -3,13 +3,8 @@ layout: docs
 title: Microsoft Project
 author:
   display_name: admin
-  login: admin
-wordpress_id: 95
-wordpress_url: http://www.taskadapter.com/wp/?page_id=95
-date: '2012-05-25 00:49:14 -0700'
-date_gmt: '2012-05-25 00:49:14 -0700'
-categories: []
 ---
+
 <p>Task Adapter supports Microsoft Project XML files (also known as "MSPDI" - Microsoft's XML file format for storing project data).</p>
 <p>The following applications can load and save data from/to MSPDI format:</p>
 <ul>

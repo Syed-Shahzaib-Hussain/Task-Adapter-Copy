@@ -3,7 +3,6 @@ layout: post
 title: 'Redmine Java API 1.14 and 1.15: support for invalid SSL certificates'
 author:
   display_name: admin
-  login: admin
 wordpress_id: 375
 wordpress_url: http://www.taskadapter.com/?p=375
 date: '2012-08-27 02:29:01 -0700'

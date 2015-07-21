@@ -3,19 +3,21 @@ layout: page
 title: Compare Task Adapter with other systems
 author:
   display_name: admin
-  login: admin
-date: '2012-05-25 01:00:22 -0700'
 ---
 
-<h3>Some options you might consider for integrating<br />
-Microsoft Project and systems like Atlassian Jira, Redmine, Mantis BT, etc:</h3></p>
+
+### Some options you might consider for integrating<br />
+Microsoft Project and systems like Atlassian Jira, Redmine, MantisBT, etc:
+
 <table border="1" cellspacing="1" cellpadding="8">
 <tbody>
 <tr>
 <td><strong>Product</strong></td></p>
 <td>
-<h3>Task Adapter</h3><br />
-</td></p>
+
+### Task Adapter
+
+</td>
 <td>The Connector</td></p>
 <td>Redmine's "Microsoft Project import/export" plugin</td><br />
 </tr></p>

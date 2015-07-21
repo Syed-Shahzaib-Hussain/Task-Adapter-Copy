@@ -3,12 +3,6 @@ layout: page
 title: Atlassian Jira
 author:
   display_name: admin
-  login: admin
-wordpress_id: 331
-wordpress_url: http://www.taskadapter.com/?page_id=331
-date: '2012-06-22 03:27:30 -0700'
-date_gmt: '2012-06-22 03:27:30 -0700'
-categories: []
 comments:
 - id: 9
   author: Synchronize Issues in Mantis and in JIRA - DexPage

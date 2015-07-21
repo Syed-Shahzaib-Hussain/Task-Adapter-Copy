@@ -3,7 +3,6 @@ layout: post
 title: Task Adapter 2.1.
 author:
   display_name: admin
-  login: admin
 wordpress_id: 390
 wordpress_url: http://www.taskadapter.com/?p=390
 date: '2012-09-20 01:13:33 -0700'

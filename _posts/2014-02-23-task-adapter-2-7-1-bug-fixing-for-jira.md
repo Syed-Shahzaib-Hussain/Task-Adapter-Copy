@@ -3,7 +3,6 @@ layout: post
 title: 'Task Adapter 2.7.1: bug fixing for Jira'
 author:
   display_name: admin
-  login: admin
 wordpress_id: 683
 wordpress_url: http://www.taskadapter.com/?p=683
 date: '2014-02-23 07:18:55 -0800'

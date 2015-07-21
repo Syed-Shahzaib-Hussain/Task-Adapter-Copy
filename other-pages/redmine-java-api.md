@@ -3,7 +3,6 @@ layout: page
 title: Redmine Java API
 author:
   display_name: admin
-  login: admin
 wordpress_id: 292
 wordpress_url: http://www.taskadapter.com/?page_id=292
 date: '2012-06-09 03:03:55 -0700'

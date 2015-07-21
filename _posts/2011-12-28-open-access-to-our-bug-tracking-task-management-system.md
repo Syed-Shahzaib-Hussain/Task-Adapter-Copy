@@ -3,7 +3,6 @@ layout: post
 title: Open access to our bug tracking / task management system
 author:
   display_name: admin
-  login: admin
 wordpress_id: 266
 wordpress_url: http://www.taskadapter.com/2011/12/28/open-access-to-our-bug-tracking-task-management-system/
 date: '2011-12-28 10:10:00 -0800'

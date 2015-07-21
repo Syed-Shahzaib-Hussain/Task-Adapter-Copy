@@ -3,7 +3,6 @@ layout: post
 title: 'Redmine Java API 1.9.0: support for "Delete issue relations"'
 author:
   display_name: admin
-  login: admin
 wordpress_id: 278
 wordpress_url: http://www.taskadapter.com/2012/04/06/redmine-java-api-1-9-0-support-for-delete-issue-relations/
 date: '2012-04-06 17:24:00 -0700'

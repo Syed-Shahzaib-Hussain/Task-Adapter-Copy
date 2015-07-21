@@ -3,7 +3,6 @@ layout: post
 title: 'Task Adapter 1.7.2: Important bugfix.'
 author:
   display_name: admin
-  login: admin
 wordpress_id: 277
 wordpress_url: http://www.taskadapter.com/2012/04/06/task-adapter-1-7-2-important-bugfix/
 date: '2012-04-06 02:46:00 -0700'

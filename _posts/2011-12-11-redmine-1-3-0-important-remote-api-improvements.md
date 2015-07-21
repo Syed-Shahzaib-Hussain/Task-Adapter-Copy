@@ -3,7 +3,6 @@ layout: post
 title: 'Redmine 1.3.0: important Remote API improvements'
 author:
   display_name: admin
-  login: admin
 wordpress_id: 263
 wordpress_url: http://www.taskadapter.com/2011/12/11/redmine-1-3-0-important-remote-api-improvements/
 date: '2011-12-11 23:10:00 -0800'

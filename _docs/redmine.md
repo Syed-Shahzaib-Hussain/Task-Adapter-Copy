@@ -3,13 +3,8 @@ layout: docs
 title: Redmine
 author:
   display_name: admin
-  login: admin
-wordpress_id: 52
-wordpress_url: http://www.taskadapter.com/wp/?page_id=52
-date: '2012-05-24 05:48:50 -0700'
-date_gmt: '2012-05-24 05:48:50 -0700'
-categories: []
 ---
+
 **Note: "REST API" must be enabled in your Redmine for this connector to work.**
 <a href="#rest_api">How to enable REST API in Redmine</a>
 
@@ -62,4 +57,4 @@ Note: this operation requires <strong>'Redmine Admin' permission</strong>.</li><
 
 **Note: "REST API" must be enabled in your Redmine for this connector to work.**
 
-<p><img src="http://www.taskadapter.com/wp-content/uploads/2012/05/redmine_enable_rest_api.png" alt="how to enable REST API in Redmine bug tracker" /></p>
+<img src="http://www.taskadapter.com/wp-content/uploads/2012/05/redmine_enable_rest_api.png" alt="how to enable REST API in Redmine bug tracker" />

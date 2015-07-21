@@ -4,7 +4,6 @@ title: 'Task Adapter 1.7.0: support for TaskStatus field in Redmine and MSP. Som
   bugfixes.'
 author:
   display_name: admin
-  login: admin
 wordpress_id: 275
 wordpress_url: http://www.taskadapter.com/2012/02/28/task-adapter-1-7-0-support-for-taskstatus-field-in-redmine-and-msp-some-bugfixes/
 date: '2012-02-28 18:50:00 -0800'

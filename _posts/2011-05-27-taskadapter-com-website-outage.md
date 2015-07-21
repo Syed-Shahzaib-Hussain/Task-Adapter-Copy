@@ -3,7 +3,6 @@ layout: post
 title: TaskAdapter.com website outage
 author:
   display_name: admin
-  login: admin
 wordpress_id: 246
 wordpress_url: http://www.taskadapter.com/2011/05/27/taskadapter-com-website-outage/
 date: '2011-05-27 21:02:00 -0700'

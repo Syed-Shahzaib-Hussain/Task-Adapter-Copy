@@ -3,7 +3,6 @@ layout: post
 title: Updating tasks in Redmine / JIRA using an existing Microsoft Project file
 author:
   display_name: admin
-  login: admin
 wordpress_id: 767
 wordpress_url: http://www.taskadapter.com/?p=767
 date: '2015-07-09 05:15:15 -0700'

@@ -3,7 +3,6 @@ layout: post
 title: Basecamp support in the works.
 author:
   display_name: admin
-  login: admin
 wordpress_id: 512
 wordpress_url: http://www.taskadapter.com/?p=512
 date: '2012-12-08 05:32:05 -0800'

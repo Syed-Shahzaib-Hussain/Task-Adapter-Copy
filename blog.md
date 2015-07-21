@@ -3,10 +3,6 @@ layout: page
 top_level_menu_weight: 30
 title: Blog
 permalink: /blog/
-
-author:
-  display_name: admin
-  login: admin
 ---
 
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

@@ -3,7 +3,6 @@ layout: post
 title: Task Adapter 1.1.0 Release Candidate 1
 author:
   display_name: admin
-  login: admin
 wordpress_id: 248
 wordpress_url: http://www.taskadapter.com/2011/06/19/task-adapter-1-1-0-release-candidate-1/
 date: '2011-06-19 20:56:00 -0700'

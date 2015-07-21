@@ -4,17 +4,11 @@ title: Export sub-projects from Redmine
 permalink: /docs/redmine/export-sub-projects-from-redmine/
 author:
   display_name: admin
-  login: admin
-wordpress_id: 90
-wordpress_url: http://www.taskadapter.com/wp/?page_id=90
-date: '2012-05-25 00:45:20 -0700'
-date_gmt: '2012-05-25 00:45:20 -0700'
-categories: []
 ---
 
-Redmine Subprojects are not directly supported by Task Adapter.
+Redmine subprojects are not directly supported by Task Adapter.
 
-<p>Here's what you can do if you need to export data from several related Redmine projects. Suppose, you have a top-level project "top1" and two subprojects "sub1", "sub2".</p>
+Here's what you can do if you need to export data from several related Redmine projects. Suppose, you have a top-level project "top1" and two subprojects "sub1", "sub2".
 <p>In Task Adapter's "Edit config" dialog: set the project name to the top-project.</p>
 <div>If you do not set anything in "Query ID" field then all issues will be loaded from the given project. Otherwise Task Adapter will use the issues returned by the saved query.</div>
 <p>Set this in your Redmine (menu Administration : Settings) (this is the default setting in Redmine 1.2+)</p>

@@ -3,7 +3,6 @@ layout: post
 title: 'Task Adapter 2.8.1: bigfixes'
 author:
   display_name: admin
-  login: admin
 wordpress_id: 713
 wordpress_url: http://www.taskadapter.com/?p=713
 date: '2014-10-19 03:42:34 -0700'

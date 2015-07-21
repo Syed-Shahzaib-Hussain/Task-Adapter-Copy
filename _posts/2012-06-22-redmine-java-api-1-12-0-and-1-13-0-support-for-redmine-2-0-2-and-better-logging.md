@@ -3,7 +3,6 @@ layout: post
 title: 'Redmine Java API 1.12.0 and 1.13.0: support for Redmine 2.0.2 and better logging'
 author:
   display_name: admin
-  login: admin
 wordpress_id: 342
 wordpress_url: http://www.taskadapter.com/?p=342
 date: '2012-06-22 03:57:21 -0700'

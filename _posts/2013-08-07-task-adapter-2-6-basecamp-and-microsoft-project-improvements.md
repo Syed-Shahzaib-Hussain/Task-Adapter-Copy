@@ -3,7 +3,6 @@ layout: post
 title: 'Task Adapter 2.6: Basecamp and Microsoft Project improvements'
 author:
   display_name: admin
-  login: admin
 wordpress_id: 592
 wordpress_url: http://www.taskadapter.com/?p=592
 date: '2013-08-07 07:11:49 -0700'
@@ -14,13 +13,17 @@ categories:
 - basecamp classic
 ---
 <p>Task Adapter 2.6 release changelog:</p>
-<h2>Basecamp Classic:</h2></p>
+
+## Basecamp Classic:
+
 <ul>
 <li>support "completed at" field (save it to "actual finish" field in MSP if the Basecamp task is marked as "Completed").<br />
 Actual finish is set for tasks which have "completed_at" field set. So if this field set and "Completed" is not, actual finish will still be set.</li></p>
 <li>minor bugfixing in the Editor.</li><br />
 </ul></p>
-<h2>Microsoft Project:</h2></p>
+
+## Microsoft Project:
+
 <ul>
 <li>set Done ratio even when estimated time is not set.<br />
 Microsoft Project only accepts and shows "Done ratio" tasks which have either time or duration set.<br />

@@ -4,8 +4,6 @@ permalink: /access-to-source-code/
 title: Access to source code
 author:
   display_name: admin
-  login: admin
-date: '2013-10-18 02:12:47 -0700'
 ---
 
 We offer **access to the Task Adapter source code**.

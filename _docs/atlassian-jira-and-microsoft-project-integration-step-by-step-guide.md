@@ -4,8 +4,6 @@ title: JIRA and Microsoft Project integration - step by step guide
 permalink: /docs/atlassian-jira/atlassian-jira-and-microsoft-project-integration-step-by-step-guide/
 author:
   display_name: admin
-  login: admin
-date: '2012-05-25 00:55:40 -0700'
 ---
 
 ### User story: "I have a Microsoft Project plan and I want to export the tasks to my JIRA".
@@ -25,10 +23,8 @@ Use &ldquo;New Config&rdquo; button on the main application page to create a new
 <a href="http://www.taskadapter.com/wp-content/uploads/2012/05/create_new_config.png"><img title="create_new_config" alt="" src="http://www.taskadapter.com/wp-content/uploads/2012/05/create_new_config.png" width="298" height="286" /></a></li></p>
 <li>Select two systems (Atlassian Jira and Microsoft Project in this example). You can also provide a description. As you see, the headers don&rsquo;t say &ldquo;Source&rdquo; and &ldquo;Destination, but rather &ldquo;System 1&Prime; and &ldquo;System 2&Prime;. This is to indicate that you can transfer both ways, so it does not matter if you select Jira on the left and Microsoft Project on the right, or the other way around.</li>
 <li>Once you click &ldquo;Create&rdquo; button, the new config file is created in your data directory (<User Home>/taskadapter folder).</li><br />
-</ol><br />
-</div><br />
-</div></p>
-<div>
+</ol>
+
 
 ## Configure.
 
@@ -49,7 +45,9 @@ Use &ldquo;New Config&rdquo; button on the main application page to create a new
 You can change default &ldquo;mapping&rdquo; for some of them. E.g. Jira&rsquo;s &ldquo;Due Date&rdquo; field can be saved into &ldquo;Finish&rdquo; or &ldquo;Deadline&rdquo; field in a Microsoft Project file. See Microsoft Project configuration page for more details.<br />
 <a href="http://www.taskadapter.com/wp-content/uploads/2012/05/default_jira_msp.png"><img class="alignnone size-full wp-image-451" title=""Edit config" for Atlassian Jira and Microsoft Project" alt=""Edit config" for Atlassian Jira and Microsoft Project" src="http://www.taskadapter.com/wp-content/uploads/2012/05/default_jira_msp.png" width="768" height="430" /></a></li><br />
 </ol></p>
-<h2><a id="export_data" name="export_data"></a>Export tasks.</h2></p>
+
+## <a id="export_data" name="export_data"></a>Export tasks.
+
 <div>Click arrow-buttons to start export to the &nbsp;left or right system: &nbsp;&nbsp;<img title="export_left_right" alt="" src="http://www.taskadapter.com/wp-content/uploads/2012/05/export_left_right.png" width="134" height="42" /></div></p>
 <div>A confirmation dialog is shown when the tasks are&nbsp;loaded from the source system:</div></p>
 <div></div></p>
@@ -61,13 +59,9 @@ You can change default &ldquo;mapping&rdquo; for some of them. E.g. Jira&rsquo;s
 <div></div></p>
 <div>The transfer result is shown on the next page with the number of tasks created or updated.</div></p>
 <div></div></p>
-<div>Open your Jira web page in the browser to see the new tasks:</div></p>
-<div>
-<div id="node-42">
-<p><img alt="" src="http://www.taskadapter.com/wp-content/uploads/2012/05/jira_web_ui.png" /></p>
-<div></div><br />
-</div><br />
-</div></p>
+
+Open your Jira web page in the browser to see the new tasks:
+<img alt="" src="http://www.taskadapter.com/wp-content/uploads/2012/05/jira_web_ui.png" />
 
 ## <a id="update_msp_file" name="update_msp_file"></a>Update MSP File
 

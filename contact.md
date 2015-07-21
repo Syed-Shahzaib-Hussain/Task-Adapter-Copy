@@ -3,10 +3,6 @@ layout: page
 title: Contact
 permalink: /contacts/
 top_level_menu_weight: 10
-
-author:
-  display_name: admin
-  login: admin
 ---
 
 ## Email

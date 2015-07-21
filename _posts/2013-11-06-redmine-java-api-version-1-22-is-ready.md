@@ -3,7 +3,6 @@ layout: post
 title: Redmine Java API version 1.22 is ready
 author:
   display_name: admin
-  login: admin
 wordpress_id: 632
 wordpress_url: http://www.taskadapter.com/?p=632
 date: '2013-11-06 18:30:58 -0800'

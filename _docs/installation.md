@@ -15,7 +15,9 @@ permalink: /docs/installation/
 </a><br />
 A default Internet browser will be automatically started and opened with "<strong>http://localhost:10842/ta</strong>" &nbsp;URL.</p>
 <p>Note that the <strong>default port</strong> for Task Adapter web application is <strong>10842</strong>.</p>
-<h3>Changing port number.</h3><br />
+
+### Changing port number.
+
 The port number Task Adapter will use for embedded HTTP server can be provided in command line parameters:</p>
 <div style="padding-left: 30px;"><em>launcher --port=9977<b><br />
 </b></em></div><br />

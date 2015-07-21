@@ -3,7 +3,6 @@ layout: post
 title: Redmine Java API 1.0.4 is released
 author:
   display_name: admin
-  login: admin
 wordpress_id: 238
 wordpress_url: http://www.taskadapter.com/2011/01/31/redmine-java-api-1-0-4-is-released/
 date: '2011-01-31 22:28:00 -0800'

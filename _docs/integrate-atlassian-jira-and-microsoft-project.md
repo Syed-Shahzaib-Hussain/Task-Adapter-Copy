@@ -3,7 +3,6 @@ layout: docs
 title: Integrate Atlassian Jira and Microsoft Project
 author:
   display_name: admin
-  login: admin
 wordpress_id: 97
 wordpress_url: http://www.taskadapter.com/wp/?page_id=97
 date: '2012-05-25 00:52:33 -0700'
