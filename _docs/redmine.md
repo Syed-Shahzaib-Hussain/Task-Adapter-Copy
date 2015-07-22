@@ -34,7 +34,7 @@ Save/load speed changes pretty much linearly when tasks number changes.
 
 <a name="dialog"></a>**Redmine configuration dialog**
 
-<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_redmine4.png"><img src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_redmine4.png"/></a>
+<a href="/images/uploads/edit_redmine4.png"><img src="/images/uploads/edit_redmine4.png"/></a>
 
 * **Description** Arbitrary text, which will be later shown in the configs list.
 * **Server URL** Complete Redmine URL, including protocol prefix (https or http) and port number (when using a non-standard port).
@@ -46,13 +46,13 @@ Save/load speed changes pretty much linearly when tasks number changes.
 * **Password** Redmine password
 * **Project key** The Project Key (String) in your Redmine you want this config to work with. Note: this is NOT a project name, which can be long and have spaces in it, etc. It is the project **Key**. You can find it in Redmine web URLs:
 
-<img src="http://www.taskadapter.com/wp-content/uploads/2012/05/redmine_project_key.png" alt="Redmine project Key" />
+<img src="/images/uploads/redmine_project_key.png" alt="Redmine project Key" />
 or just browse "Available projects" list.
-Use **"..." button** to see available projects.<img src="http://www.taskadapter.com/wp-content/uploads/2012/05/select_project.png" alt="select Redmine project"/>
+Use **"..." button** to see available projects.<img src="/images/uploads/select_project.png" alt="select Redmine project"/>
 
 * **<a id="query_id" name="query_id"></a>Query ID** <a href="#query_id">Link</a> Task Adapter works with "custom queries" saved in your Redmine. Open your Redmine web page, create and save a "custom query" and check its ID using hints on this screenshot:
 
-<img src="http://www.taskadapter.com/wp-content/uploads/2012/05/where_to_find_query_id_in_redmine.png" alt="find saved query ID in Redmine" /></p>
+<img src="/images/uploads/where_to_find_query_id_in_redmine.png" alt="find saved query ID in Redmine" /></p>
 * <a name="find_assignees"></a>**Find users based on assignee's name** <a href="#find_assignees">Link</a>
  This option can be useful when you need to export a new MSP project file to Redmine.
 
@@ -71,4 +71,4 @@ Note: this operation requires **'Redmine Admin' permission**.
 
 **Note: "REST API" must be enabled in your Redmine for this connector to work.**
 
-<img src="http://www.taskadapter.com/wp-content/uploads/2012/05/redmine_enable_rest_api.png" alt="how to enable REST API in Redmine bug tracker" />
+<img src="/images/uploads/redmine_enable_rest_api.png" alt="how to enable REST API in Redmine bug tracker" />

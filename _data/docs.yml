@@ -1,6 +1,7 @@
 - title: Getting Started
   docs:
   - installation
+  - using-task-adapter
   - quickstart
 
 - title: Supported Systems

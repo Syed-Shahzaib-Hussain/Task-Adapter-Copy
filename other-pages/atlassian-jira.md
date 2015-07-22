@@ -41,4 +41,4 @@ Previous JIRA versions do not have remote interfaces required for the proper dat
 The last Task Adapter version still compatible with JIRA 4 was 2.0.2, you can get it here:
 <a href="http://www.taskadapter.com/releases/taskadapter-2.0.2.zip">download the old Task Adapter 2.0.2</a>.
 
-<a href="/user-guide/atlassian-jira">How to configure Task Adapter for Atlassian JIRA usage</a>
+<a href="/docs/atlassian-jira">How to configure Task Adapter for Atlassian JIRA usage</a>

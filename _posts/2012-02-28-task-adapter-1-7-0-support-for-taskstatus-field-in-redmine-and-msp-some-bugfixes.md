@@ -13,7 +13,7 @@ categories:
 - release
 - microsoft project
 ---
-<div dir="ltr" style="text-align: left;" trbidi="on">Task Adapter 1.7.0 is <a href="http://taskadapter.com/download">ready for download</a>.<br/><br/><b>New feature</b>: Support for TaskStatus field in Redmine and MSP<br/><br/>Bugfixes: <br/>
+<div dir="ltr" style="text-align: left;" trbidi="on">Task Adapter 1.7.0 is <a href="http://taskadapter.com/download">ready for download</a>.<br/><br/>**New feature**: Support for TaskStatus field in Redmine and MSP<br/><br/>Bugfixes: <br/>
 <ul>
 * Wrong assignee after export-import between different Redmine instances.
 * "create issue" failed with Redmine 1.3.1

@@ -4,12 +4,12 @@ Task Adapter transfers tasks between Redmine, ChiliProject, JIRA, Microsoft Proj
 
 *   **Basecamp** - Supported, but no User Guide page yet.
 *   **Basecamp Classic** - Supported, but no User Guide page yet.
-*   **[GitHub](/github)**
+*   **[GitHub](/docs/github)**
 *   **[MantisBT](/docs/mantis-bug-tracker-integration)**
-*   **[Microsoft Project](/microsoft-project-integration/)**
-*   **[JIRA](/atlassian-jira)**
-*   **[JIRA OnDemand](/atlassian-jira)**
-*   **[Redmine](user-guide/redmine)**
+*   **[Microsoft Project](/docs/microsoft-project-integration/)**
+*   **[JIRA](/docs/atlassian-jira)**
+*   **[JIRA OnDemand](/docs/atlassian-jira)**
+*   **[Redmine](/docs/redmine)**
 
 For example, you can transfer tasks between:
 
@@ -22,7 +22,7 @@ For example, you can transfer tasks between:
 ## Supported modes.
 
 *   Between bug trackers - **create** new tasks only.
-*   Between Microsoft Project and a web-based bug tracker (like Redmine, JIRA, etc) - both **create** and **update**. See this [detailed page explaining how to update existing tasks in your bug tracker](http://www.taskadapter.com/user-guide/using-task-adapter/how-to-update-tasks-in-redmine-jira/) (Redmine / JIRA / what have you).
+*   Between Microsoft Project and a web-based bug tracker (like Redmine, JIRA, etc) - both **create** and **update**. See this [detailed page explaining how to update existing tasks in your bug tracker](http://www.taskadapter.com/docs/using-task-adapter/how-to-update-tasks-in-redmine-jira/) (Redmine / JIRA / what have you).
 
 
 ## What data can Task Adapter transfer?
@@ -40,5 +40,3 @@ This varies from system to system (e.g. list of task fields supported for Redmin
 *   Task Due Date ("finish date" or "estimated finish date")
 *   Task Start Date
 *   Priority (High, Normal, Low, etc).
-
-[Compare Task Adapter with other systems.](/compare-task-adapter-with-other-systems)

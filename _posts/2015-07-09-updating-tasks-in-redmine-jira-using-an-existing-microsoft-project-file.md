@@ -11,4 +11,4 @@ categories:
 - Uncategorized
 ---
 
-I just published a <a href="http://www.taskadapter.com/user-guide/using-task-adapter/how-to-update-tasks-in-redmine-jira/">new page explaining in details how to update existing tasks in your bug tracker</a> (Redmine / JIRA / what have you).</p>
+I just published a <a href="http://www.taskadapter.com/docs/using-task-adapter/how-to-update-tasks-in-redmine-jira/">new page explaining in details how to update existing tasks in your bug tracker</a> (Redmine / JIRA / what have you).</p>

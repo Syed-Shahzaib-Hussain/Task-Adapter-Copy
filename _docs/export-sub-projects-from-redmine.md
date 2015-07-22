@@ -16,8 +16,8 @@ Otherwise Task Adapter will use the issues returned by the saved query.
 
 Set this in your Redmine (menu Administration -> Settings) (this is the default setting in Redmine 1.2+).
 
-<img src="http://www.taskadapter.com/wp-content/uploads/2012/05/redmine_admin_show_issues_subprojects.png"/>
+<img src="/images/uploads/redmine_admin_show_issues_subprojects.png"/>
 
 Then you can load all the issues from the Redmine project and its subprojects in TA. Here's how these issues are shown in Redmine web UI:
 
-<img src="http://www.taskadapter.com/wp-content/uploads/2012/05/redmine_webui_issues_in_subprojects.png" />
+<img src="/images/uploads/redmine_webui_issues_in_subprojects.png" />

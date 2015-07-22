@@ -12,7 +12,7 @@ You have a Microsoft Project XML file that you want to export to your bug tracke
 ## Steps:
 
 Open the sync config page. In Task Fields Mapping section there is "Id" field:</p>
-<p><img src="https://ci4.googleusercontent.com/proxy/jHPWJRvnL8a08Nac3zgyuZVHnmNXdlNFhy5SGdZt4ScEA9_u37w76wwq-0rVVKSJpxVNQWb5NgD6hrcBywHn7P7mcv8_R8wrjZH6InH_dvUgd6jiwih3iGaMgA=s0-d-e1-ft#http://www.taskadapter.com/wp-content/uploads/2012/05/id_selected.png"  /></p>
+<p><img src="https://ci4.googleusercontent.com/proxy/jHPWJRvnL8a08Nac3zgyuZVHnmNXdlNFhy5SGdZt4ScEA9_u37w76wwq-0rVVKSJpxVNQWb5NgD6hrcBywHn7P7mcv8_R8wrjZH6InH_dvUgd6jiwih3iGaMgA=s0-d-e1-ft#/images/uploads/id_selected.png"  /></p>
 <div>Select this field before you start your first export from MSP to Redmine / JIRA. You can leave the default "TEXT22" value unchanged.</div></p>
 <div>Start the export.</div></p>
 <div>TaskAdapter will create tasks in the target system and then save the newly created task IDs (like "123" for Redmine or "MYPROJECT-123" for JIRA) in the specified custom field ("TEXT22&Prime; in this example) in the Microsoft Project XML file.</div></p>

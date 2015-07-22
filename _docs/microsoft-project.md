@@ -17,10 +17,10 @@ The following applications can load and save data from/to MSPDI format:
 Task Adapter supports unlimited nesting for tasks in the project plan.
 Microsoft Project configuration dialog (Task Adapter is running locally on your machine, so-called "Local mode"):
 
-<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_msp_local.png"><img class="alignnone size-full wp-image-471" title="edit_msp_local"  src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_msp_local.png" width="458" height="374" /></a></p>
+<a href="/images/uploads/edit_msp_local.png"><img class="alignnone size-full wp-image-471" title="edit_msp_local"  src="/images/uploads/edit_msp_local.png" width="458" height="374" /></a></p>
 <p>Microsoft Project configuration dialog (Task Adapter is running on some remote server - "Server mode"):
 
-<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_msp_server.png"><img class="alignnone size-full wp-image-472" title="edit_msp_server"  src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_msp_server.png" width="460" height="400" /></a></p>
+<a href="/images/uploads/edit_msp_server.png"><img class="alignnone size-full wp-image-472" title="edit_msp_server"  src="/images/uploads/edit_msp_server.png" width="460" height="400" /></a></p>
 
 * **Description** Any text to help you identify this MSP file later.
 * **File name** Full or relative path to the MSP XML file. If the file does not exist, it will be created when
@@ -41,7 +41,7 @@ For example, JIRA's "Due Date" can be saved into "Finish" or "Deadline" in Micro
 The project file will behave differently in Microsoft Project, depending on these settings,
 so you need to analyse the fields mappings and select what's best for you. It all depends on your needs.
 
-<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/redmine_msp_fields_mapping.png"><img src="http://www.taskadapter.com/wp-content/uploads/2012/05/redmine_msp_fields_mapping.png"/></a>
+<a href="/images/uploads/redmine_msp_fields_mapping.png"><img src="/images/uploads/redmine_msp_fields_mapping.png"/></a>
 
 <a name="fields_mapping"></a>Only the selected fields will be exported when saving data into this MS Project file. <a href="#fields_mapping">Link</a>
 
@@ -61,7 +61,7 @@ E.g. "TEXT1", "TEXT 15", etc.
 * **Estimated Time** "Estimated Time" can be exported to either **"Work"** or **"Duration"** field. Please analyse what you need in your case (please refer to Microsoft Project documentation).
 * <a name="start_date"></a>**Start Date** <a href="#start_date">Link</a>
 
-<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/msp_start_date_mapping_options.png"><img src="http://www.taskadapter.com/wp-content/uploads/2012/05/msp_start_date_mapping_options.png" width="309" height="225" /></a>
+<a href="/images/uploads/msp_start_date_mapping_options.png"><img src="/images/uploads/msp_start_date_mapping_options.png" width="309" height="225" /></a>
 <a href="http://www.taskadapter.com/microsoft_project#start_date"></a>
 
 Task Adapter can save "Start date" using these constraints recognized by Microsoft Project.
@@ -71,7 +71,7 @@ Please refer to Microsoft Project documentation to see the differences between "
 "Must start on" and other options for task start dates.
 * <a name="msp_due_date"></a>**Due Date** <a href="#msp_due_date">Link</a>
 
-<img src="http://www.taskadapter.com/wp-content/uploads/2012/05/msp_due_date_mapping_options.png"/>
+<img src="/images/uploads/msp_due_date_mapping_options.png"/>
 
 Select **Finish** or **Deadline**.
 

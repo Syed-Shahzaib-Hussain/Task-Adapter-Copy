@@ -16,6 +16,6 @@ top_level_menu_weight: 8
 Recent Google Chrome versions (2015) started showing this warning because of 2 start scripts (Windows and Linux and MacOS) in the distributive:
 ![Google Chrome warning](images/chrome_warning.png)
 
-Click the "down" arrow on the right and use "Keep" menu to save the distributive to your computer. Then follow [Installation Guide](task-adapter-installation).
+Click the "down" arrow on the right and use "Keep" menu to save the distributive to your computer. Then follow [Installation Guide](/docs/task-adapter-installation).
 
 **XML Support is broken in Microsoft Project 2010 Prof with Office Service Pack 1 (v. 14.0.5128.5000).** Please, do NOT install the service pack after you install Microsoft Project 2010 v.14.0.4760.1000.

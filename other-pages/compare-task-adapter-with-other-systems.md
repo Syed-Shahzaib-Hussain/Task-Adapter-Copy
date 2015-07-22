@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Compare Task Adapter with other systems
-author:
-  display_name: admin
+permalink: /compare-task-adapter-with-other-systems/
 ---
 
 
@@ -126,4 +125,3 @@ In fact Task Adapter project was started because that plugin didn't do what we n
 
 </table>
 
- </p>
