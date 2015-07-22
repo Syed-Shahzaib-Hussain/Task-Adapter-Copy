@@ -41,9 +41,10 @@ For example, JIRA's "Due Date" can be saved into "Finish" or "Deadline" in Micro
 The project file will behave differently in Microsoft Project, depending on these settings,
 so you need to analyse the fields mappings and select what's best for you. It all depends on your needs.
 
-<a href="/images/uploads/redmine_msp_fields_mapping.png"><img src="/images/uploads/redmine_msp_fields_mapping.png"/></a>
+<img src="/images/uploads/redmine_msp_fields_mapping.png"/>
 
-<a name="fields_mapping"></a>Only the selected fields will be exported when saving data into this MS Project file. <a href="#fields_mapping">Link</a>
+<a name="fields_mapping"></a>Only the selected fields will be exported when saving data into this MS Project file.
+<a href="#fields_mapping">Link</a>
 
 * <a name="save_remote_ids"></a> **Id** <a href="#save_remote_ids">Link</a> When you load a Microsoft Project file into Task Adapter and then export tasks into Redmine / Atlassian JIRA / Chiliproject/etc.. , Task Adapter can remember the IDs of the created tasks. These "remote IDs" are stored in the Microsoft Project file itself (assuming that the option is <em>selected</em>).
 

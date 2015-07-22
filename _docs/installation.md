@@ -22,8 +22,7 @@ Unpack the distributive into any folder (any modern operating system can open ZI
 
 Open the folder where you unpacked the application to, then open "bin" sub-folder and run "launcher.bat" (for Windows) or "launcher" (for Linux and Mac OS).
 
-<a href="http://www.taskadapter.com/docs/installation/launcher/"><img class="alignnone size-full" src="/images/uploads/launcher.png" alt="launcher" width="384" height="148" />
-</a>
+![Task Adapter Launcher](/images/uploads/launcher.png)
 
 A default Internet browser will be automatically opened with **http://localhost:10842/ta** URL.
 Note that the **default port** for Task Adapter web application is **10842**.
