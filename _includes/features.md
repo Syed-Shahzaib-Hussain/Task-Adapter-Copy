@@ -22,12 +22,15 @@ For example, you can transfer tasks between:
 ## Supported modes.
 
 *   Between bug trackers - **create** new tasks only.
-*   Between Microsoft Project and a web-based bug tracker (like Redmine, JIRA, etc) - both **create** and **update**. See this [detailed page explaining how to update existing tasks in your bug tracker](http://www.taskadapter.com/docs/using-task-adapter/how-to-update-tasks-in-redmine-jira/) (Redmine / JIRA / what have you).
+*   Between Microsoft Project and a web-based bug tracker (like Redmine, JIRA, etc) - both **create** and **update**.
+ See this [detailed page explaining how to update existing tasks in your bug tracker](http://www.taskadapter.com/docs/using-task-adapter/how-to-update-tasks-in-redmine-jira/)
+  (Redmine / JIRA / what have you).
 
 
 ## What data can Task Adapter transfer?
 
-This varies from system to system (e.g. list of task fields supported for Redmine bug tracker is different from the one for Microsoft Project or JIRA). These are the basic task fields supported for most systems:
+This varies from system to system (e.g. list of task fields supported for Redmine bug tracker is different
+from the one for Microsoft Project or JIRA). These are the basic task fields supported for most systems:
 
 *   Task Summary
 *   Task description
