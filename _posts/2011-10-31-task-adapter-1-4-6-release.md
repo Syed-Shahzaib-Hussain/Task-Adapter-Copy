@@ -17,9 +17,9 @@ categories:
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;"><b>Task Adapter 1.4.6</b> is<a href="http://www.taskadapter.com/download"> ready for download</a>.</span></div>
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;"><b>Feature</b></span></div>
 <ul style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">
-<li><span style="background-color: white;">#34681 Export Assignee field as Full Name instead of Short Name when exporting from JIRA to MSP</span></li></ul><br/>
+* <span style="background-color: white;">#34681 Export Assignee field as Full Name instead of Short Name when exporting from JIRA to MSP</span></ul><br/>
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><b style="background-color: white;">Bug fixing</b></div>
 <ul style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">
-<li><span style="background-color: white;">#36631 Error in start date field during importing MSP file into redmine</span></li>
-<li><span style="background-color: white;">#37322 Use Redmine Java API 1.5.2</span></li></ul>
+* <span style="background-color: white;">#36631 Error in start date field during importing MSP file into redmine</span>
+* <span style="background-color: white;">#37322 Use Redmine Java API 1.5.2</span></ul>
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;"><a href="http://www.hostedredmine.com/projects/ta/versions/1368">Full changes list</a></span></div></p>

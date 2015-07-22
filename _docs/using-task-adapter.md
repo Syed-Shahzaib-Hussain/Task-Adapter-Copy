@@ -6,54 +6,54 @@ author:
 ---
 
 <ul>
-<li><a href="#create_config_file">Create a config</a></li>
-<li><a href="#configure">Configure</a></li>
-<li><a href="#export_data">Export Data</a></li>
-<li><a href="#update_msp_file">Update MSP File</a></li>
+* <a href="#create_config_file">Create a config</a>
+* <a href="#configure">Configure</a>
+* <a href="#export_data">Export Data</a>
+* <a href="#update_msp_file">Update MSP File</a>
 
 </ul></p>
 
 ## <a id="create_config_file" name="create_config_file"></a>Create a config
 
 <ol>
-<li>To export tasks from a bug tracker like Atlassian JIRA and a Microsoft Project file, you first need to create a "synchronization config",  which will keep settings like your JIRA server URL, login, password, your Microsoft Project file location, etc.
+* To export tasks from a bug tracker like Atlassian JIRA and a Microsoft Project file, you first need to create a "synchronization config",  which will keep settings like your JIRA server URL, login, password, your Microsoft Project file location, etc.
 
 Use "New Config" button on the main application page to create a new config.
 
-<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/create_new_config.png"><img class="alignnone size-full wp-image-452" title="create_new_config" src="http://www.taskadapter.com/wp-content/uploads/2012/05/create_new_config.png"  width="298" height="286" /></a></li></p>
-<li>Select two systems (e.g. Atlassian JIRA and Microsoft Project). These will be the systems this "config"  transfers data between. You can also provide a description. As you see, the headers don't say "Source" and "Destination, but rather "System 1" and "System 2". This is to indicate that you can transfer both ways, so it does not matter if you select JIRA on the left and Microsoft Project on the right, or the other way around.</li>
-<li>Once you click "Create" button, the new config file is created in your data directory (<User Home>/taskadapter folder).</li>
+<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/create_new_config.png"><img class="alignnone size-full wp-image-452" title="create_new_config" src="http://www.taskadapter.com/wp-content/uploads/2012/05/create_new_config.png"  width="298" height="286" /></a></p>
+* Select two systems (e.g. Atlassian JIRA and Microsoft Project). These will be the systems this "config"  transfers data between. You can also provide a description. As you see, the headers don't say "Source" and "Destination, but rather "System 1" and "System 2". This is to indicate that you can transfer both ways, so it does not matter if you select JIRA on the left and Microsoft Project on the right, or the other way around.
+* Once you click "Create" button, the new config file is created in your data directory (<User Home>/taskadapter folder).
 
 </ol></p>
 
 ## <a id="configure" name="configure"></a>Configure.
 
 <ol>
-<li>Once you create a config, you get "Edit Config" page. Here is what you will see for an Atlassian JIRA and Microsoft Project config:
+* Once you create a config, you get "Edit Config" page. Here is what you will see for an Atlassian JIRA and Microsoft Project config:
 
-<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/default_jira_msp.png"><img class="alignnone size-full wp-image-451" title=""Edit config" for Atlassian JIRA and Microsoft Project" src="http://www.taskadapter.com/wp-content/uploads/2012/05/default_jira_msp.png" Edit config" for Atlassian JIRA and Microsoft Project" width="768" height="430" /></a></li></p>
-<li>This page has two buttons to edit systems' settings, two "start export" buttons and a "Fields mapping" panel.</li>
-<li>Click the big blue buttons to configure Atlassian JIRA or Microsoft Project:
+<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/default_jira_msp.png"><img class="alignnone size-full wp-image-451" title=""Edit config" for Atlassian JIRA and Microsoft Project" src="http://www.taskadapter.com/wp-content/uploads/2012/05/default_jira_msp.png" Edit config" for Atlassian JIRA and Microsoft Project" width="768" height="430" /></a></p>
+* This page has two buttons to edit systems' settings, two "start export" buttons and a "Fields mapping" panel.
+* Click the big blue buttons to configure Atlassian JIRA or Microsoft Project:
 
-<img class="alignnone size-full wp-image-455" title="edit_jira_button" src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_jira_button1.png"  width="298" height="40" />  <img class="alignnone size-full wp-image-454" title="edit_msp_button" src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_msp_button.png"  width="296" height="40" /></li></p>
-<li>Select task fields you want to export. You can change default "mapping" for some of them. E.g. JIRA's "Due Date" field can be saved into "Finish" or "Deadline" field in a Microsoft Project file. See Microsoft Project configuration page for more details.</li>
+<img class="alignnone size-full wp-image-455" title="edit_jira_button" src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_jira_button1.png"  width="298" height="40" />  <img class="alignnone size-full wp-image-454" title="edit_msp_button" src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_msp_button.png"  width="296" height="40" /></p>
+* Select task fields you want to export. You can change default "mapping" for some of them. E.g. JIRA's "Due Date" field can be saved into "Finish" or "Deadline" field in a Microsoft Project file. See Microsoft Project configuration page for more details.
 
 </ol></p>
 
 ## <a id="export_data" name="export_data"></a>Export data.
 
 <ol>
-<li>Click arrow-buttons to start data export to the  left or right system:
+* Click arrow-buttons to start data export to the  left or right system:
 
 <img class="alignnone size-full wp-image-456" title="export_left_right" src="http://www.taskadapter.com/wp-content/uploads/2012/05/export_left_right.png"  width="134" height="42" />
 
-Data will be loaded from the source system and a confirmation dialog will be shown:<img class="alignnone size-full wp-image-152" title="export_confirmation" src="http://www.taskadapter.com/wp-content/uploads/2012/05/export_confirmation.png"  width="422" height="362" /></li></p>
-<li>You can change the fields mappings before the export.
+Data will be loaded from the source system and a confirmation dialog will be shown:<img class="alignnone size-full wp-image-152" title="export_confirmation" src="http://www.taskadapter.com/wp-content/uploads/2012/05/export_confirmation.png"  width="422" height="362" /></p>
+* You can change the fields mappings before the export.
 
 Only the selected fields will be transferred to the destination system.
 
-<img class="alignnone size-full wp-image-459" title="confirm_fields_mapping" src="http://www.taskadapter.com/wp-content/uploads/2012/05/confirm_fields_mapping1.png"  width="430" height="246" /></li></p>
-<li>The transfer result is shown on the next page with the number of tasks created or updated.</li>
+<img class="alignnone size-full wp-image-459" title="confirm_fields_mapping" src="http://www.taskadapter.com/wp-content/uploads/2012/05/confirm_fields_mapping1.png"  width="430" height="246" /></p>
+* The transfer result is shown on the next page with the number of tasks created or updated.
 
 </ol></p>
 
@@ -62,13 +62,13 @@ Only the selected fields will be transferred to the destination system.
 <a href="#update_msp_file">Link to this page</a></p>
 <p>You can update a Microsoft Project XML file with the data from an external system (Redmine/JIRA/Mantis...).</p>
 <ol>
-<li>Either you want to export data from a Microsoft Project file to an external system OR Load data from an external system into the MSP XML file -**In either case select "Id" field before the "save data" operation.**<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/id_selected.png"><img class="alignnone size-full wp-image-460" title="id_selected" src="http://www.taskadapter.com/wp-content/uploads/2012/05/id_selected.png"  width="454" height="254" /></a>
-<p>The task IDs provided by the external system will be saved in the specified field ("TEXT22" in this example) in the Microsoft Project XML file.</li></p>
-<li>Use "Only update tasks present in the file" button:
+* Either you want to export data from a Microsoft Project file to an external system OR Load data from an external system into the MSP XML file -**In either case select "Id" field before the "save data" operation.**<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/id_selected.png"><img class="alignnone size-full wp-image-460" title="id_selected" src="http://www.taskadapter.com/wp-content/uploads/2012/05/id_selected.png"  width="454" height="254" /></a>
+<p>The task IDs provided by the external system will be saved in the specified field ("TEXT22" in this example) in the Microsoft Project XML file.</p>
+* Use "Only update tasks present in the file" button:
 
 <img class="alignnone size-full wp-image-157" title="choose_file_operation" src="http://www.taskadapter.com/wp-content/uploads/2012/05/choose_file_operation.png"  width="466" height="174" />
 
-Only the tasks which have "remote IDs" field set in the MSP file will be updated.</li></p>
-<li>The selected tasks will be re-loaded from the external system (JIRA in this example) and updated in the MSP XML file. The other tasks in the XML file will be left unchanged.</li>
+Only the tasks which have "remote IDs" field set in the MSP file will be updated.</p>
+* The selected tasks will be re-loaded from the external system (JIRA in this example) and updated in the MSP XML file. The other tasks in the XML file will be left unchanged.
 
 </ol></p>

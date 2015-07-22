@@ -10,22 +10,22 @@ We offer **access to the Task Adapter source code**.
 
 <div>
 <ul>
-<li>This is a non-exclusive access which allows you to make any modifications to the source code and build Task Adapter product <b>for your own needs;</b> <b>redistribution is NOT permitted</b>.</li>
-<li>;This includes some reasonable support time to help you with the dev environment, answer your questions about the source code, build process, etc.</li>
-<li>You can get access to the main repository (and thus get all the future updates) or get your own copy.</li>
-<li>This allows you to use Task Adapter <b>on any number of computers (no licensing per user)</b>.</li>
-<li>The access is granted for 1 year from the date of the purchase.</li>
+* This is a non-exclusive access which allows you to make any modifications to the source code and build Task Adapter product <b>for your own needs;</b> <b>redistribution is NOT permitted</b>.
+* ;This includes some reasonable support time to help you with the dev environment, answer your questions about the source code, build process, etc.
+* You can get access to the main repository (and thus get all the future updates) or get your own copy.
+* This allows you to use Task Adapter <b>on any number of computers (no licensing per user)</b>.
+* The access is granted for 1 year from the date of the purchase.
 </ul>
 
 **Technical details:**
 
 <ul>
-<li>Java language is used for both server and client side.</li>
-<li>Git is used as a source control system.</li>
-<li>There's a set of unit and integration tests.</li>
-<li>There's documentation on the dev process and environment setup.</li>
-<li>"Core" module is separate from the UI so you can remove the UI layer from the build and implement any UI you want.</li>
-<li>Every data connector (Redmine, JIRA, etc) is separate so you can easily remove them from the build to build a custom version for your needs.</li>
+* Java language is used for both server and client side.
+* Git is used as a source control system.
+* There's a set of unit and integration tests.
+* There's documentation on the dev process and environment setup.
+* "Core" module is separate from the UI so you can remove the UI layer from the build and implement any UI you want.
+* Every data connector (Redmine, JIRA, etc) is separate so you can easily remove them from the build to build a custom version for your needs.
 
 </ul>
 

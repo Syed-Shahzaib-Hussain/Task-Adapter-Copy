@@ -34,27 +34,27 @@ Microsoft Project and systems like Atlassian JIRA, Redmine, MantisBT, etc:
 <td>**Supported systems**</td></p>
 <td>
 <ul>
-<li>Microsoft Project</li>
-<li>Atlassian JIRA</li>
-<li>Redmine</li>
-<li>Github</li>
-<li>MantisBT</li>
+* Microsoft Project
+* Atlassian JIRA
+* Redmine
+* Github
+* MantisBT
 
 </ul>
 
  </td></p>
 <td>
 <ul>
-<li>Microsoft Project</li>
-<li>Atlassian JIRA</li>
+* Microsoft Project
+* Atlassian JIRA
 
 </ul>
 
 </td></p>
 <td>
 <ul>
-<li>Microsoft Project</li>
-<li>Redmine</li>
+* Microsoft Project
+* Redmine
 
 </ul>
 
@@ -65,23 +65,23 @@ Microsoft Project and systems like Atlassian JIRA, Redmine, MantisBT, etc:
 <td>**Features**</td></p>
 <td>
 <ul>
-<li>Transfer tasks between any of the supported systems (e.g. Atlassian JIRA and Redmine)</li>
-<li>Update existing Microsoft project files with the current data in your bug tracker.</li>
+* Transfer tasks between any of the supported systems (e.g. Atlassian JIRA and Redmine)
+* Update existing Microsoft project files with the current data in your bug tracker.
 
 </ul>
 
 </td></p>
 <td>
 <ul>
-<li>Load tasks from / save to Atlassian JIRA and Microsoft Project</li>
-<li>Update existing Microsoft project files with the current data in Atlassian JIRA.</li>
+* Load tasks from / save to Atlassian JIRA and Microsoft Project
+* Update existing Microsoft project files with the current data in Atlassian JIRA.
 
 </ul>
 
 </td></p>
 <td>
 <ul>
-<li>Load tasks from / save to Redmine and Microsoft Project</li>
+* Load tasks from / save to Redmine and Microsoft Project
 
 </ul>
 

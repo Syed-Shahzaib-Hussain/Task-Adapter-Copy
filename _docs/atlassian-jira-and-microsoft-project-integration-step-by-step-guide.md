@@ -2,8 +2,6 @@
 layout: docs
 title: JIRA and Microsoft Project integration - step by step guide
 permalink: /docs/atlassian-jira/atlassian-jira-and-microsoft-project-integration-step-by-step-guide/
-author:
-  display_name: admin
 ---
 
 ## User story: "I have a Microsoft Project plan and I want to export the tasks to my JIRA".
@@ -43,13 +41,15 @@ Click the big blue buttons to configure Atlassian JIRA or Microsoft Project:
 
 Configure Atlassian JIRA settings, like JIRA server URL, your JIRA login name and password.
 
-<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_jira1.png"><img alt="Edit Atlassian JIRA settings" src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_jira1.png"/></a>Here's the <a title="Atlassian JIRA" href="http://www.taskadapter.com/user-guide/atlassian-jira/">complete description of the JIRA configuration dialog</a>.</p>
+<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_jira1.png"><img alt="Edit Atlassian JIRA settings" src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_jira1.png"/></a>
+Here's the <a title="Atlassian JIRA" href="http://www.taskadapter.com/user-guide/atlassian-jira/">complete description of the JIRA configuration dialog</a>.
+
 Close the JIRA configuration panel.
 Now click "Microsoft Project" button to open the project settings. Provide the file location -
 
 <a href="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_msp_local.png"><img alt="Edit Microsoft Project settings (Task Adapter local mode)" src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_msp_local.png"/></a>
 
-(This is the panel you see when you run Task Adapter in "local" mode. The server mode has a bit different one).
+()This is the panel you see when you run Task Adapter in "local" mode. The server mode has a bit different one.)
 
 Now close the Microsoft Project panel.
 You're back to "Edit Config" screen. Select task fields you want to export.

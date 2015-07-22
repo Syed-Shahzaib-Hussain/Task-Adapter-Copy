@@ -17,20 +17,20 @@ categories:
 ## Basecamp Classic:
 
 <ul>
-<li>support "completed at" field (save it to "actual finish" field in MSP if the Basecamp task is marked as "Completed").
+* support "completed at" field (save it to "actual finish" field in MSP if the Basecamp task is marked as "Completed").
 
-Actual finish is set for tasks which have "completed_at" field set. So if this field set and "Completed" is not, actual finish will still be set.</li></p>
-<li>minor bugfixing in the Editor.</li>
+Actual finish is set for tasks which have "completed_at" field set. So if this field set and "Completed" is not, actual finish will still be set.</p>
+* minor bugfixing in the Editor.
 
 </ul></p>
 
 ## Microsoft Project:
 
 <ul>
-<li>set Done ratio even when estimated time is not set.
+* set Done ratio even when estimated time is not set.
 
 Microsoft Project only accepts and shows "Done ratio" tasks which have either time or duration set.
 
-What happens when you load tasks from a bug tracker, which does not support estimated time, but does support some notion of "Done ratio"? Task Adapter will now set the estimated time for  those tasks as "8h" when saving to Microsoft Project.  This is a little trick which forces MSP to show the "Done Ratio" correctly on the Gantt Diagram.</li>
+What happens when you load tasks from a bug tracker, which does not support estimated time, but does support some notion of "Done ratio"? Task Adapter will now set the estimated time for  those tasks as "8h" when saving to Microsoft Project.  This is a little trick which forces MSP to show the "Done Ratio" correctly on the Gantt Diagram.
 
 </ul></p>

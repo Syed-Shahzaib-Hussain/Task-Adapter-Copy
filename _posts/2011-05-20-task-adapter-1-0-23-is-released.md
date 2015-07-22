@@ -14,7 +14,7 @@ categories:
 ---
 <p><span style="background-color: white; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">Highlights:</span><br/>
 <ul style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">
-<li><span style="background-color: white;">Redmine: Added "default tracker type" setting to Redmine Editor. This type will be used by Task Adapter when creating new tasks in Redmine.</span></li>
-<li><span style="background-color: white;">JIRA: Added support for "Affected Version", "Fix for version" and "Component" fields</span></li>
-<li><span style="background-color: white;">JIRA: Added support for custom fields.</span></li>
-<li><span style="background-color: white;">Many minor UI improvements and bugfixes</span></li></ul></p>
+* <span style="background-color: white;">Redmine: Added "default tracker type" setting to Redmine Editor. This type will be used by Task Adapter when creating new tasks in Redmine.</span>
+* <span style="background-color: white;">JIRA: Added support for "Affected Version", "Fix for version" and "Component" fields</span>
+* <span style="background-color: white;">JIRA: Added support for custom fields.</span>
+* <span style="background-color: white;">Many minor UI improvements and bugfixes</span></ul></p>

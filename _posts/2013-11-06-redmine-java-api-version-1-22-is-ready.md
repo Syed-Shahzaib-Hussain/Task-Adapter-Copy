@@ -16,15 +16,15 @@ categories:
 <p>Copying release notes from Github:</p>
 <p>New features:</p>
 <ul>
-<li>Issue #102 Users Groups retrieval</li>
-<li>Issue #99 added field apiKey to the User bean</li>
-<li>Issue #97 Update due date format in writeVersion</li>
+* Issue #102 Users Groups retrieval
+* Issue #99 added field apiKey to the User bean
+* Issue #97 Update due date format in writeVersion
 
 </ul>
 
 Bug fixed:</p>
 <ul>
-<li>Issue #95 fixed a bug in equals() in CustomField.java</li>
+* Issue #95 fixed a bug in equals() in CustomField.java
 
 </ul>
 

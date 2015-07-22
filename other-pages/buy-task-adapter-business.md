@@ -8,11 +8,11 @@ date: '2013-06-29 01:13:54 -0700'
 ---
 <p>You can buy the whole Task Adapter business, including:</p>
 <ol>
-<li>Source code for the application and licensing module, including automated tests.</li>
-<li>Licensing rights.</li>
-<li>www.taskadapter.com domain and the corresponding website with all the content.</li>
-<li>Development documentation.</li>
-<li>Development infrastructure, including hardware running a Continuous Integration server (Jenkins), Artifacts repository (Nexus), multiple bug trackers installations used for testing, publicly available demo server, etc.</li>
+* Source code for the application and licensing module, including automated tests.
+* Licensing rights.
+* www.taskadapter.com domain and the corresponding website with all the content.
+* Development documentation.
+* Development infrastructure, including hardware running a Continuous Integration server (Jenkins), Artifacts repository (Nexus), multiple bug trackers installations used for testing, publicly available demo server, etc.
 
 </ol>
 

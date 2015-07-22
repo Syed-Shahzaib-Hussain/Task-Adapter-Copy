@@ -20,30 +20,30 @@ categories:
 <p>Other important changes:</p>
 <p>**User Interface.**</p>
 <ul>
-<li>New start page design.</li>
-<li>New "Check for update" feature (manual check for now).</li>
-<li>Config filter on the start page to make it easier to find a config there.</li>
-<li>A lot of new validations and bugfixes in the UI.</li>
-<li>License info panel is moved from "Configure" to "Support" page.</li>
+* New start page design.
+* New "Check for update" feature (manual check for now).
+* Config filter on the start page to make it easier to find a config there.
+* A lot of new validations and bugfixes in the UI.
+* License info panel is moved from "Configure" to "Support" page.
 
 </ul>
 
 **Microsoft Project.**</p>
 <ul>
-<li>(!) **Changed** **default** Microsoft Project setting for "Start date" from **"no constraint" to "Must Start On"**.</li>
-<li>Added validation that Microsoft Project text fields are only used once in one config. This means that you can't mistakenly map JIRA's "Task Type" and "Task Status" fields to the same "TEXT20" field in Microsoft Project.</li>
+* (!) **Changed** **default** Microsoft Project setting for "Start date" from **"no constraint" to "Must Start On"**.
+* Added validation that Microsoft Project text fields are only used once in one config. This means that you can't mistakenly map JIRA's "Task Type" and "Task Status" fields to the same "TEXT20" field in Microsoft Project.
 
 </ul>
 
 **Github**.</p>
 <ul>
-<li>Bug fixed: all the task fields were transferred even if they were un-selected in "fields mapping" dialog.</li>
+* Bug fixed: all the task fields were transferred even if they were un-selected in "fields mapping" dialog.
 
 </ul>
 
 **MantisBT.**</p>
 <ul>
-<li>GUI: Removed some fields from the editor, which are not supported by MantisBT connector yet.</li>
+* GUI: Removed some fields from the editor, which are not supported by MantisBT connector yet.
 
 </ul>
 

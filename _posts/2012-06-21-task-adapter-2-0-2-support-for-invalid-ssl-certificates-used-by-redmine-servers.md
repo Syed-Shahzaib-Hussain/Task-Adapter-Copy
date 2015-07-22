@@ -15,7 +15,7 @@ categories:
 
 Changes:</p>
 <ul>
-<li>Support for invalid (e.g. self-issued) SSL certificates often used by Redmine installations.
+* Support for invalid (e.g. self-issued) SSL certificates often used by Redmine installations.
 
 </ul>
 

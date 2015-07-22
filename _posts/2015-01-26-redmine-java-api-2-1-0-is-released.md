@@ -13,12 +13,12 @@ categories:
 <p>We just released a new version of Redmine Java API: 2.1.0.</p>
 <p>Main changes:</p>
 <ul>
-<li>Feature #120. Support "on behalf of user" operations</li>
-<li>Feature #124. Allow lock user (support user status field)</li>
-<li>Feature #165. Implement retrieving custom field definitions</li>
-<li>Feature #169. added new method: create issues using project database ID</li>
-<li>Issue #174. Workaround for bug in Redmine 2.6.0 (it returns invalid structure for empty custom field)</li>
-<li>Bug #164. Fix setting project on existing issue</li>
+* Feature #120. Support "on behalf of user" operations
+* Feature #124. Allow lock user (support user status field)
+* Feature #165. Implement retrieving custom field definitions
+* Feature #169. added new method: create issues using project database ID
+* Issue #174. Workaround for bug in Redmine 2.6.0 (it returns invalid structure for empty custom field)
+* Bug #164. Fix setting project on existing issue
 
 </ul>
 
