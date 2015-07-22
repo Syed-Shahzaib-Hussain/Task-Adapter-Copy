@@ -30,9 +30,9 @@ Loading 3750 tasks takes 82 sec (~45 tasks/sec)
 
 Save/load speed changes pretty much linearly when tasks number changes.</p>
 <p><a id="dialog" name="dialog"></a>**Redmine configuration dialog**</p>
-<p><a href="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_redmine4.png"><img class="alignnone size-full wp-image-465" title="edit_redmine" src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_redmine4.png" alt="" width="792" height="518" /></a></p>
+<p><a href="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_redmine4.png"><img class="alignnone size-full wp-image-465" title="edit_redmine" src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_redmine4.png"  width="792" height="518" /></a></p>
 <ul>
-<li>**Description**&nbsp;Arbitrary text, which will be later shown in the configs list.</li>
+<li>**Description** Arbitrary text, which will be later shown in the configs list.</li>
 <li>**Server URL** Complete Redmine URL, including protocol prefix (https or http) and port number (when using a non-standard port).
 
 <em>Example: <a href="http://localhost:3000/">http://localhost:3000</a></em></li>
@@ -44,7 +44,7 @@ Save/load speed changes pretty much linearly when tasks number changes.</p>
 
 </ul></p>
 <ul>
-<li>**Use Login and Password **&nbsp;Select this option if you want to use regular Redmine login info for authorization.</li>
+<li>**Use Login and Password ** Select this option if you want to use regular Redmine login info for authorization.</li>
 <li>**Login** Redmine login name</li>
 <li>**Password** Redmine password</li>
 
@@ -55,10 +55,10 @@ Save/load speed changes pretty much linearly when tasks number changes.</p>
 <img src="http://www.taskadapter.com/wp-content/uploads/2012/05/redmine_project_key.png" alt="Redmine project Key" />
 
 or just browse "Available projects" list. Use **"..." button** to see available projects.<img class="alignnone size-full wp-image-139" title="select_project" src="http://www.taskadapter.com/wp-content/uploads/2012/05/select_project.png" alt="select Redmine project" width="372" height="336" /></li></p>
-<li>**<a id="query_id" name="query_id"></a>Query ID** <a href="#query_id">Link</a>&nbsp;Task Adapter works with "custom queries" saved in your Redmine. Open your Redmine web page, create and save a "custom query" and check its ID using hints on this screenshot:
+<li>**<a id="query_id" name="query_id"></a>Query ID** <a href="#query_id">Link</a> Task Adapter works with "custom queries" saved in your Redmine. Open your Redmine web page, create and save a "custom query" and check its ID using hints on this screenshot:
 
 <img src="http://www.taskadapter.com/wp-content/uploads/2012/05/where_to_find_query_id_in_redmine.png" alt="find saved query ID in Redmine" /></li></p>
-<li>**<a id="find_assignees" name="find_assignees"></a>Find users based on assignee's name** <a href="#find_assignees">Link</a>&nbsp;This option can be useful when you need to export a new MSP project file to Redmine.
+<li>**<a id="find_assignees" name="find_assignees"></a>Find users based on assignee's name** <a href="#find_assignees">Link</a> This option can be useful when you need to export a new MSP project file to Redmine.
 
 Task Adapter can load Redmine's users by resource names specified in the MSP file and assign the new tasks to them.Here's how Task Adapter finds the proper user in Redmine:
 
@@ -67,8 +67,8 @@ First, it assumes that the MSP resource name represents Redmine's **user login n
 So, the MSP resource name must be equal to Redmine Login or Full Name for this feature to work.
 
 Note: this operation requires **'Redmine Admin' permission**.</li></p>
-<li>**Save issue relations.&nbsp;**Select this option to save issues' relations ("follows/precedes") to Redmine.&nbsp;This only affects **saving** data to Redmine, not **loading** it.</li>
-<li>**Default task type&nbsp;**Tracker name (like "Bug", "Feature", "Support", "Task", ...) to use when creating new tasks. This tracker type must exist in your Redmine installation.</li>
+<li>**Save issue relations. **Select this option to save issues' relations ("follows/precedes") to Redmine. This only affects **saving** data to Redmine, not **loading** it.</li>
+<li>**Default task type **Tracker name (like "Bug", "Feature", "Support", "Task", ...) to use when creating new tasks. This tracker type must exist in your Redmine installation.</li>
 
 </ul>
 

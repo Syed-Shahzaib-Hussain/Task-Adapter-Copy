@@ -13,4 +13,4 @@ categories:
 ---
 <p>Redmine 2.3.0 remote API brings some backwards incompatible changes in the date format.</p>
 <p>We have modified Task Adapter to support this new format in addition to the old one (Redmine 2.0-2.2).</p>
-<p>&nbsp;</p>
+<p> </p>

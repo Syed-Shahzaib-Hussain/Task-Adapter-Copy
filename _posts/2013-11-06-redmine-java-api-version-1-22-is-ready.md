@@ -29,4 +29,4 @@ Bug fixed:</p>
 </ul>
 
 The <a href="https://github.com/taskadapter/redmine-java-api">source code is located on Github.</a></p>
-<p>The binaries and javadoc are&nbsp;<a href="http://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22com.taskadapter%22%20AND%20a%3A%22redmine-java-api%22">available in Maven Central</a>.</p>
+<p>The binaries and javadoc are <a href="http://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22com.taskadapter%22%20AND%20a%3A%22redmine-java-api%22">available in Maven Central</a>.</p>

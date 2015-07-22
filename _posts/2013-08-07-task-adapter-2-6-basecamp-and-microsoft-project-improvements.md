@@ -31,6 +31,6 @@ Actual finish is set for tasks which have "completed_at" field set. So if this f
 
 Microsoft Project only accepts and shows "Done ratio" tasks which have either time or duration set.
 
-What happens when you load tasks from a bug tracker, which does not support estimated time, but does support some notion of "Done ratio"? Task Adapter will now set the estimated time for &nbsp;those tasks as "8h" when saving to Microsoft Project. &nbsp;This is a little trick which forces MSP to show the "Done Ratio" correctly on the Gantt Diagram.</li>
+What happens when you load tasks from a bug tracker, which does not support estimated time, but does support some notion of "Done ratio"? Task Adapter will now set the estimated time for  those tasks as "8h" when saving to Microsoft Project.  This is a little trick which forces MSP to show the "Done Ratio" correctly on the Gantt Diagram.</li>
 
 </ul></p>

@@ -47,4 +47,4 @@ categories:
 
 </ul>
 
-&nbsp;</p>
+ </p>

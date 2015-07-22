@@ -15,7 +15,7 @@ This is when Task Adapter comes in handy. It saves the time you would spend manu
 
 ### Github configuration dialog
 
-<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_github1.png"><img src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_github1.png" alt=""/></a>
+<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_github1.png"><img src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_github1.png" /></a>
 
 * **Description**  Any label you want to help you identify this Github config.
 * **Server URL**  Github server URL. While most people will use github.com, there is also a downloadable version of the

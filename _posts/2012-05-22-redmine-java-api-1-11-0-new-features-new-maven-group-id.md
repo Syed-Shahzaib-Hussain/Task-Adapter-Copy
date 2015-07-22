@@ -12,7 +12,7 @@ categories:
 ---
 <p>Redmine Java API 1.11.0 is released. It is available in Maven Central repository.<br/><br/>Changes list:<br/><br/>
 <ul>
-<li><b>New Maven group ID: "com.taskadapter". &nbsp;</b></li>
+<li><b>New Maven group ID: "com.taskadapter".  </b></li>
 <li>Added code changesets support to Issues.</li>
 <li>Faster network operations (reusing existing Http connections)</li>
 <li>Support for Redmine Project Members (requires Redmine 1.4.0+)</li></ul>

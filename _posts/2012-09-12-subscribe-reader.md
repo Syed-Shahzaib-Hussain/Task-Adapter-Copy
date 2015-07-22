@@ -11,4 +11,4 @@ categories:
 - Uncategorized
 ---
 <p>Do you know you can subscribe to our website's updates to see them in your favorite RSS/Atom Reader?</p>
-<p>Try this link:&nbsp;<a href="http://www.taskadapter.com/?feed=atom">http://www.taskadapter.com/?feed=atom</a></p>
+<p>Try this link: <a href="http://www.taskadapter.com/?feed=atom">http://www.taskadapter.com/?feed=atom</a></p>

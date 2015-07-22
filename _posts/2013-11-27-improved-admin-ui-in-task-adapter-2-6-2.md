@@ -13,9 +13,9 @@ categories:
 ---
 <p>Two changes in Task Adapter v. 2.6.2:</p>
 <ul>
-<li>Admin user can see and manage other users' configs. &nbsp;Check the new setting on "Configure" page.</li>
+<li>Admin user can see and manage other users' configs.  Check the new setting on "Configure" page.</li>
 <li>Change in permissions: only admin user can switch the application between local/remote modes.</li>
 
 </ul>
 
-&nbsp;</p>
+ </p>

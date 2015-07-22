@@ -10,4 +10,4 @@ date_gmt: '2013-11-20 21:33:14 -0800'
 categories:
 - atlassian jira
 ---
-<p>TaskAdapter 2.6 is verified to work with the latest&nbsp;Atlassian JIRA 6.1.3.</p>
+<p>TaskAdapter 2.6 is verified to work with the latest Atlassian JIRA 6.1.3.</p>

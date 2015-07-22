@@ -31,8 +31,8 @@ categories:
 </ul></p>
 <h4>Microsoft Project:</h4></p>
 <ul>
-<li>Bug fixed:&nbsp;"Can't create Tasks Relations" message after saving to an MSP file with "mpp" extension.</li>
-<li>Bug fixed:&nbsp;Exception when import from MSP file which was deleted.</li>
+<li>Bug fixed: "Can't create Tasks Relations" message after saving to an MSP file with "mpp" extension.</li>
+<li>Bug fixed: Exception when import from MSP file which was deleted.</li>
 
 </ul></p>
 <h4>Github</h4></p>

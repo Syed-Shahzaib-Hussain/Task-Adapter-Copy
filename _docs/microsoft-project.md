@@ -17,10 +17,10 @@ The following applications can load and save data from/to MSPDI format:
 Task Adapter supports unlimited nesting for tasks in the project plan.
 Microsoft Project configuration dialog (Task Adapter is running locally on your machine, so-called "Local mode"):
 
-<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_msp_local.png"><img class="alignnone size-full wp-image-471" title="edit_msp_local" alt="" src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_msp_local.png" width="458" height="374" /></a></p>
+<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_msp_local.png"><img class="alignnone size-full wp-image-471" title="edit_msp_local"  src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_msp_local.png" width="458" height="374" /></a></p>
 <p>Microsoft Project configuration dialog (Task Adapter is running on some remote server - "Server mode"):
 
-<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_msp_server.png"><img class="alignnone size-full wp-image-472" title="edit_msp_server" alt="" src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_msp_server.png" width="460" height="400" /></a></p>
+<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_msp_server.png"><img class="alignnone size-full wp-image-472" title="edit_msp_server"  src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_msp_server.png" width="460" height="400" /></a></p>
 
 * **Description** Any text to help you identify this MSP file later.
 * **File name** Full or relative path to the MSP XML file. If the file does not exist, it will be created when
@@ -45,9 +45,9 @@ so you need to analyse the fields mappings and select what's best for you. It al
 
 <a name="fields_mapping"></a>Only the selected fields will be exported when saving data into this MS Project file. <a href="#fields_mapping">Link</a>
 
-* <a name="save_remote_ids"></a> **Id** <a href="#save_remote_ids">Link</a>&nbsp;When you load a Microsoft Project file into Task Adapter and then export tasks into Redmine / Atlassian JIRA / Chiliproject/etc.. , Task Adapter can remember the IDs of the created tasks. These "remote IDs" are stored in the Microsoft Project file itself (assuming that the option is&nbsp;<em>selected</em>).
+* <a name="save_remote_ids"></a> **Id** <a href="#save_remote_ids">Link</a> When you load a Microsoft Project file into Task Adapter and then export tasks into Redmine / Atlassian JIRA / Chiliproject/etc.. , Task Adapter can remember the IDs of the created tasks. These "remote IDs" are stored in the Microsoft Project file itself (assuming that the option is <em>selected</em>).
 
-This way you can later edit the project file (using Microsoft&nbsp;Project), load it to Task Adapter again and re-export tasks to the same Redmine/JIRA/..., so that the tasks without "remote IDs" will be&nbsp;**created**&nbsp;and the old ones (which have been previously created in Redmine/jira/...) will be&nbsp;**updated**. This is convenient if you want to export data from the same Microsoft Project file several times and don't want to create duplicate tasks in your Redmine/JIRA/...
+This way you can later edit the project file (using Microsoft Project), load it to Task Adapter again and re-export tasks to the same Redmine/JIRA/..., so that the tasks without "remote IDs" will be **created** and the old ones (which have been previously created in Redmine/jira/...) will be **updated**. This is convenient if you want to export data from the same Microsoft Project file several times and don't want to create duplicate tasks in your Redmine/JIRA/...
 
 At the same time, it can be confusing if you export data into Redmine/JIRA,
 then delete the new tasks on the server and try exporting data from the same MSP file again.

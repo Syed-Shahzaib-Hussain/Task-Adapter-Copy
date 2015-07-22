@@ -19,7 +19,7 @@ The minimum supported JIRA version is 5.0.
 
 ### JIRA configuration dialog
 
-<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_jira1.png"><img class="alignnone size-full wp-image-467" title="edit_jira" alt="" src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_jira1.png" width="790" height="754" /></a>
+<a href="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_jira1.png"><img class="alignnone size-full wp-image-467" title="edit_jira"  src="http://www.taskadapter.com/wp-content/uploads/2012/05/edit_jira1.png" width="790" height="754" /></a>
 
 * **Description** Any text to help you identify this configuration later.
 * **Server URL** JIRA server URL, including propotol prefix (https or http) and port number (when using a non-standard port).

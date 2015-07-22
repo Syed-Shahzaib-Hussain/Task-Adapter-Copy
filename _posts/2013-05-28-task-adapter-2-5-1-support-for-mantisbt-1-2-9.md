@@ -12,4 +12,4 @@ categories:
 - mantisbt
 ---
 <p>One of our users reported a problem with Mantis 1.2.10. We have fixed this and released a new Task Adapter version, which supports Mantis 1.2.9+. The fix is tested with Mantis Bug Tracker 1.2.8, 1.2.10 and 1.2.15.</p>
-<p>&nbsp;</p>
+<p> </p>

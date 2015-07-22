@@ -42,7 +42,7 @@ Microsoft Project and systems like Atlassian JIRA, Redmine, MantisBT, etc:
 
 </ul>
 
-&nbsp;</td></p>
+ </td></p>
 <td>
 <ul>
 <li>Microsoft Project</li>
@@ -126,4 +126,4 @@ In fact Task Adapter project was started because that plugin didn't do what we n
 
 </table>
 
-&nbsp;</p>
+ </p>

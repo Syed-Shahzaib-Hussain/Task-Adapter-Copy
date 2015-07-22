@@ -22,8 +22,8 @@ categories:
 
 Bugfixes:</p>
 <ul>
-<li>Microsoft Project:&nbsp;Assignee is not saved properly to MSP in some cases</li>
-<li>Redmine:&nbsp;default task type is shown as "null" in Redmine Editor for a new config</li>
-<li>JIRA:&nbsp;Estimated Time field is not shown in Fields Mapping panel for JIRA</li>
+<li>Microsoft Project: Assignee is not saved properly to MSP in some cases</li>
+<li>Redmine: default task type is shown as "null" in Redmine Editor for a new config</li>
+<li>JIRA: Estimated Time field is not shown in Fields Mapping panel for JIRA</li>
 
 </ul></p>

@@ -15,11 +15,11 @@ categories:
 - microsoft project
 - mantisbt
 ---
-<p>Good news, everyone!&nbsp;Big changes in TaskAdapter 2.10.0:</p>
+<p>Good news, everyone! Big changes in TaskAdapter 2.10.0:</p>
 
 ### Support for Redmine 3.0.x.
 
-Redmine 3.0.x introduced new dates format that previous TaskAdapter versions could not parse. This required us releasing a new version of Redmine Java API libarary and integrating it into TaskAdapter.&nbsp;Enjoy Redmine 3.0.x integration!</p>
+Redmine 3.0.x introduced new dates format that previous TaskAdapter versions could not parse. This required us releasing a new version of Redmine Java API libarary and integrating it into TaskAdapter. Enjoy Redmine 3.0.x integration!</p>
 
 ### Support for MantisBT 1.2.15.
 

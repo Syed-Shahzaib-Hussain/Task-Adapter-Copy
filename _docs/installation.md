@@ -44,7 +44,7 @@ Or set it in "launcher.bat" (Windows) and "launcher" files (Linux and Mac OS):
 The default account name is "**admin**" and password is "**admin**".
 
 Use "**Configure**" link in the page header to change system-wide settings.
-<img class="alignnone size-full wp-image-446" title="settings" src="http://www.taskadapter.com/wp-content/uploads/2012/05/settings.png" alt="" width="514" height="344" />
+<img class="alignnone size-full wp-image-446" title="settings" src="http://www.taskadapter.com/wp-content/uploads/2012/05/settings.png"  width="514" height="344" />
 
 Set **"Local / server" mode** setting to "LOCAL" if you are running Task Adapter on your local machine.
 "Server" mode is used for a shared installation when multiple users will need to connect to this Task Adapter.

@@ -12,6 +12,6 @@ categories:
 ---
 <p>We released Redmine Java API 1.10.0 today.<br/>Significant changes:<br/>
 <ol>
-<li>Exception handling changes are not backward compatible. See&nbsp; <a href="https://github.com/taskadapter/redmine-java-api/wiki/Migration-Guide">https://github.com/taskadapter/redmine-java-api/wiki/Migration-Guide</a></li>
-<li>The library is now using JSON instead of XML when communicating with Redmine. Castor XML library dependency is dropped.</li></ol>Project website:&nbsp;<a href="https://github.com/taskadapter/redmine-java-api">https://github.com/taskadapter/redmine-java-api</a><br/>
+<li>Exception handling changes are not backward compatible. See  <a href="https://github.com/taskadapter/redmine-java-api/wiki/Migration-Guide">https://github.com/taskadapter/redmine-java-api/wiki/Migration-Guide</a></li>
+<li>The library is now using JSON instead of XML when communicating with Redmine. Castor XML library dependency is dropped.</li></ol>Project website: <a href="https://github.com/taskadapter/redmine-java-api">https://github.com/taskadapter/redmine-java-api</a><br/>
 <div><br/></div></p>

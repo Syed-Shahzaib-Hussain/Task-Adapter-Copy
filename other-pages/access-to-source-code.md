@@ -10,7 +10,7 @@ We offer **access to the Task Adapter source code**.
 
 <div>
 <ul>
-<li>This is a non-exclusive access which allows you to&nbsp;make any modifications to the source code and build Task Adapter product&nbsp;<b>for your own needs;</b>&nbsp;<b>redistribution is NOT permitted</b>.</li>
+<li>This is a non-exclusive access which allows you to make any modifications to the source code and build Task Adapter product <b>for your own needs;</b> <b>redistribution is NOT permitted</b>.</li>
 <li>;This includes some reasonable support time to help you with the dev environment, answer your questions about the source code, build process, etc.</li>
 <li>You can get access to the main repository (and thus get all the future updates) or get your own copy.</li>
 <li>This allows you to use Task Adapter <b>on any number of computers (no licensing per user)</b>.</li>
@@ -29,7 +29,7 @@ We offer **access to the Task Adapter source code**.
 
 </ul>
 
-&nbsp;</p>
+ </p>
 <p>Please<a title="Contacts" href="http://www.taskadapter.com/contacts/"> contact us</a> for more information or click this button to buy now:</p>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -38,6 +38,6 @@ We offer **access to the Task Adapter source code**.
 
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+<img  border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 
 </form>

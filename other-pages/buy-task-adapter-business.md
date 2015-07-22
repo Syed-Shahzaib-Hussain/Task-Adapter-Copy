@@ -20,4 +20,4 @@ The original owner will be responsible for supporting users acquired prior to th
 <p>You will be free to do whatever you want with the product: alter, open-source, resell, etc.</p>
 <p>The original owner's team can be hired as consultants to modify the product to your needs after the business sale.</p>
 <p>Components created and open-sourced (like Redmine Java API) are not included in this sale, they will stay open-source.</p>
-<p>Please <a title="Contacts" href="http://www.taskadapter.com/contacts/">contact us</a>&nbsp;for information about the clients base, technologies used in the product, team information, etc.</p>
+<p>Please <a title="Contacts" href="http://www.taskadapter.com/contacts/">contact us</a> for information about the clients base, technologies used in the product, team information, etc.</p>
