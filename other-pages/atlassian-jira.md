@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Atlassian JIRA
-author:
-  display_name: admin
+permalink: /atlassian-jira/
+
 comments:
 - id: 9
   author: Synchronize Issues in Mantis and in JIRA - DexPage

@@ -12,7 +12,7 @@ Recent Google Chrome versions started marking the distributive as "uncommon" bec
 (one for Windows and one for Linux/MacOS). If your browser complains about the distributive,
 click the arrow on the right and use "Keep" menu item:
 
-<a href="/images/uploads/chrome_warning.png"><img class="alignnone size-full wp-image-776" src="/images/uploads/chrome_warning.png" alt="chrome_warning" width="544" height="129" /></a>
+<a href="/images/uploads/chrome_warning.png"><img src="/images/uploads/chrome_warning.png" alt="chrome_warning"/></a>
 
 Feel free to explore the start scripts in "bin" folder before launching them:
 they check if minimum Java version is present on your computer and then launch the app.

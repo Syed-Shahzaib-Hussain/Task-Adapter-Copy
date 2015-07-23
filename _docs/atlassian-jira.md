@@ -4,8 +4,8 @@ title: JIRA configuration
 permalink: /docs/atlassian-jira/
 ---
 
-## JIRA Integration
-
+## {{ page.title }}
+            
 Task Adapter can load and save data from/to JIRA using its **"Remote API access"**. Please make sure this feature is
 enabled in your JIRA installation.
 

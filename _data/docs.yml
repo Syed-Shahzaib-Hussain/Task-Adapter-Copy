@@ -1,6 +1,6 @@
 - title: Getting Started
   docs:
-  - installation
+  - task-adapter-installation
   - using-task-adapter
   - quickstart
 
@@ -12,4 +12,5 @@
   - redmine
   - redmine/export-sub-projects-from-redmine
   - microsoft-project
+  - microsoft-project-integration
 

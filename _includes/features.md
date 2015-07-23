@@ -6,9 +6,9 @@ Task Adapter transfers tasks between Redmine, ChiliProject, JIRA, Microsoft Proj
 *   **Basecamp Classic** - Supported, but no User Guide page yet.
 *   **[GitHub](/docs/github)**
 *   **[MantisBT](/docs/mantis-bug-tracker-integration)**
-*   **[Microsoft Project](/docs/microsoft-project-integration/)**
-*   **[JIRA](/docs/atlassian-jira)**
-*   **[JIRA OnDemand](/docs/atlassian-jira)**
+*   **[Microsoft Project](/microsoft-project/)**
+*   **[JIRA](/atlassian-jira)**
+*   **[JIRA OnDemand](/atlassian-jira)**
 *   **[Redmine](/docs/redmine)**
 
 For example, you can transfer tasks between:
@@ -23,7 +23,7 @@ For example, you can transfer tasks between:
 
 *   Between bug trackers - **create** new tasks only.
 *   Between Microsoft Project and a web-based bug tracker (like Redmine, JIRA, etc) - both **create** and **update**.
- See this [detailed page explaining how to update existing tasks in your bug tracker](http://www.taskadapter.com/docs/using-task-adapter/how-to-update-tasks-in-redmine-jira/)
+ See this [detailed page explaining how to update existing tasks in your bug tracker](/docs/how-to-update-tasks-in-redmine-jira/)
   (Redmine / JIRA / what have you).
 
 
