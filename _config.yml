@@ -15,7 +15,7 @@ permalink:    /:year/:month/:day/:title/
 # Build settings
 markdown: kramdown
 
-# This will render all files in "_docs" folder and create HTML pages for them
+# This will render all files in "_components" folder and create HTML pages for them
 collections:
-  docs:
+  components:
     output: true

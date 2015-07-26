@@ -1,10 +1,10 @@
 ---
 layout: docs
-title: Microsoft Project
+title: Microsoft Project Integration
 permalink: /docs/microsoft-project-integration/
 ---
 
-## Microsoft Project integration
+## {{ page.title }}
 
 Task Adapter supports Microsoft Project XML files (also known as "MSPDI" - Microsoft's XML file format for storing project data).
 The following applications can load and save data from/to MSPDI format:

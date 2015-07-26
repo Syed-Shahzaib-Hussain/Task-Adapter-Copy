@@ -1,16 +1,13 @@
-{% assign docs = site.data.docs %}
+{% for component in site.components %}
 
-{% for section in docs %}
-    {{ section.title }}
+{% assign document_url = component.permalink %}
 
-    {% for p in section.docs %}
-        {% assign document_url = p | prepend:"/docs/" | append:"/" %}
+{% if document_url == page.url %}
+    {% assign link_class = 'current_documentation_page_navigatation_label' %}
+{% else %}
+    {% assign link_class = '' %}
+{% endif %}
 
-        {% if document_url == page.url %}
-            {% assign link_class = 'current_documentation_page_navigatation_label' %}
-        {% else %}
-            {% assign link_class = '' %}
-        {% endif %}
-        <li class="{{ link_class }}"><a href="{{ site.baseurl }}{{ document_url }}">{{ p }}</a></li>
-    {% endfor %}
+<li class="{{ link_class }}"><a href="{{ site.baseurl }}{{ document_url }}">{{ component.title }}</a></li>
+
 {% endfor %}
