@@ -1,9 +1,7 @@
 ---
 layout: page
 title: We're sorry you canceled the checkout
-author:
-  display_name: admin
-date: '2012-11-14 04:53:38 -0800'
+permalink: /cancel-checkout/
 ---
 
 Do you need any additional information to help you make the informed decision on whether Task Adapter is the tool for you?

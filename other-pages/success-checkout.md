@@ -1,14 +1,10 @@
 ---
 layout: page
 title: Thank you
-author:
-  display_name: admin
-wordpress_id: 489
-wordpress_url: http://www.taskadapter.com/?page_id=489
-categories: []
 ---
 
 **Thank you for buying Task Adapter!**
+
 You will receive an email with the license shortly.
 
 Please do not hesitate to contact us with your comments or suggestions.

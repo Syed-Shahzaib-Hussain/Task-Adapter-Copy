@@ -5,7 +5,7 @@ permalink: /buy/
 top_level_menu_weight: 9
 ---
 
-Task Adapter 1-year license. <a href="/license-agreement">View the license agreement</a>.
+Task Adapter 1-year license. [View the license agreement](/license-agreement)
 
 {% include paypal_form.html %}
 
