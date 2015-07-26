@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: MantisBT Bug Tracker integration
-permalink: /docs/mantisbt-bug-tracker-integration/
+permalink: /docs/mantisbt/
 author: admin
 ---
 

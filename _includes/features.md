@@ -5,7 +5,7 @@ Task Adapter transfers tasks between Redmine, ChiliProject, JIRA, Microsoft Proj
 *   **Basecamp** - Supported, but no User Guide page yet.
 *   **Basecamp Classic** - Supported, but no User Guide page yet.
 *   **[GitHub](/docs/github)**
-*   **[MantisBT](/docs/mantis-bug-tracker-integration)**
+*   **[MantisBT](/docs/mantisbt)**
 *   **[Microsoft Project](/docs/microsoft-project/)**
 *   **[JIRA](/docs/atlassian-jira)**
 *   **[JIRA OnDemand](/docs/atlassian-jira)**
