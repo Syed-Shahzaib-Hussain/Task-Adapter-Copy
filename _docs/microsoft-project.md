@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Microsoft Project
-permalink: /microsoft-project/
+permalink: /docs/microsoft-project/
 ---
 
 ## Microsoft Project

@@ -1,13 +1,15 @@
 - title: Getting Started
   docs:
+  - quickstart
   - task-adapter-installation
   - using-task-adapter
-  - quickstart
 
 - title: Supported Systems
   docs:
   - github
   - atlassian-jira
+  - atlassian-jira-configuration
+  - atlassian-jira/atlassian-jira-and-microsoft-project
   - atlassian-jira/atlassian-jira-and-microsoft-project-integration-step-by-step-guide
   - redmine
   - redmine/export-sub-projects-from-redmine

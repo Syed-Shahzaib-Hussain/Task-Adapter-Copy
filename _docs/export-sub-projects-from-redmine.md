@@ -1,8 +1,10 @@
 ---
 layout: docs
-title: Export sub-projects from Redmine
+title: Exporting sub-projects from Redmine
 permalink: /docs/redmine/export-sub-projects-from-redmine/
 ---
+
+## {{ page.title }}
 
 Redmine subprojects are not directly supported by Task Adapter.
 

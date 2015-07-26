@@ -13,8 +13,9 @@ permalink: /
             <div class="border"></div>
             <p>{{ site.description }}</p>
 
-            <a href="#" class="hvr-rectangle-out button">GET STARTED</a>
-            <a href="#features" class="hvr-rectangle-in button more-mar smoothScroll">FEATURES</a>
+            <!--<a href="#features" class="hvr-rectangle-in button more-mar smoothScroll">FEATURES</a>-->
+            <a href="#features" class="hvr-rectangle-out button more-mar smoothScroll">FEATURES</a>
+            <a href="#quickstart" class="hvr-rectangle-out button more-mar smoothScroll">QUICKSTART</a>
         </div>
         <div class="col-md-7 content-right">
             <!-- responsiveslides -->
@@ -72,6 +73,7 @@ permalink: /
         <div class="clearfix"></div>
     </div>
 </div>
+
 <div class="content-bottom">
     <a name="features"></a>
     <div class="shopping-chart">
@@ -81,6 +83,19 @@ permalink: /
         </div>
         <div class="features">
             {% markdown features.md %}
+        </div>
+    </div>
+</div>
+
+<div class="content-bottom">
+    <a name="quickstart"></a>
+    <div class="shopping-chart">
+        <div class="shop-header">
+            <h3>Quickstart</h3>
+            <div class="strip"></div>
+        </div>
+        <div class="quickstart">
+            {% markdown quickstart.md %}
         </div>
     </div>
 </div>

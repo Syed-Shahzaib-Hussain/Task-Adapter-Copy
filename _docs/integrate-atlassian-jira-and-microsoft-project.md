@@ -1,19 +1,20 @@
 ---
 layout: docs
 title: Integrate Atlassian JIRA and Microsoft Project
+permalink: /docs/atlassian-jira/atlassian-jira-and-microsoft-project/
 ---
 
 ## Sample usage scenarios for Task Adapter
 
 ### From Microsoft Project to Atlassian JIRA.
 
-****You created a project plan in Microsoft Project and you need to submit all those tasks with time estimates,
+You created a project plan in Microsoft Project and you need to submit all those tasks with time estimates,
 dates, relations into your bug tracking system.
 
 Then update the project file in MSP (change estimates, add tasks or edit tasks' summaries, etc)
 and send the updates into the bug tracker.
 
-[Step by step guide: Export from Microsoft Project to Atlassian JIRA](/docs/atlassian-jira-and-microsoft-project-integration-step-by-step-guide)
+[Step by step guide: Export from Microsoft Project to Atlassian JIRA](/docs/atlassian-jira/atlassian-jira-and-microsoft-project-integration-step-by-step-guide)
 
 ![JIRA and Microsoft Project](/images/uploads/jira_msp.PNG)
 
