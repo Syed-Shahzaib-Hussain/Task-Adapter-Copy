@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Known problem with Microsoft Project 2013
-author:
-  display_name: admin
+author: admin
 wordpress_id: 621
 wordpress_url: http://www.taskadapter.com/?p=621
 date: '2013-10-28 07:03:54 -0700'

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Access to Task Adapter source code
-author:
-  display_name: admin
+author: admin
 wordpress_id: 615
 wordpress_url: http://www.taskadapter.com/?p=615
 date: '2013-10-18 07:27:45 -0700'

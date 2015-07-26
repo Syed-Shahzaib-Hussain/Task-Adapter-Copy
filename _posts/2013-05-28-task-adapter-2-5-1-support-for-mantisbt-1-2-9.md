@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Task Adapter 2.5.1: Support for MantisBT 1.2.9+'
-author:
-  display_name: admin
+author: admin
 wordpress_id: 562
 wordpress_url: http://www.taskadapter.com/?p=562
 date: '2013-05-28 07:06:30 -0700'

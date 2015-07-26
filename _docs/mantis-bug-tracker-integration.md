@@ -2,8 +2,7 @@
 layout: docs
 title: Mantis Bug Tracker integration
 permalink: /docs/mantis-bug-tracker-integration/
-author:
-  display_name: admin
+author: admin
 ---
 
 # Configure Task Adapter for MantisBT

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Task Adapter 2.4: support for Basecamp.'
-author:
-  display_name: admin
+author: admin
 wordpress_id: 520
 wordpress_url: http://www.taskadapter.com/?p=520
 date: '2012-12-16 20:26:28 -0800'

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Task Adapter 1.4.4 release
-author:
-  display_name: admin
+author: admin
 wordpress_id: 257
 wordpress_url: http://www.taskadapter.com/2011/10/10/task-adapter-1-4-4-release/
 date: '2011-10-10 18:58:00 -0700'

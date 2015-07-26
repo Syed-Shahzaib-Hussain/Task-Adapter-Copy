@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Source code migration from SVN to GIT
-author:
-  display_name: admin
+author: admin
 wordpress_id: 268
 wordpress_url: http://www.taskadapter.com/2012/01/07/source-code-migration-from-svn-to-git/
 date: '2012-01-07 06:56:00 -0800'

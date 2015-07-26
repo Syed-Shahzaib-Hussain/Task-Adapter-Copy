@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Version 1.0.24: Atlassian JIRA support is out of "beta" stage.'
-author:
-  display_name: admin
+author: admin
 wordpress_id: 247
 wordpress_url: http://www.taskadapter.com/2011/05/31/version-1-0-24-atlassian-jira-support-is-out-of-beta-stage/
 date: '2011-05-31 21:00:00 -0700'

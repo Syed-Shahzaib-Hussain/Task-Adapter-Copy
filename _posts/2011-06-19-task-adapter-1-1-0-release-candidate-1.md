@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Task Adapter 1.1.0 Release Candidate 1
-author:
-  display_name: admin
+author: admin
 date: '2011-06-19 20:56:00 -0700'
 categories:
 - redmine

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Task Adapter 1.5.1: bugfix release'
-author:
-  display_name: admin
+author: admin
 date: '2011-12-12 21:42:00 -0800'
 categories:
 - redmine

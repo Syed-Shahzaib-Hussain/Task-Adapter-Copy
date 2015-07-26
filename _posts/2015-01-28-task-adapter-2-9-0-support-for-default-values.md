@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Task Adapter 2.9.0: support for default values.'
-author:
-  display_name: admin
+author: admin
 date: '2015-01-28 05:33:41 -0800'
 categories:
 - redmine

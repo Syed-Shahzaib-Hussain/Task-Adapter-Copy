@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Redmine Java API 1.5.2 is released
-author:
-  display_name: admin
+author: admin
 wordpress_id: 260
 wordpress_url: http://www.taskadapter.com/2011/10/31/redmine-java-api-1-5-2-is-released/
 date: '2011-10-31 22:27:00 -0700'

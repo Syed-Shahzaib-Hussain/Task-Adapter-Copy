@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Task Adapter 2.6.5: bug fixed in MantisBT connector'
-author:
-  display_name: admin
+author: admin
 wordpress_id: 663
 wordpress_url: http://www.taskadapter.com/?p=663
 date: '2014-01-15 21:09:40 -0800'

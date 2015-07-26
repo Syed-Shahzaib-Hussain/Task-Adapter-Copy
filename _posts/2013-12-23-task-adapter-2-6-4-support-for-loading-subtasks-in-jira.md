@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Task Adapter 2.6.4: Support for loading subtasks in JIRA'
-author:
-  display_name: admin
+author: admin
 wordpress_id: 658
 wordpress_url: http://www.taskadapter.com/?p=658
 date: '2013-12-23 02:01:03 -0800'

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Task Adapter 1.5.0: Github and MantisBT support'
-author:
-  display_name: admin
+author: admin
 wordpress_id: 261
 wordpress_url: http://www.taskadapter.com/2011/12/02/task-adapter-1-5-0-github-and-mantisbt-support/
 date: '2011-12-02 19:52:00 -0800'

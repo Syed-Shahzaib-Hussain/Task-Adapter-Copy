@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Task Adapter 2.0: work in progress'
-author:
-  display_name: admin
+author: admin
 date: '2012-01-21 08:30:00 -0800'
 categories:
 - development

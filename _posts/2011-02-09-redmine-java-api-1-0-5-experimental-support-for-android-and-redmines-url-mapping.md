@@ -2,8 +2,7 @@
 layout: post
 title: 'Redmine Java API 1.0.5: experimental support for Android and Redmine''s URL
   mapping'
-author:
-  display_name: admin
+author: admin
 wordpress_id: 241
 wordpress_url: http://www.taskadapter.com/2011/02/09/redmine-java-api-1-0-5-experimental-support-for-android-and-redmines-url-mapping/
 date: '2011-02-09 22:27:00 -0800'

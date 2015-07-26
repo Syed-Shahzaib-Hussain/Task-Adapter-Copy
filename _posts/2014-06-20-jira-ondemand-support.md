@@ -1,8 +1,7 @@
 ---
 layout: post
 title: JIRA OnDemand support
-author:
-  display_name: admin
+author: admin
 wordpress_id: 706
 wordpress_url: http://www.taskadapter.com/?p=706
 date: '2014-06-20 20:10:29 -0700'

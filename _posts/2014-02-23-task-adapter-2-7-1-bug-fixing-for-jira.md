@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Task Adapter 2.7.1: bug fixing for JIRA'
-author:
-  display_name: admin
+author: admin
 date: '2014-02-23 07:18:55 -0800'
 categories:
 - atlassian jira

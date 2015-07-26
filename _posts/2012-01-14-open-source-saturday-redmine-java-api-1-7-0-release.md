@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Open-source Saturday: Redmine Java API 1.7.0 release'
-author:
-  display_name: admin
+author: admin
 wordpress_id: 270
 wordpress_url: http://www.taskadapter.com/2012/01/14/open-source-saturday-redmine-java-api-1-7-0-release/
 date: '2012-01-14 21:46:00 -0800'

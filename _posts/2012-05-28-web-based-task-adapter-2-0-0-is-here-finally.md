@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Web-based Task Adapter 2.0 is here. Finally.
-author:
-  display_name: admin
+author: admin
 wordpress_id: 282
 wordpress_url: http://www.taskadapter.com/2012/05/28/web-based-task-adapter-2-0-0-is-here-finally/
 date: '2012-05-28 21:26:00 -0700'

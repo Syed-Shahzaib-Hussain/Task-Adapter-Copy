@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Improved error logging in Task Adapter 1.6.1
-author:
-  display_name: admin
+author: admin
 wordpress_id: 274
 wordpress_url: http://www.taskadapter.com/2012/02/18/improved-error-logging-in-task-adapter-1-6-1/
 date: '2012-02-18 00:52:00 -0800'

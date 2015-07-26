@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Task Adapter 2.6: Basecamp and Microsoft Project improvements'
-author:
-  display_name: admin
+author: admin
 wordpress_id: 592
 wordpress_url: http://www.taskadapter.com/?p=592
 date: '2013-08-07 07:11:49 -0700'

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: TaskAdapter.com website outage
-author:
-  display_name: admin
+author: admin
 date: '2011-05-27 21:02:00 -0700'
 ---
 

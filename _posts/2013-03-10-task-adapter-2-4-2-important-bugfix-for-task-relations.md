@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Task Adapter 2.4.2: important bugfix for task relations'
-author:
-  display_name: admin
+author: admin
 wordpress_id: 538
 wordpress_url: http://www.taskadapter.com/?p=538
 date: '2013-03-10 19:33:31 -0700'

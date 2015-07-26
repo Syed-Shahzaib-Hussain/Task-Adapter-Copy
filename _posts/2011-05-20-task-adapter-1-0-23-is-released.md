@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Task Adapter 1.0.23 is released
-author:
-  display_name: admin
+author: admin
 wordpress_id: 245
 wordpress_url: http://www.taskadapter.com/2011/05/20/task-adapter-1-0-23-is-released/
 date: '2011-05-20 21:20:00 -0700'

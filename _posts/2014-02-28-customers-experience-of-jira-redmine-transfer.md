@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Customer's experience of JIRA-Redmine transfer
-author:
-  display_name: admin
+author: admin
 wordpress_id: 686
 wordpress_url: http://www.taskadapter.com/?p=686
 date: '2014-02-28 19:46:37 -0800'

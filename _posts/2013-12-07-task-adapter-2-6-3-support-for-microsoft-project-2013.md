@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Task Adapter 2.6.3: support for Microsoft Project 2013'
-author:
-  display_name: admin
+author: admin
 wordpress_id: 652
 wordpress_url: http://www.taskadapter.com/?p=652
 date: '2013-12-07 21:23:24 -0800'

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Task Adapter 1.8.0: desktop version is back'
-author:
-  display_name: admin
+author: admin
 date: '2015-02-11 07:11:52 -0800'
 categories:
 - release

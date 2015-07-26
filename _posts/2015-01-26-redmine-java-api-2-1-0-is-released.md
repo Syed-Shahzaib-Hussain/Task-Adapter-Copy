@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Redmine Java API 2.1.0 is released
-author:
-  display_name: admin
+author: admin
 date: '2015-01-26 09:50:51 -0800'
 categories:
 - redmine java api

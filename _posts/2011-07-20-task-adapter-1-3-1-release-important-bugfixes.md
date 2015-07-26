@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Task Adapter 1.3.1 release: important bugfixes'
-author:
-  display_name: admin
+author: admin
 wordpress_id: 252
 wordpress_url: http://www.taskadapter.com/2011/07/20/task-adapter-1-3-1-release-important-bugfixes/
 date: '2011-07-20 19:47:00 -0700'

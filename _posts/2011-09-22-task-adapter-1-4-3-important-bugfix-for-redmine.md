@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Task Adapter 1.4.3: important bugfix for Redmine'
-author:
-  display_name: admin
+author: admin
 wordpress_id: 256
 wordpress_url: http://www.taskadapter.com/2011/09/22/task-adapter-1-4-3-important-bugfix-for-redmine/
 date: '2011-09-22 18:59:00 -0700'

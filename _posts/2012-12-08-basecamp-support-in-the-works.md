@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Basecamp support in the works.
-author:
-  display_name: admin
+author: admin
 date: '2012-12-08 05:32:05 -0800'
 categories:
 - development
