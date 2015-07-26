@@ -12,4 +12,4 @@ categories:
 ---
 <p>Some customers have expressed interest in having access to the Task Adapter source code so they can make custom modifications.
 
-See <a href="http://www.taskadapter.com/access-to-source-code/" title="Access to source code">this page to get access to Task Adapter source code</a>.</p>
+See <a href="/access-to-source-code/" title="Access to source code">this page to get access to Task Adapter source code</a>.</p>

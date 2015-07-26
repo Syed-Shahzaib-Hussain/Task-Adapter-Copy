@@ -3,16 +3,16 @@ layout: post
 title: 'Task Adapter 1.5.1: bugfix release'
 author:
   display_name: admin
-wordpress_id: 264
-wordpress_url: http://www.taskadapter.com/2011/12/12/task-adapter-1-5-1-bugfix-release/
 date: '2011-12-12 21:42:00 -0800'
-date_gmt: '2011-12-12 21:42:00 -0800'
 categories:
 - redmine
 - release
 - microsoft project
 ---
-<p><strong style="background-color: white; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">Task Adapter 1.5.1**<span style="background-color: white; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;"> is <a href="http://www.taskadapter.com/download">ready for download</a></span><span style="background-color: white; color: #7a7a7a; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">.</span><br/>
+
+Task Adapter 1.5.1 is ready for <a href="/download">download</a>.
+
+<span style="background-color: white; color: #7a7a7a; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">.</span><br/>
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><strong style="background-color: white;">Bug fixing:**</div>
 <ul style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">
 * <span style="background-color: white;">#43886 Assignee Name is not loaded from Redmine</span>

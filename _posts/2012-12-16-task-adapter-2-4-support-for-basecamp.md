@@ -18,4 +18,4 @@ categories:
 
 Another important change is the default HTTP port number being 9944 instead of 8080 to reduce the number of potential port conflicts.
 
-Please, try the <a href="http://www.taskadapter.com/download">latest Task Adapter release</a> and let us know what you think.</p>
+Please, try the <a href="/download">latest Task Adapter release</a> and let us know what you think.</p>

@@ -26,4 +26,4 @@ The other changes are:</p>
 
 </ul>
 
-<a href="http://www.taskadapter.com/download">Download the latest Task Adapter</a> version.</p>
+<a href="/download">Download the latest Task Adapter</a> version.</p>

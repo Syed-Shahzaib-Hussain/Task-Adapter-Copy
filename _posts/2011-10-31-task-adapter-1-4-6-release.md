@@ -14,7 +14,7 @@ categories:
 - microsoft project
 ---
 <p><br/>
-<div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;">**Task Adapter 1.4.6** is<a href="http://www.taskadapter.com/download"> ready for download</a>.</span></div>
+<div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;">**Task Adapter 1.4.6** is<a href="/download"> ready for download</a>.</span></div>
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;">**Feature**</span></div>
 <ul style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">
 * <span style="background-color: white;">#34681 Export Assignee field as Full Name instead of Short Name when exporting from JIRA to MSP</span></ul><br/>
