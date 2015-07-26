@@ -16,4 +16,5 @@
   - redmine/export-sub-projects-from-redmine
   - microsoft-project
   - microsoft-project-integration
+  - mantisbt-bug-tracker-integration
 

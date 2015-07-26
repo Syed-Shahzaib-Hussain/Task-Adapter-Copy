@@ -11,7 +11,7 @@ First, [install and start Task Adapter](/docs/installation). Then follow these s
 * [Create a config](/docs/using-task-adapter/#create_config_file)
 * [Configure](/docs/using-task-adapter/#configure)
 * [Export tasks](/docs/using-task-adapter/#export_data)
-* Optional - [Update MSP File](/docs/using-task-adapter/#update_msp_file)
+* Optional - [Update Microsoft Project File](/docs/using-task-adapter/#update_msp_file)
 
 ## <a name="create_config_file"></a>Create a config
 

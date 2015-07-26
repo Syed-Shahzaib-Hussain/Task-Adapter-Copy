@@ -1,13 +1,13 @@
 ---
 layout: docs
-title: Mantis Bug Tracker integration
-permalink: /docs/mantis-bug-tracker-integration/
+title: MantisBT Bug Tracker integration
+permalink: /docs/mantisbt-bug-tracker-integration/
 author: admin
 ---
 
 # Configure Task Adapter for MantisBT
 
-The configuration dialog for MantisBT (Mantis Bug Tracker) should be pretty self-explanatory:
+The configuration dialog for MantisBT should be pretty self-explanatory:
 
 <a href="/images/uploads/edit_mantis1.png"><img class="alignnone size-full wp-image-486" title="edit_mantis" src="/images/uploads/edit_mantis1.png"  width="388" height="480" /></a>
 
@@ -19,8 +19,8 @@ The configuration dialog for MantisBT (Mantis Bug Tracker) should be pretty self
 * **Find users based on assignee's name** - This option can be useful when you need to export a new Microsoft project file to MantisBT.
 Task Adapter can load user names from MantisBT using the "resource names" specified in the Microsoft Project file and assign the new tasks to them. Here&rsquo;s how Task Adapter finds the proper user in MantisBT:
 
-First, it assumes that the MSP resource name represents the **user login name**. If no user is found in Mantis with such login name, then the resource name is compared to the Mantis' user **Full Name**.
+First, it assumes that the MSP resource name represents the **user login name**. If no user is found in MantisBT with such login name, then the resource name is compared to the Mantis' user **Full Name**.
 
-So, the Microsoft Project resource name must be equal to Mantis Login or Full Name for this feature to work.
-Note: this operation requires **Mantis Admin** permission.
+So, the Microsoft Project resource name must be equal to MantisBT Login or Full Name for this feature to work.
+Note: this operation requires **MantisBT Admin** permission.
 
