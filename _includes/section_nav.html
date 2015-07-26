@@ -7,7 +7,7 @@
         {% assign document_url = p | prepend:"/docs/" | append:"/" %}
 
         {% if document_url == page.url %}
-            {% assign link_class = 'current_documentation_page_label' %}
+            {% assign link_class = 'current_documentation_page_navigatation_label' %}
         {% else %}
             {% assign link_class = '' %}
         {% endif %}
