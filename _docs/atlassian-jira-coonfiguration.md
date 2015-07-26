@@ -22,7 +22,7 @@ The minimum supported JIRA version is 5.0.
 
 ## JIRA configuration dialog
 
-<a href="/images/uploads/edit_jira1.png"><img class="alignnone size-full wp-image-467" title="edit_jira"  src="/images/uploads/edit_jira1.png" width="790" height="754" /></a>
+<img src="/images/uploads/edit_jira1.png"/>
 
 * **Description** Any text to help you identify this configuration later.
 * **Server URL** JIRA server URL, including propotol prefix (https or http) and port number (when using a non-standard port).
@@ -33,7 +33,8 @@ Example: http://my_jira_server:8080 . It can also include the URL mapping if JIR
 * **Password** JIRA account password.
 * **Project Key** The "key" of your JIRA project. Click "..." button to see the list of available projects
   in your JIRA installation.
-  <a href="/images/uploads/select_project.png"><img alt="Select JIRA project" src="/images/uploads/select_project.png"/></a>
+  <img alt="Select JIRA project" src="/images/uploads/select_project.png"/>
+
 * **Query ID** This connector uses "search queries" saved in your JIRA .
  You need to create a "search filter" in your JIRA and save it. <img alt="Save Atlassian JIRA filter" src="/images/uploads/save_filter.png" border="1" />
 
@@ -57,5 +58,5 @@ See <a href="http://confluence.atlassian.com/display/JIRA/Saving+Searches+('Issu
  These 'custom fields' are **NOT used when loading data from JIRA**.
 * **Configure Priorities**
 
-<img class="alignnone" alt="Task Adapter task priorities mapping for Atlassian JIRA" src="/images/uploads/priorities.png" width="400" height="276" />
+<img alt="Task Adapter task priorities mapping for Atlassian JIRA" src="/images/uploads/priorities.png"/>
 
