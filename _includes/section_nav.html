@@ -5,6 +5,12 @@
 
     {% for p in section.docs %}
         {% assign document_url = p | prepend:"/docs/" | append:"/" %}
-        <li class="{{ c }}"><a href="{{ site.baseurl }}{{ document_url }}">{{ p }}</a></li>
+
+        {% if document_url == page.url %}
+            {% assign link_class = 'current_documentation_page_label' %}
+        {% else %}
+            {% assign link_class = '' %}
+        {% endif %}
+        <li class="{{ link_class }}"><a href="{{ site.baseurl }}{{ document_url }}">{{ p }}</a></li>
     {% endfor %}
 {% endfor %}

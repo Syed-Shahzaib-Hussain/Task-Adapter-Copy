@@ -3,10 +3,7 @@ layout: post
 title: 'Task Adapter 2.0: work in progress'
 author:
   display_name: admin
-wordpress_id: 272
-wordpress_url: http://www.taskadapter.com/2012/01/21/task-adapter-2-0-work-in-progress/
 date: '2012-01-21 08:30:00 -0800'
-date_gmt: '2012-01-21 08:30:00 -0800'
 categories:
 - development
 ---

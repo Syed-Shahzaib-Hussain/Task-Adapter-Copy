@@ -33,6 +33,6 @@ Task Adapter requires "Remote API Access" enabled in your JIRA instance. Use the
 **Task Adapter 2.1+ supports Atlassian JIRA 5.0 or higher (or any current JIRA OnDemand instances).**
 Previous JIRA versions do not have remote interfaces required for the proper data transfer.
 The last Task Adapter version still compatible with JIRA 4 was 2.0.2, you can get it here:
-<a href="http://www.taskadapter.com/releases/taskadapter-2.0.2.zip">download the old Task Adapter 2.0.2</a>.
+[download Task Adapter 2.0.2 - only use this legacy version for JIRA 4](https://bitbucket.org/taskadapter/releases/downloads/taskadapter-2.0.2.zip)
 
 <a href="/docs/atlassian-jira-configuration">How to configure Task Adapter for Atlassian JIRA usage</a>

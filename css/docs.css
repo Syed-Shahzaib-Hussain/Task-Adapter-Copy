@@ -1,3 +1,7 @@
+.current_documentation_page_label {
+    font-weight: bold;
+}
+
 .flex-container {
     display: -ms-flexbox;
     display: -webkit-flex;
