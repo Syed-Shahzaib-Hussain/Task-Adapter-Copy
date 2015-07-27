@@ -12,7 +12,7 @@ Recent Google Chrome versions started marking the distributive as "uncommon" bec
 (one for Windows and one for Linux/MacOS). If your browser complains about the distributive,
 click the arrow on the right and use "Keep" menu item:
 
-![Google Chrome download warning]({{baseurl}}/images/chrome_warning.png)
+![Google Chrome download warning]({{ baseurl }}/images/chrome_warning.png)
 
 Feel free to explore the start scripts in "bin" folder before launching them:
 they check if minimum Java version is present on your computer and then launch the app.
