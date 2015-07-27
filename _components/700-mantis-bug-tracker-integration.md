@@ -9,7 +9,7 @@ author: admin
 
 The configuration dialog for MantisBT should be pretty self-explanatory:
 
-<a href="/images/uploads/edit_mantis1.png"><img class="alignnone size-full wp-image-486" title="edit_mantis" src="/images/uploads/edit_mantis1.png"  width="388" height="480" /></a>
+<a href="/images/uploads/edit_mantis1.png"><img class="alignnone size-full wp-image-486" title="edit_mantis" src="{{ site.baseurl }}/images/uploads/edit_mantis1.png"  width="388" height="480" /></a>
 
 * **Description** - Any label you want to help you identify this MantisBT config.
 * **Server URL** - MantisBT server URL. Sample value: "http://server:8099/mantisbt-1.2.8". This must include full path, port number (if different from default 80) and the location on the server ("/mantis-1.2.8" in this example).

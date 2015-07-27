@@ -36,7 +36,7 @@ You can see that before the first export from this Microsoft Project XML file Te
 
 But once you export data to Redmine or JIRA (or any other system TaskAdapter supports), you can reopen the XML file in Microsoft Project and see that Text22 field contains the IDs produced by the target system (Redmine in this case):
 
-<img class="alignnone size-full wp-image-762" src="/images/uploads/2015/07/filled.png" alt="filled" width="739" height="85" />
+<img class="alignnone size-full wp-image-762" src="{{ site.baseurl }}/images/uploads/2015/07/filled.png" alt="filled" width="739" height="85" />
 
 
 This is how TaskAdapter knows that these tasks were previously exported to the target system and it can update them rather than re-create next time you perform export from your XML file to Redmine / JIRA.

@@ -81,7 +81,7 @@ The transfer result is shown on the next page with the number of tasks created o
 
 
 Open your JIRA web page in the browser to see the new tasks:
-<img src="/images/uploads/jira_web_ui.png" />
+<img src="{{ site.baseurl }}/images/uploads/jira_web_ui.png" />
 
 ## <a id="update_msp_file" name="update_msp_file"></a>Update MSP File
 
@@ -91,7 +91,7 @@ You can update a Microsoft Project XML file with the data from an external syste
 
 Either you want to export data from a Microsoft Project file to an external system OR Load data from an external
  system into the MSP XML file  - **In either case select "Id" field before the "save data" operation.**
- <img title="id_selected"  src="/images/uploads/id_selected.png"/>
+ <img title="id_selected"  src="{{ site.baseurl }}/images/uploads/id_selected.png"/>
  The task IDs provided by the external system will be saved in the specified field
  ("TEXT22" in this example) in the Microsoft Project XML file.
 
