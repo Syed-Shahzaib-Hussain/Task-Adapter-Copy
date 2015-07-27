@@ -20,7 +20,7 @@ To export tasks from a bug tracker like JIRA or a Microsoft Project file, you fi
 
 Use "New Config" button on the main application page to create a new config.
 
-![Create config]({{baseurl}}/images/uploads/create_new_config.png)
+![Create config]({{ baseurl }}/images/uploads/create_new_config.png)
 
 Select two systems (Atlassian JIRA and Microsoft Project in this example).
 You can also provide a description. As you see, the headers don&rsquo;t say "Source" and "Destination,
@@ -34,25 +34,25 @@ Once you click "Create" button, the new config file is created in your data dire
 
 Here is what you will see for a new Atlassian JIRA and Microsoft Project config:
 
-![Edit config for Atlassian JIRA and Microsoft Project]({{baseurl}}/images/uploads/default_jira_msp.png)
+![Edit config for Atlassian JIRA and Microsoft Project]({{ baseurl }}/images/uploads/default_jira_msp.png)
 
 This page has two buttons to edit settings, two "start export" buttons and a "Fields mapping" panel.
 
 Click the big blue buttons to configure Atlassian JIRA or Microsoft Project:
 
-![Edit JIRA]({{baseurl}}/images/uploads/edit_jira_button1.png)
-![Edit Microsoft Project]({{baseurl}}/images/uploads/edit_msp_button.png)
+![Edit JIRA]({{ baseurl }}/images/uploads/edit_jira_button1.png)
+![Edit Microsoft Project]({{ baseurl }}/images/uploads/edit_msp_button.png)
 
 Configure Atlassian JIRA settings, like JIRA server URL, your JIRA login name and password.
 
-![Edit Atlassian JIRA settings]({{baseurl}}/images/uploads/edit_jira1.png)
+![Edit Atlassian JIRA settings]({{ baseurl }}/images/uploads/edit_jira1.png)
 
 Here's the [complete description of the JIRA configuration dialog](/docs/atlassian-jira).
 
 Close the JIRA configuration panel.
 Now click "Microsoft Project" button to open the project settings. Provide the file location -
 
-![Edit Microsoft Project settings in Task Adapter local mode]({{baseurl}}/images/uploads/edit_msp_local.png)
+![Edit Microsoft Project settings in Task Adapter local mode]({{ baseurl }}/images/uploads/edit_msp_local.png)
 
 (This is the panel you see when you run Task Adapter in "local" mode. The server mode has a bit different one.)
 
@@ -67,15 +67,15 @@ You can change default mapping for some of them. E.g. JIRA's "Due Date" field ca
 ## <a name="export_data"></a>Export tasks.
 
 Click arrow-buttons to start export to the  left or right system:
-![Export left right]({{baseurl}}/images/uploads/export_left_right.png)
+![Export left right]({{ baseurl }}/images/uploads/export_left_right.png)
 
 A confirmation dialog is shown when the tasks are loaded from the source system:
 
-![Export confirmation]({{baseurl}}/images/uploads/export_confirmation.png)
+![Export confirmation]({{ baseurl }}/images/uploads/export_confirmation.png)
 
 You can change the fields mappings before the export.  Only the selected fields will be transferred to the destination system.
 
-![Confirm Fields Mapping]({{baseurl}}/images/uploads/confirm_fields_mapping1.png)
+![Confirm Fields Mapping]({{ baseurl }}/images/uploads/confirm_fields_mapping1.png)
 
 The transfer result is shown on the next page with the number of tasks created or updated.
 
@@ -97,7 +97,7 @@ Either you want to export data from a Microsoft Project file to an external syst
 
 Use "Only update tasks present in the file" button:
 
-![Choose File Operation]({{baseurl}}/images/uploads/choose_file_operation.png)
+![Choose File Operation]({{ baseurl }}/images/uploads/choose_file_operation.png)
 
 Only the tasks which have "remote IDs" field set in the MSP file will be updated.
 The selected tasks will be re-loaded from the external system (JIRA in this example) and updated in the MSP XML file.
