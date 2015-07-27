@@ -17,7 +17,7 @@ you first need to create a "synchronization config",  which will keep settings l
 
 Use "New Config" button on the main application page to create a new config.
 
-![create new config]({{ baseurl }}/images/uploads/create_new_config.png)
+![create new config]({{ site.baseurl }}/images/uploads/create_new_config.png)
 
 * Select two systems (e.g. Atlassian JIRA and Microsoft Project).
 These will be the systems this "config"  transfers data between.
@@ -31,13 +31,13 @@ if you select JIRA on the left and Microsoft Project on the right, or the other 
 
 * Once you create a config, you get "Edit Config" page. Here is what you will see for an Atlassian JIRA and Microsoft Project config:
 
-![Edit Task Adapter config for Atlassian JIRA and Microsoft Project]({{ baseurl }}/images/uploads/default_jira_msp.png)
+![Edit Task Adapter config for Atlassian JIRA and Microsoft Project]({{ site.baseurl }}/images/uploads/default_jira_msp.png)
 
 * This page has two buttons to edit systems' settings, two "start export" buttons and a "Fields mapping" panel.
 * Click the big blue buttons to configure Atlassian JIRA or Microsoft Project:
 
-![Edit JIRA configuration Button]({{ baseurl }}/images/uploads/edit_jira_button1.png)
-![Edit Microsoft Project configuration Button]({{ baseurl }}/images/uploads/edit_msp_button.png)
+![Edit JIRA configuration Button]({{ site.baseurl }}/images/uploads/edit_jira_button1.png)
+![Edit Microsoft Project configuration Button]({{ site.baseurl }}/images/uploads/edit_msp_button.png)
 
 * Select task fields you want to export. You can change default "mapping" for some of them.
 E.g. JIRA's "Due Date" field can be saved into "Finish" or "Deadline" field in a Microsoft Project file.
@@ -47,16 +47,16 @@ See Microsoft Project configuration page for more details.
 
 * Click arrow-buttons to start data export to the  left or right system:
 
-![Export left right]({{ baseurl }}/images/uploads/export_left_right.png)
+![Export left right]({{ site.baseurl }}/images/uploads/export_left_right.png)
 
 Data will be loaded from the source system and a confirmation dialog will be shown:
-![Export confirmation]({{ baseurl }}/images/uploads/export_confirmation.png)
+![Export confirmation]({{ site.baseurl }}/images/uploads/export_confirmation.png)
 
 * You can change the fields mappings before the export.
 
 Only the selected fields will be transferred to the destination system.
 
-![Confirm fields mapping]({{ baseurl }}/images/uploads/confirm_fields_mapping1.png)
+![Confirm fields mapping]({{ site.baseurl }}/images/uploads/confirm_fields_mapping1.png)
 
 * The transfer result is shown on the next page with the number of tasks created or updated.
 
@@ -68,14 +68,14 @@ You can update a Microsoft Project XML file with the data from an external syste
 * Either you want to export data from a Microsoft Project file to an external system OR Load data
 from an external system into the MSP XML file - **In either case select "Id" field before the "save data" operation.**
 
-![ID selected]({{ baseurl }}/images/uploads/id_selected.png)
+![ID selected]({{ site.baseurl }}/images/uploads/id_selected.png)
 
 The task IDs provided by the external system will be saved in the specified field ("TEXT22" in this example)
 in the Microsoft Project XML file.
 
 * Use "Only update tasks present in the file" button:
 
-![choose_file_operation]({{ baseurl }}/images/uploads/choose_file_operation.png)
+![choose_file_operation]({{ site.baseurl }}/images/uploads/choose_file_operation.png)
 
 Only the tasks which have "remote IDs" field set in the MSP file will be updated.
 

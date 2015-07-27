@@ -22,7 +22,7 @@ The minimum supported JIRA version is 5.0.
 
 ## JIRA configuration dialog
 
-![Edit JIRA]({{ baseurl }}/images/uploads/edit_jira1.png)
+![Edit JIRA]({{ site.baseurl }}/images/uploads/edit_jira1.png)
 
 * **Description** Any text to help you identify this configuration later.
 * **Server URL** JIRA server URL, including propotol prefix (https or http) and port number (when using a non-standard port).
@@ -33,7 +33,7 @@ Example: http://my_jira_server:8080 . It can also include the URL mapping if JIR
 * **Password** JIRA account password.
 * **Project Key** The "key" of your JIRA project. Click "..." button to see the list of available projects
   in your JIRA installation.
-  ![Select JIRA project]({{ baseurl }}/images/uploads/select_project.png)
+  ![Select JIRA project]({{ site.baseurl }}/images/uploads/select_project.png)
 
 * **Query ID** This connector uses "search queries" saved in your JIRA .
  You need to create a "search filter" in your JIRA and save it. <img alt="Save Atlassian JIRA filter" src="/images/uploads/save_filter.png" border="1" />
@@ -58,5 +58,5 @@ See <a href="http://confluence.atlassian.com/display/JIRA/Saving+Searches+('Issu
  These 'custom fields' are **NOT used when loading data from JIRA**.
 * **Configure Priorities**
 
-![Task Adapter task priorities mapping for Atlassian JIRA]({{ baseurl }}/images/uploads/priorities.png)
+![Task Adapter task priorities mapping for Atlassian JIRA]({{ site.baseurl }}/images/uploads/priorities.png)
 

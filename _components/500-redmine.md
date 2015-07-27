@@ -37,7 +37,7 @@ Save/load speed changes pretty much linearly when tasks number changes.
 
 ### Redmine configuration dialog
 
-![Redmine configuration dialog]({{ baseurl }}/images/uploads/edit_redmine4.png)
+![Redmine configuration dialog]({{ site.baseurl }}/images/uploads/edit_redmine4.png)
 
 * **Description** Arbitrary text, which will be later shown in the configs list.
 
@@ -58,7 +58,7 @@ Save/load speed changes pretty much linearly when tasks number changes.
   Note: this is NOT a project name, which can be long and have spaces in it, etc.
   It is the project **Key**. You can find it in Redmine web URLs:
 
-![Redmine project Key]({{ baseurl }}/images/uploads/redmine_project_key.png)
+![Redmine project Key]({{ site.baseurl }}/images/uploads/redmine_project_key.png)
 
 or just browse "Available projects" list.
 
@@ -91,5 +91,5 @@ This tracker type must exist in your Redmine installation.
 
 **REST API must be enabled in your Redmine for this connector to work.**
 
-![how to enable REST API in Redmine bug tracker]({{ baseurl }}/images/uploads/redmine_enable_rest_api.png)
+![how to enable REST API in Redmine bug tracker]({{ site.baseurl }}/images/uploads/redmine_enable_rest_api.png)
 

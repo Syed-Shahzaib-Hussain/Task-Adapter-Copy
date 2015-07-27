@@ -16,7 +16,7 @@ and send the updates into the bug tracker.
 
 [Step by step guide: Export from Microsoft Project to Atlassian JIRA](/docs/atlassian-jira/atlassian-jira-and-microsoft-project-integration-step-by-step-guide)
 
-![JIRA and Microsoft Project]({{ baseurl }}/images/uploads/jira_msp.PNG)
+![JIRA and Microsoft Project]({{ site.baseurl }}/images/uploads/jira_msp.PNG)
 
 ### From JIRA to Microsoft Project and back.
 
