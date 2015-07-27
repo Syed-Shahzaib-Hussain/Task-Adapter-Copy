@@ -91,7 +91,8 @@ You can update a Microsoft Project XML file with the data from an external syste
 
 Either you want to export data from a Microsoft Project file to an external system OR Load data from an external
  system into the MSP XML file  - **In either case select "Id" field before the "save data" operation.**
- <img title="id_selected"  src="/images/uploads/id_selected.png"/>
+ ![ID selected](/images/uploads/id_selected.png)
+
  The task IDs provided by the external system will be saved in the specified field
  ("TEXT22" in this example) in the Microsoft Project XML file.
 

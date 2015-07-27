@@ -17,11 +17,11 @@ The following applications can load and save data from/to MSPDI format:
 Task Adapter supports unlimited nesting for tasks in the project plan.
 Microsoft Project configuration dialog (Task Adapter is running locally on your machine, so-called "Local mode"):
 
-<a href="/images/uploads/edit_msp_local.png"><img title="edit_msp_local"  src="/images/uploads/edit_msp_local.png"/></a>
+![Edit MSP local](/images/uploads/edit_msp_local.png)
 
 Microsoft Project configuration dialog (Task Adapter is running on some remote server - "Server mode"):
 
-<img title="edit_msp_server"  src="/images/uploads/edit_msp_server.png"/>
+![Edit MSP server](/images/uploads/edit_msp_server.png)
 
 * **Description** Any text to help you identify this MSP file later.
 * **File name** Full or relative path to the MSP XML file. If the file does not exist, it will be created when
@@ -42,7 +42,7 @@ For example, JIRA's "Due Date" can be saved into "Finish" or "Deadline" in Micro
 The project file will behave differently in Microsoft Project, depending on these settings,
 so you need to analyse the fields mappings and select what's best for you. It all depends on your needs.
 
-<img src="/images/uploads/redmine_msp_fields_mapping.png"/>
+![Redmine - Microsoft Project fields mapping](/images/uploads/redmine_msp_fields_mapping.png)
 
 <a name="fields_mapping"></a>Only the selected fields will be exported when saving data into this MS Project file.
 <a href="#fields_mapping">Link</a>
@@ -63,7 +63,7 @@ E.g. "TEXT1", "TEXT 15", etc.
 * **Estimated Time** "Estimated Time" can be exported to either **"Work"** or **"Duration"** field. Please analyse what you need in your case (please refer to Microsoft Project documentation).
 * <a name="start_date"></a>**Start Date** <a href="#start_date">Link</a>
 
-<img src="/images/uploads/msp_start_date_mapping_options.png"/>
+![Microsoft Project Start Date mapping options](/images/uploads/msp_start_date_mapping_options.png)
 
 Task Adapter can save "Start date" using these constraints recognized by Microsoft Project.
 Set "<no constraint>" if you don't need any constraints on the tasks. In this case when you open the exported MSP file
@@ -74,7 +74,7 @@ Please refer to Microsoft Project documentation to see the differences between "
 * <a name="msp-due-date"></a>**Due Date** [Link](#msp-due-date)
 
 
-<img src="/images/uploads/msp_due_date_mapping_options.png"/>
+![Microsoft Project Due Date mapping options](/images/uploads/msp_due_date_mapping_options.png)
 
 Select **Finish** or **Deadline**.
 
