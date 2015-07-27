@@ -63,13 +63,13 @@ Save/load speed changes pretty much linearly when tasks number changes.
 or just browse "Available projects" list.
 
 Use **"..." button** to see available projects.
-<img src="{{ site.baseurl }}/images/uploads/select_project.png" alt="select Redmine project"/>
+<img src="/images/uploads/select_project.png" alt="select Redmine project"/>
 
 * **<a id="query_id" name="query_id"></a>Query ID** <a href="#query_id">Link</a>
 Task Adapter works with "custom queries" saved in your Redmine.
 Open your Redmine web page, create and save a "custom query" and check its ID using hints on this screenshot:
 
-<img src="{{ site.baseurl }}/images/uploads/where_to_find_query_id_in_redmine.png" alt="find saved query ID in Redmine" />
+<img src="/images/uploads/where_to_find_query_id_in_redmine.png" alt="find saved query ID in Redmine" />
 * <a name="find_assignees"></a>**Find users based on assignee's name** <a href="#find_assignees">Link</a>
  This option can be useful when you need to export a new MSP project file to Redmine.
 

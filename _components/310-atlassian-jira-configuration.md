@@ -36,14 +36,14 @@ Example: http://my_jira_server:8080 . It can also include the URL mapping if JIR
   ![Select JIRA project](/images/uploads/select_project.png)
 
 * **Query ID** This connector uses "search queries" saved in your JIRA .
- You need to create a "search filter" in your JIRA and save it. <img alt="Save Atlassian JIRA filter" src="{{ site.baseurl }}/images/uploads/save_filter.png" border="1" />
+ You need to create a "search filter" in your JIRA and save it. <img alt="Save Atlassian JIRA filter" src="/images/uploads/save_filter.png" border="1" />
 
 JIRA remote API requires admin privileges to load list of existing filters, so Task Adapter does not perform this
 operation (otherwise many people wouldn't be able to use the JIRA Connector).
 Users have to lookup the ID of the new Saved Filter using the JIRA web UI. This can be improved soon, but until then
  please use this instruction to get the saved Filter ID:
 
-<img alt="Atlassian JIRA saved filters" src="{{ site.baseurl }}/images/uploads/find_filter_id.png" border="1" />
+<img alt="Atlassian JIRA saved filters" src="/images/uploads/find_filter_id.png" border="1" />
 
 See <a href="http://confluence.atlassian.com/display/JIRA/Saving+Searches+('Issue+Filters')" target="_blank">JIRA documentation page</a> for more details on how to manage "saved filters" in JIRA.
 
