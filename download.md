@@ -14,7 +14,7 @@ top_level_menu_weight: 8
 * Runs on any machine with Java Runtime Environment (JRE) 1.6+ installed. Most computers already have JRE pre-installed. <a href="http://java.com/download/index.jsp" target="_blank">How to get JRE for Windows?</a>
 
 Recent Google Chrome versions (2015) started showing this warning because of 2 start scripts (Windows and Linux and MacOS) in the distributive:
-![Google Chrome warning](/images/chrome_warning.png)
+![Google Chrome warning]({{baseurl}}/images/chrome_warning.png)
 
 Click the "down" arrow on the right and use "Keep" menu to save the distributive to your computer. Then follow [Installation Guide](/docs/task-adapter-installation).
 
