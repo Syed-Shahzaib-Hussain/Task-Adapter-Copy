@@ -12,17 +12,17 @@ Recent Google Chrome versions started marking the distributive as "uncommon" bec
 (one for Windows and one for Linux/MacOS). If your browser complains about the distributive,
 click the arrow on the right and use "Keep" menu item:
 
-![Google Chrome download warning]({{ site.baseurl }}/images/chrome_warning.png)
+![Google Chrome download warning](/images/chrome_warning.png)
 
 Feel free to explore the start scripts in "bin" folder before launching them:
 they check if minimum Java version is present on your computer and then launch the app.
 
 Unpack the distributive into any folder (any modern operating system can open ZIP files).
-![install task adapter]({{ site.baseurl }}/images/uploads/install.png)
+![install task adapter](/images/uploads/install.png)
 
 Open the folder where you unpacked the application to, then open "bin" sub-folder and run "launcher.bat" (for Windows) or "launcher" (for Linux and Mac OS).
 
-![Task Adapter Launcher]({{ site.baseurl }}/images/uploads/launcher.png)
+![Task Adapter Launcher](/images/uploads/launcher.png)
 
 A default Internet browser will be automatically opened with **http://localhost:10842/ta** URL.
 Note that the **default port** for Task Adapter web application is **10842**.
@@ -45,7 +45,7 @@ Or set it in "launcher.bat" (Windows) and "launcher" files (Linux and Mac OS):
 The default account name is "**admin**" and password is "**admin**".
 
 Use "**Configure**" link in the page header to change system-wide settings.
-![Settings]({{ site.baseurl }}/images/uploads/settings.png)
+![Settings](/images/uploads/settings.png)
 
 Set **"Local / server" mode** setting to "LOCAL" if you are running Task Adapter on your local machine.
 "Server" mode is used for a shared installation when multiple users will need to connect to this Task Adapter.

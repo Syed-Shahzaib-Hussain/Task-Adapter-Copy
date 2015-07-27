@@ -23,16 +23,16 @@ You can then open this XML file in Microsoft Project again, make some changes, t
 These custom fields (like Text22) are not shown in Microsoft Project by default,
  but you can view them by clicking on "Add New column" header and selecting a field you want:
 
-![Add Column]({{ site.baseurl }}/images/uploads/add_column.png)
+![Add Column](/images/uploads/add_column.png)
 
 
 Start typing "Text" to filter out other fields and see all custom ones:
 
 
-![Fields]({{ site.baseurl }}/images/uploads/2015/07/fields.png)
+![Fields](/images/uploads/2015/07/fields.png)
 
 You can see that before the first export from this Microsoft Project XML file Text22 field is empty:
-![Empty field]({{ site.baseurl }}/images/uploads/2015/07/empty.png)
+![Empty field](/images/uploads/2015/07/empty.png)
 
 But once you export data to Redmine or JIRA (or any other system TaskAdapter supports), you can reopen the XML file in Microsoft Project and see that Text22 field contains the IDs produced by the target system (Redmine in this case):
 
@@ -43,12 +43,12 @@ This is how TaskAdapter knows that these tasks were previously exported to the t
 
 You can see the newly created tasks in Redmine web UI:
 
-![Redmine tasks]({{ site.baseurl }}/images/uploads/2015/07/redmine_tasks.jpg)
+![Redmine tasks](/images/uploads/2015/07/redmine_tasks.jpg)
 
 Here are sample IDs produced by JIRA:
 
-![JIRA ids]({{ site.baseurl }}/images/uploads/2015/07/jira_ids.png)
+![JIRA ids](/images/uploads/2015/07/jira_ids.png)
 
 And here is how these tasks look in JIRA web UI:
-![JIRA tasks]({{ site.baseurl }}/images/uploads/2015/07/jira_tasks.jpg)
+![JIRA tasks](/images/uploads/2015/07/jira_tasks.jpg)
 

@@ -16,14 +16,14 @@ So the next version (2.3) will have a single page for mapping fields between dat
 
 Preview of the new interface:
 
-![TaskAdapter new mapping]({{ site.baseurl }}/images/uploads/2012/10/ta_new_mapping1.png)
+![TaskAdapter new mapping](/images/uploads/2012/10/ta_new_mapping1.png)
 
 <p>And here is the current User Interface (version 2.2) for your comparison.
  As you see, fields mappings are stored separately for Redmine and for Microsoft Project here:
 
-![Task Adapter 2.2 Editor Redmine]({{ site.baseurl }}/images/uploads/2012/10/old_ta_ui.png)
+![Task Adapter 2.2 Editor Redmine](/images/uploads/2012/10/old_ta_ui.png)
 
-![Task Adapter 2.2 Editor Microsoft Project]({{ site.baseurl }}/images/uploads/2012/10/old_ta_ui_msp.png)
+![Task Adapter 2.2 Editor Microsoft Project](/images/uploads/2012/10/old_ta_ui_msp.png)
 
 This old interface makes you wonder what happens when you select "Assignee" field in Redmine editor
 and un-select it in Microsoft Project, right? Well, not anymore after we release version 2.3.
