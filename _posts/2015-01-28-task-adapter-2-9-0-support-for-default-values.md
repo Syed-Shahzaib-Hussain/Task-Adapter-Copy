@@ -9,11 +9,17 @@ categories:
 - release
 - microsoft project
 ---
-<p>Main improvements are:</p>
-<p>* support default values for empty fields.</p>
-<p>You can now provide default values to set in target system when there is no corresponding value in the source system. E.g. your source Redmine does not contain "environment" field, but JIRA has "Environment" configured as "required". You can provide "environment 1" as the default value and it will be set to all new JIRA issues in this sync configuration.</p>
-<p><a href="/images/uploads/2015/01/default_values1.png"><img class="alignnone size-full wp-image-736" alt="default_values" src="/images/uploads/2015/01/default_values1.png" width="741" height="390" /></a></p>
-<p>* Redmine, MSP: support "target version" field</p>
-<p>* JIRA, MSP: support "Environment" field</p>
-<p>* localize Login and Export pages.</p>
-<p>* Minor GUI bugfixes.</p>
+
+Main improvements are:
+
+* support default values for empty fields.
+You can now provide default values to set in target system when there is no corresponding value in the source system.
+E.g. your source Redmine does not contain "environment" field, but JIRA has "Environment" configured as "required".
+You can provide "environment 1" as the default value and it will be set to all new JIRA issues in this sync configuration.
+
+![Default values](/images/uploads/default_values1.png)
+
+* Redmine, MSP: support "target version" field
+* JIRA, MSP: support "Environment" field
+* localize Login and Export pages
+* Minor GUI bugfixes
