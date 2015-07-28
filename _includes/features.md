@@ -1,5 +1,3 @@
-Task Adapter transfers tasks between Redmine, ChiliProject, JIRA, Microsoft Project (XML files) and other bug tracking / task management systems. You can transfer data between any two systems from the list below:
-
 ## Supported systems
 
 *   **[JIRA](/docs/atlassian-jira)**

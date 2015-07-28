@@ -358,6 +358,11 @@ font-weight:bold;
   margin-left: 40px;
 }
 
+.section_intro {
+  font-size: 18px;
+  text-align: center;
+}
+
 
 /*--//content-bottom--*/
 /*-- start tabs --*/

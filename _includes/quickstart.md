@@ -1,5 +1,3 @@
-## Here is what you need to start using TaskAdapter:
-
 * [Download TaskAdapter](/download)
 * Unpack the distributive to any folder
 * Launch the application. An Internet browser will be automatically opened with the TaskAdapter start page
