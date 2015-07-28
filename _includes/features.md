@@ -1,4 +1,4 @@
-## Supported systems
+#### Supported systems
 
 *   **[JIRA](/docs/atlassian-jira)**
 *   **[JIRA OnDemand](/docs/atlassian-jira)**
@@ -17,7 +17,7 @@ For example, you can transfer tasks between:
 *   Transfer data between two Redmine servers
 *   etc
 
-## Supported modes.
+#### Supported modes.
 
 *   Between bug trackers - **create** new tasks only.
 *   Between Microsoft Project and a web-based bug tracker (like Redmine, JIRA, etc) - both **create** and **update**.
@@ -25,7 +25,7 @@ For example, you can transfer tasks between:
   (Redmine / JIRA / what have you).
 
 
-## What data can Task Adapter transfer?
+#### What data can Task Adapter transfer?
 
 This varies from system to system (e.g. list of task fields supported for Redmine bug tracker is different
 from the one for Microsoft Project or JIRA). These are the basic task fields supported for most systems:
