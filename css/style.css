@@ -356,6 +356,8 @@ font-weight:bold;
 }
 .front_page_section ul li{
   margin-left: 40px;
+  margin-top: 5px;
+  padding-left: 20px;
 }
 
 .section_intro {
