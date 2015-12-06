@@ -5,7 +5,7 @@
 * Define what fields you want to transfer. This is different for each supported systems.
 * Start data export!
 * Everything works in the demo version? [Buy the license](/buy) and enjoy this awesome application!
-* Question? [Read documentation](/docs) or [Contact us](/contacts) and we will be happy to answer your questions!
+* Questions? [Read documentation](/docs) or [Contact us](/contacts) and we will be happy to answer your questions!
 
 
 
