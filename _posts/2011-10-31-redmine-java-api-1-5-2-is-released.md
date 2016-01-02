@@ -8,7 +8,7 @@ date: '2011-10-31 22:27:00 -0700'
 date_gmt: '2011-10-31 22:27:00 -0700'
 categories:
 - redmine
-- redmine java api
+- redmine-java-api
 ---
 <p><span style="background-color: white; color: #222222; font-family: Arial, Helvetica, sans-serif; text-align: left;">Changes list:</span><br/>
 <div style="border-bottom-width: 0px; border-color: initial; border-image: initial; border-left-width: 0px; border-right-width: 0px; border-style: initial; border-top-width: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: left; vertical-align: baseline;">

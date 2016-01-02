@@ -7,7 +7,7 @@ wordpress_url: http://www.taskadapter.com/?p=621
 date: '2013-10-28 07:03:54 -0700'
 date_gmt: '2013-10-28 07:03:54 -0700'
 categories:
-- microsoft project
+- microsoft-project
 ---
 <p>Hi!
 

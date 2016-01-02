@@ -7,7 +7,7 @@ wordpress_url: http://www.taskadapter.com/2012/05/17/redmine-java-api-1-10-relea
 date: '2012-05-17 03:01:00 -0700'
 date_gmt: '2012-05-17 03:01:00 -0700'
 categories:
-- redmine java api
+- redmine-java-api
 ---
 <p>We released Redmine Java API 1.10.0 today.<br/>Significant changes:<br/>
 <ol>

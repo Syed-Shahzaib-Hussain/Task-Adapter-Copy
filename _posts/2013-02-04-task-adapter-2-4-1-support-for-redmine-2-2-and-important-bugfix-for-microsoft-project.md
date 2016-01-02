@@ -7,7 +7,7 @@ date: '2013-02-04 21:56:00 -0800'
 categories:
 - redmine
 - release
-- microsoft project
+- microsoft-project
 - mantisbt
 ---
 

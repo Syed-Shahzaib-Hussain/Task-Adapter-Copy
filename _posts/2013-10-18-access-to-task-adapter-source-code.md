@@ -7,7 +7,7 @@ wordpress_url: http://www.taskadapter.com/?p=615
 date: '2013-10-18 07:27:45 -0700'
 date_gmt: '2013-10-18 07:27:45 -0700'
 categories:
-- Uncategorized
+- uncategorized
 ---
 <p>Some customers have expressed interest in having access to the Task Adapter source code so they can make custom modifications.
 

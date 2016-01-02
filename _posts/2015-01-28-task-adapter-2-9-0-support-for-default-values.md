@@ -5,9 +5,9 @@ author: admin
 date: '2015-01-28 05:33:41 -0800'
 categories:
 - redmine
-- atlassian jira
+- atlassian-jira
 - release
-- microsoft project
+- microsoft-project
 ---
 
 Main improvements are:

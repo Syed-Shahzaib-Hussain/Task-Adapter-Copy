@@ -9,7 +9,7 @@ date: '2011-02-09 22:27:00 -0800'
 date_gmt: '2011-02-09 22:27:00 -0800'
 categories:
 - redmine
-- redmine java api
+- redmine-java-api
 ---
 
 **Redmine Java API 1.0.5 release:**

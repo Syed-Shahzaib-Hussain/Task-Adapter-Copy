@@ -4,7 +4,7 @@ title: 'Task Adapter 2.7.1: bug fixing for JIRA'
 author: admin
 date: '2014-02-23 07:18:55 -0800'
 categories:
-- atlassian jira
+- atlassian-jira
 - release
 ---
 

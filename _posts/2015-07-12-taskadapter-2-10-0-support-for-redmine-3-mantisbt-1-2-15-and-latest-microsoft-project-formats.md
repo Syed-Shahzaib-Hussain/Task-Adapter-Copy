@@ -5,9 +5,9 @@ title: 'TaskAdapter 2.10.0: Support for Redmine 3, MantisBT 1.2.15 and latest Mi
 date: '2015-07-12 17:40:54 -0700'
 categories:
 - redmine
-- redmine java api
+- redmine-java-api
 - release
-- microsoft project
+- microsoft-project
 - mantisbt
 ---
 <p>Good news, everyone! Big changes in TaskAdapter 2.10.0:</p>

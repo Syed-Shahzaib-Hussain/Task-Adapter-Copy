@@ -8,7 +8,7 @@ date: '2013-11-20 22:36:09 -0800'
 date_gmt: '2013-11-20 22:36:09 -0800'
 categories:
 - redmine
-- atlassian jira
+- atlassian-jira
 - release
 ---
 <p>TaskAdapter 2.6.1 has two minor fixes:</p>

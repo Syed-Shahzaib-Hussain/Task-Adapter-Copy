@@ -5,7 +5,7 @@ author: admin
 date: '2011-02-10 22:23:00 -0800'
 categories:
 - redmine
-- redmine java api
+- redmine-java-api
 ---
 
 This is outdated. The project is now on Github.

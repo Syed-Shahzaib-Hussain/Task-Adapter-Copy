@@ -1627,3 +1627,24 @@ span.menu {
 	  padding: 2px 0px;
 	}
 }
+
+/*SHAHZAIB ADDITION*/
+.flex-item li {
+margin: 10px 10px;
+}
+
+#categories{
+    float: right;
+    background-color: #FFFFFF;
+    padding: 55px;
+    border-radius: 5px;
+    border: 2px solid #E0E0E0;
+    margin: 0 15px;
+}
+
+#categories li{
+  list-style: none;
+  font-size: 16px;
+  margin: 10px 0;
+}
+/*SHAHZAIB ADDIGION ENDS HERE*/

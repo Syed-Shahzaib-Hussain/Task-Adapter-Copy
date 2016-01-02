@@ -8,7 +8,7 @@ date: '2011-05-20 21:20:00 -0700'
 date_gmt: '2011-05-20 21:20:00 -0700'
 categories:
 - redmine
-- atlassian jira
+- atlassian-jira
 - release
 ---
 <p><span style="background-color: white; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px;">Highlights:</span><br/>

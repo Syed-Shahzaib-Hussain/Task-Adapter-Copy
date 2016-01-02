@@ -5,7 +5,7 @@ author: admin
 date: '2012-04-06 02:46:00 -0700'
 categories:
 - release
-- microsoft project
+- microsoft-project
 ---
 
 Task Adapter 1.7.2 is ready for [download](/download).

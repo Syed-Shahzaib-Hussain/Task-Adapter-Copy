@@ -4,7 +4,7 @@ title: 'Task Adapter 2.11.0: Microsoft Project improvements'
 date: '2015-09-15 21:35:00 -0700'
 categories:
 - release
-- microsoft project
+- microsoft-project
 ---
 
 Good news, everyone!

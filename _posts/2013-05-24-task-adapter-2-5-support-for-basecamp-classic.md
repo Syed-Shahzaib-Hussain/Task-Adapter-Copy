@@ -9,6 +9,6 @@ date_gmt: '2013-05-24 02:18:00 -0700'
 categories:
 - release
 - basecamp
-- basecamp classic
+- basecamp-classic
 ---
 <p>The latest Task Adapter release brings support for <a href="http://basecamp.com/classic">Basecamp Classic</a> project management system.</p>

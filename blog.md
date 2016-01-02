@@ -1,12 +1,11 @@
 ---
-layout: page
+layout: post
 top_level_menu_weight: 30
 title: Blog
 permalink: /blog/
 ---
-
+ 
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
   <ul class="post-list">
     {% for post in site.posts %}
       *

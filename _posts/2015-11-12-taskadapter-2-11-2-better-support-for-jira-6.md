@@ -4,7 +4,7 @@ title: 'TaskAdapter 2.11.2: better support for JIRA 6+'
 date: '2015-11-12 00:00:00 -0700'
 categories:
 - release
-- atlassian jira
+- atlassian-jira
 ---
 
 TaskAdapter 2.11.2 brings improved support for default settings in JIRA 6 installations.
