@@ -8,7 +8,7 @@ date: '2013-11-06 18:30:58 -0800'
 date_gmt: '2013-11-06 18:30:58 -0800'
 categories:
 - redmine
-- redmine java api
+- redmine-java-api
 - release
 ---
 <p>Today we released Redmine Java API v. 1.22.</p>

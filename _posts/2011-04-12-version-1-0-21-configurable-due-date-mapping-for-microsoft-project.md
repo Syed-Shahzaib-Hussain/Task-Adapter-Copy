@@ -6,7 +6,7 @@ date: '2011-04-12 21:22:00 -0700'
 categories:
 - redmine
 - release
-- microsoft project
+- microsoft-project
 ---
 
 * Configurable "Due Date" field mapping to "Finish" or "Deadline" in Microsoft Project (see the screenshot below).

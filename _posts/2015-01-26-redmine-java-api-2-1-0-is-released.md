@@ -4,7 +4,7 @@ title: Redmine Java API 2.1.0 is released
 author: admin
 date: '2015-01-26 09:50:51 -0800'
 categories:
-- redmine java api
+- redmine-java-api
 ---
 
 We just released a new version of Redmine Java API: 2.1.0.

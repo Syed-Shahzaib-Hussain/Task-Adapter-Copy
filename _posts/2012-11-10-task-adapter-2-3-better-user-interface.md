@@ -7,9 +7,9 @@ wordpress_url: http://www.taskadapter.com/?p=434
 date: '2012-11-10 04:20:53 -0800'
 date_gmt: '2012-11-10 04:20:53 -0800'
 categories:
-- atlassian jira
+- atlassian-jira
 - release
-- microsoft project
+- microsoft-project
 - mantisbt
 - github
 ---

@@ -5,9 +5,9 @@ author: admin
 date: '2012-01-03 10:05:00 -0800'
 categories:
 - redmine
-- atlassian jira
+- atlassian-jira
 - release
-- microsoft project
+- microsoft-project
 - mantisbt
 ---
 

@@ -5,7 +5,7 @@ author: admin
 date: '2011-12-02 19:52:00 -0800'
 categories:
 - redmine
-- atlassian jira
+- atlassian-jira
 - release
 - mantisbt
 - github

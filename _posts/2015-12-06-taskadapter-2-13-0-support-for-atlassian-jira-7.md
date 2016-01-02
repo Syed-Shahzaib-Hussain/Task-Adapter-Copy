@@ -3,7 +3,7 @@ layout: post
 title: TaskAdapter 2.13.0&#58; support for Atlassian JIRA 7
 categories:
 - release
-- atlassian jira
+- atlassian-jira
 ---
 
 The new TaskAdapter release brings support for Atlassian JIRA 7.

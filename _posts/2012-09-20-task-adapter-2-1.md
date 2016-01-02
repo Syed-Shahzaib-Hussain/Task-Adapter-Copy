@@ -8,9 +8,9 @@ date: '2012-09-20 01:13:33 -0700'
 date_gmt: '2012-09-20 01:13:33 -0700'
 categories:
 - redmine
-- atlassian jira
+- atlassian-jira
 - release
-- microsoft project
+- microsoft-project
 - github
 ---
 <p>Task Adapter 2.1 looks and behaves similarly to version 2.0, but its internals were significantly redesigned for better maintainability and testability.</p>

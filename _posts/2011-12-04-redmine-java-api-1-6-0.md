@@ -8,7 +8,7 @@ date: '2011-12-04 23:32:00 -0800'
 date_gmt: '2011-12-04 23:32:00 -0800'
 categories:
 - redmine
-- redmine java api
+- redmine-java-api
 ---
 <p>Redmine Java API 1.6.0 is released. <a href="http://search.maven.org/#artifactdetails%7Ccom.googlecode%7Credmine-java-api%7C1.6.0%7Cjar">Available in Maven Central</a>.<br/><br/>
 <div class="list" style="background-color: white; border-left-color: rgb(187, 187, 187); border-left-style: solid; border-left-width: 1px; border-right-color: rgb(187, 187, 187); border-right-style: solid; border-right-width: 1px; border-top-color: rgb(187, 187, 187); border-top-style: solid; border-top-width: 1px; font-family: arial, sans-serif; font-size: 14px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; padding-top: 5px;">

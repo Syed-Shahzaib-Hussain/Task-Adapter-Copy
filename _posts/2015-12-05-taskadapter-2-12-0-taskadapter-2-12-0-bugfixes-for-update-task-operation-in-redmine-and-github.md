@@ -4,7 +4,7 @@ title: 'TaskAdapter 2.12.0: bugfixes for “update task” operation in Redmine 
 date: '2015-12-05 16:35:00 -0700'
 categories:
 - release
-- microsoft project
+- microsoft-project
 - redmine
 - github
 ---

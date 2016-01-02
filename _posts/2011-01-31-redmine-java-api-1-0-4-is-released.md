@@ -8,7 +8,7 @@ date: '2011-01-31 22:28:00 -0800'
 date_gmt: '2011-01-31 22:28:00 -0800'
 categories:
 - redmine
-- redmine java api
+- redmine-java-api
 ---
 
 New features:

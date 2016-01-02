@@ -7,7 +7,7 @@ date: '2012-04-02 19:04:00 -0700'
 categories:
 - redmine
 - release
-- microsoft project
+- microsoft-project
 ---
 
 Task Adapter 1.7.1 is ready for [download](/download).

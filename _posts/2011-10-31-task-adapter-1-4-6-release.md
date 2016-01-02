@@ -8,9 +8,9 @@ date: '2011-10-31 18:55:00 -0700'
 date_gmt: '2011-10-31 18:55:00 -0700'
 categories:
 - redmine
-- atlassian jira
+- atlassian-jira
 - release
-- microsoft project
+- microsoft-project
 ---
 <p><br/>
 <div style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; margin-bottom: 25px;"><span style="background-color: white;">**Task Adapter 1.4.6** is<a href="/download"> ready for download</a>.</span></div>

@@ -9,7 +9,7 @@ date_gmt: '2013-03-10 19:33:31 -0700'
 categories:
 - redmine
 - release
-- microsoft project
+- microsoft-project
 - basecamp
 ---
 <p>Task Adapter 2.4.2 brings several bug fixes, most importantly -</p>

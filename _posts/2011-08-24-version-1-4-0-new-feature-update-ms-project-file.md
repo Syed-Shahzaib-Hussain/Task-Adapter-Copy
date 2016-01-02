@@ -5,9 +5,9 @@ author: admin
 date: '2011-08-24 19:06:00 -0700'
 categories:
 - redmine
-- atlassian jira
+- atlassian-jira
 - release
-- microsoft project
+- microsoft-project
 ---
 
 <div style="background-color: white; border-bottom-width: 0px; border-color: initial; border-image: initial; border-left-width: 0px; border-right-width: 0px; border-style: initial; border-top-width: 0px; color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: 13px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: left; vertical-align: baseline;">Task Adapter 1.4.0 is ready for download: <a href="/download" style="border-bottom-width: 0px; border-color: initial; border-image: initial; border-left-width: 0px; border-right-width: 0px; border-style: initial; border-top-width: 0px; color: #6611cc; cursor: pointer; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-decoration: none; vertical-align: baseline;" target="_blank">http://www.<wbr></wbr>taskadapter.com/download</a></div>

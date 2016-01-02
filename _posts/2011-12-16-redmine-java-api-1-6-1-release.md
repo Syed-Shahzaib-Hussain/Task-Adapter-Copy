@@ -8,7 +8,7 @@ date: '2011-12-16 23:38:00 -0800'
 date_gmt: '2011-12-16 23:38:00 -0800'
 categories:
 - redmine
-- redmine java api
+- redmine-java-api
 ---
 <div id="cursorarea" style="background-color: white;"><span style="font-family: arial, sans-serif;"><span style="font-size: 14px;">Redmine Java API 1.6.1 is released,<a href="http://search.maven.org/#artifactdetails%7Ccom.googlecode%7Credmine-java-api%7C1.6.1%7Cjar"> available in Maven Central </a>as usual.</span></span><br/><span style="font-family: arial, sans-serif;"><span style="font-size: 14px;">It is updated to support Redmine 1.3.0.</span></span><br/><span style="font-family: arial, sans-serif;"><span style="font-size: 14px;"><br/></span></span><br/>
 <div style="font-family: arial, sans-serif; font-size: 14px;"><br/></div>

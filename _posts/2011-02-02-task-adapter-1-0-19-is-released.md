@@ -8,7 +8,7 @@ date: '2011-02-02 22:26:00 -0800'
 date_gmt: '2011-02-02 22:26:00 -0800'
 categories:
 - redmine
-- atlassian jira
+- atlassian-jira
 - release
 ---
 

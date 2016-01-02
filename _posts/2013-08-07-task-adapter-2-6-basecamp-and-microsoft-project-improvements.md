@@ -8,8 +8,8 @@ date: '2013-08-07 07:11:49 -0700'
 date_gmt: '2013-08-07 07:11:49 -0700'
 categories:
 - release
-- microsoft project
-- basecamp classic
+- microsoft-project
+- basecamp-classic
 ---
 <p>Task Adapter 2.6 release changelog:</p>
 
