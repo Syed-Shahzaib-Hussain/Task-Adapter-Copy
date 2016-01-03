@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 'TaskAdapter 2.10.0: Support for Redmine 3, MantisBT 1.2.15 and latest Microsoft
-  Project formats'
+title: 'TaskAdapter 2.10.0: Support for Redmine 3, MantisBT 1.2.15 and latest Microsoft Project formats'
 date: '2015-07-12 17:40:54 -0700'
 categories:
 - redmine

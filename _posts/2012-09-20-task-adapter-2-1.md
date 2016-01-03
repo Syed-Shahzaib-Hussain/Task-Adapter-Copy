@@ -15,7 +15,7 @@ categories:
 ---
 <p>Task Adapter 2.1 looks and behaves similarly to version 2.0, but its internals were significantly redesigned for better maintainability and testability.</p>
 <p>The main user-facing changes in 2.1 release are:</p>
-<h4>User Interface</h4></p>
+<h4>User Interface</h4>
 <ul>
 * Many small bugfixes. A major interface improvement is planned for the next version (2.2).
 

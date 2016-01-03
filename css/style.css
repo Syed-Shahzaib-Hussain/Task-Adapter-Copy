@@ -14,7 +14,7 @@ h1,h2,h3,h4,h5,h6{
     margin: 30px 0 0 0;	   
 }
 p{
-  margin: 23px;
+  margin: 23px 0;
 }
 ul,label{
     margin: 15px 0 0;
@@ -890,11 +890,15 @@ a.hvr-rectangle-out {
   backface-visibility: hidden;
   -moz-osx-font-smoothing: grayscale;
   position: relative;
-background:#f27b47;
+  background: #f27b47;
   -webkit-transition-property: color;
   transition-property: color;
   -webkit-transition-duration: 0.3s;
   transition-duration: 0.3s;
+  padding: 12px;
+  border-radius: 5px;
+  color: #FFF;
+  font-weight: 900;
 }
 a.hvr-rectangle-out:before {
   content: "";
@@ -1646,11 +1650,11 @@ margin: 10px 10px;
 
 #categories {
     float: right;
-    background-color: #FFFFFF;
-    padding: 45px;
-    border-radius: 5px;
-    border: 2px solid #E0E0E0;
+    padding: 10px 45px 30px;
     margin: 0 5px;
+    background-color: #f9f9f9;
+    border: 1px solid #e5e5e5;
+    border-radius: 4px;
 }
 
 #categories li{
@@ -1661,7 +1665,7 @@ margin: 10px 10px;
 
 .post{
     background: #fff;
-    padding: 25px 30px;
+    padding: 25px 70px;
     margin: 24px 0;
     border-radius: 5px;
     min-height: 700px;
@@ -1670,4 +1674,42 @@ margin: 10px 10px;
   li {
     list-style: none;
   }
+  .paypalImage{
+    margin: 20px 0 0;
+  }
+  a.hvr-rectangle-out:visited {
+    color:#fff!important;
+  }
+
+  .post-list > li {
+    margin-bottom: 65px;
+  }
+
+  .post-content h2 {
+    font-size: 32px;
+    margin: 10px 0 0;
+    font-weight: 600;
+}
+  }
+
+  .docs {
+    background: #FFF;
+    margin-top: 25px;
+    padding: 50px;
+    border-radius: 5px;
+    font-weight: 600;
+  }
+
+  .flex-item {
+    flex: 100%;
+  }
+
+  .post-list li p {
+    margin: 10px 0;
+    font-size: 15px;
+  }
+.post-meta {
+    font-size: 12px;
+    color: #828282;
+}
 /*SHAHZAIB ADDITION ENDS HERE*/
