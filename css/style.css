@@ -17,8 +17,8 @@ p{
   margin: 23px;
 }
 ul,label{
-	margin:0;
-	padding:0;
+    margin: 15px 0 0;
+    padding: 0;
 }
 body a:hover{
 	text-decoration:none;
@@ -360,7 +360,7 @@ color:#424448;
 font-weight:bold;
 }
 .front_page_section ul li{
-  margin-left: 40px;
+/*  margin-left: 40px;*/
   margin-top: 5px;
   padding-left: 20px;
 }
@@ -368,6 +368,7 @@ font-weight:bold;
 .section_intro {
   font-size: 18px;
   text-align: center;
+  padding: 25px 0;
 }
 
 
@@ -1643,18 +1644,30 @@ span.menu {
 margin: 10px 10px;
 }
 
-#categories{
+#categories {
     float: right;
     background-color: #FFFFFF;
-    padding: 55px;
+    padding: 45px;
     border-radius: 5px;
     border: 2px solid #E0E0E0;
-    margin: 0 15px;
+    margin: 0 5px;
 }
 
 #categories li{
   list-style: none;
   font-size: 16px;
-  margin: 10px 0;
+  margin: 0 2px 0 15px;
 }
-/*SHAHZAIB ADDIGION ENDS HERE*/
+
+.post{
+    background: #fff;
+    padding: 25px 30px;
+    margin: 24px 0;
+    border-radius: 5px;
+    min-height: 700px;
+  }
+
+  li {
+    list-style: none;
+  }
+/*SHAHZAIB ADDITION ENDS HERE*/
