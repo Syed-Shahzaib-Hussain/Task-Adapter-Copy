@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
  Transfer tasks between any of the following systems:
  Basecamp, Basecamp Classic, ChiliProject, GitHub, JIRA, JIRA OnDemand, MantisBT,      Microsoft Project, Redmine.
 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/Task-Adapter-Copy/" # the subpath of your site, e.g. /blog/
 url: "http://www.taskadapter.com" # the base hostname & protocol for your site
 
 # WordPress usually follows this format for URLs:  http://domain.com/year/month/day/title
